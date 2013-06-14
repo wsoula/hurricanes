@@ -1,0 +1,63 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "32.50", "LON": "-74.80", "TIME": "05/26/03Z", "WIND": "40", "PR": "1001", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/03Z" }, "geometry": { "type": "Point", "coordinates": [ -74.80, 32.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "1A", "LAT": "32.40", "LON": "-75.10", "TIME": "05/26/06Z", "WIND": "40", "PR": "1001", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.10, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "32.30", "LON": "-75.60", "TIME": "05/26/09Z", "WIND": "40", "PR": "1001", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/09Z" }, "geometry": { "type": "Point", "coordinates": [ -75.60, 32.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2A", "LAT": "32.00", "LON": "-76.00", "TIME": "05/26/12Z", "WIND": "40", "PR": "1001", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.00, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "31.60", "LON": "-76.30", "TIME": "05/26/15Z", "WIND": "40", "PR": "1001", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/15Z" }, "geometry": { "type": "Point", "coordinates": [ -76.30, 31.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3A", "LAT": "31.60", "LON": "-76.30", "TIME": "05/26/18Z", "WIND": "40", "PR": "1001", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -76.30, 31.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "31.50", "LON": "-76.60", "TIME": "05/26/21Z", "WIND": "40", "PR": "999", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/26/21Z" }, "geometry": { "type": "Point", "coordinates": [ -76.60, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4A", "LAT": "31.10", "LON": "-76.90", "TIME": "05/27/00Z", "WIND": "45", "PR": "998", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -76.90, 31.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "30.80", "LON": "-77.20", "TIME": "05/27/03Z", "WIND": "45", "PR": "998", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/03Z" }, "geometry": { "type": "Point", "coordinates": [ -77.20, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5A", "LAT": "30.80", "LON": "-77.90", "TIME": "05/27/06Z", "WIND": "45", "PR": "998", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "30.50", "LON": "-78.80", "TIME": "05/27/09Z", "WIND": "45", "PR": "998", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/09Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6A", "LAT": "30.30", "LON": "-78.90", "TIME": "05/27/12Z", "WIND": "45", "PR": "998", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.90, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "30.10", "LON": "-79.60", "TIME": "05/27/15Z", "WIND": "50", "PR": "998", "STAT": "SUBTROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/15Z" }, "geometry": { "type": "Point", "coordinates": [ -79.60, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7A", "LAT": "30.10", "LON": "-79.90", "TIME": "05/27/18Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -79.90, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "30.00", "LON": "-80.30", "TIME": "05/27/21Z", "WIND": "55", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/27/21Z" }, "geometry": { "type": "Point", "coordinates": [ -80.30, 30.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8A", "LAT": "30.10", "LON": "-80.50", "TIME": "05/28/00Z", "WIND": "60", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -80.50, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "30.20", "LON": "-81.10", "TIME": "05/28/03Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/28/03Z" }, "geometry": { "type": "Point", "coordinates": [ -81.10, 30.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9A", "LAT": "30.30", "LON": "-81.60", "TIME": "05/28/06Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.60, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "30.30", "LON": "-82.00", "TIME": "05/28/09Z", "WIND": "45", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/28/09Z" }, "geometry": { "type": "Point", "coordinates": [ -82.00, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10A", "LAT": "30.40", "LON": "-82.50", "TIME": "05/28/12Z", "WIND": "35", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012-BERYL.geojson", "DATES": "05/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.50, 30.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "30.50", "LON": "-82.70", "TIME": "05/28/15Z", "WIND": "30", "PR": "1000", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/28/15Z" }, "geometry": { "type": "Point", "coordinates": [ -82.70, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "30.80", "LON": "-83.10", "TIME": "05/28/21Z", "WIND": "25", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/28/21Z" }, "geometry": { "type": "Point", "coordinates": [ -83.10, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "30.80", "LON": "-83.40", "TIME": "05/29/03Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/29/03Z" }, "geometry": { "type": "Point", "coordinates": [ -83.40, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "30.90", "LON": "-83.40", "TIME": "05/29/09Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/29/09Z" }, "geometry": { "type": "Point", "coordinates": [ -83.40, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "31.50", "LON": "-82.90", "TIME": "05/29/15Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/29/15Z" }, "geometry": { "type": "Point", "coordinates": [ -82.90, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "31.80", "LON": "-82.50", "TIME": "05/29/21Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/29/21Z" }, "geometry": { "type": "Point", "coordinates": [ -82.50, 31.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "32.20", "LON": "-81.30", "TIME": "05/30/03Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/30/03Z" }, "geometry": { "type": "Point", "coordinates": [ -81.30, 32.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "33.10", "LON": "-79.80", "TIME": "05/30/09Z", "WIND": "30", "PR": "1001", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/30/09Z" }, "geometry": { "type": "Point", "coordinates": [ -79.80, 33.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "34.20", "LON": "-78.00", "TIME": "05/30/15Z", "WIND": "30", "PR": "1000", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-BERYL.geojson", "DATES": "05/30/15Z" }, "geometry": { "type": "Point", "coordinates": [ -78.00, 34.20 ] } }
+
+]
+}
