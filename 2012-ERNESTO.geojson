@@ -1,0 +1,135 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.20", "LON": "-49.00", "TIME": "08/01/21Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/01/21Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 12.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "1A", "LAT": "12.40", "LON": "-49.80", "TIME": "08/02/00Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -49.80, 12.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "12.60", "LON": "-50.60", "TIME": "08/02/03Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/03Z" }, "geometry": { "type": "Point", "coordinates": [ -50.60, 12.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2A", "LAT": "12.70", "LON": "-51.50", "TIME": "08/02/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -51.50, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.80", "LON": "-52.60", "TIME": "08/02/09Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/09Z" }, "geometry": { "type": "Point", "coordinates": [ -52.60, 12.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3A", "LAT": "12.90", "LON": "-53.50", "TIME": "08/02/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 12.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.00", "LON": "-54.30", "TIME": "08/02/15Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/15Z" }, "geometry": { "type": "Point", "coordinates": [ -54.30, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4A", "LAT": "13.10", "LON": "-55.30", "TIME": "08/02/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -55.30, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "12.80", "LON": "-56.60", "TIME": "08/02/21Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/02/21Z" }, "geometry": { "type": "Point", "coordinates": [ -56.60, 12.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5A", "LAT": "13.30", "LON": "-57.40", "TIME": "08/03/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.40, 13.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "13.40", "LON": "-58.30", "TIME": "08/03/03Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/03Z" }, "geometry": { "type": "Point", "coordinates": [ -58.30, 13.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6A", "LAT": "13.60", "LON": "-59.70", "TIME": "08/03/06Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -59.70, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.50", "LON": "-60.70", "TIME": "08/03/09Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/09Z" }, "geometry": { "type": "Point", "coordinates": [ -60.70, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7A", "LAT": "13.50", "LON": "-61.50", "TIME": "08/03/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.50, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.70", "LON": "-62.30", "TIME": "08/03/15Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "13.90", "LON": "-64.10", "TIME": "08/03/21Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/03/21Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "13.90", "LON": "-65.60", "TIME": "08/04/03Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/04/03Z" }, "geometry": { "type": "Point", "coordinates": [ -65.60, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "14.10", "LON": "-67.20", "TIME": "08/04/09Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/04/09Z" }, "geometry": { "type": "Point", "coordinates": [ -67.20, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "14.40", "LON": "-68.70", "TIME": "08/04/15Z", "WIND": "45", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/04/15Z" }, "geometry": { "type": "Point", "coordinates": [ -68.70, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12A", "LAT": "14.50", "LON": "-69.30", "TIME": "08/04/18Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 14.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "14.80", "LON": "-70.10", "TIME": "08/04/21Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/04/21Z" }, "geometry": { "type": "Point", "coordinates": [ -70.10, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13A", "LAT": "14.90", "LON": "-71.00", "TIME": "08/05/00Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -71.00, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.40", "LON": "-72.70", "TIME": "08/05/03Z", "WIND": "50", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/03Z" }, "geometry": { "type": "Point", "coordinates": [ -72.70, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14A", "LAT": "15.00", "LON": "-73.70", "TIME": "08/05/06Z", "WIND": "50", "PR": "1009", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -73.70, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "15.10", "LON": "-74.80", "TIME": "08/05/09Z", "WIND": "45", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/09Z" }, "geometry": { "type": "Point", "coordinates": [ -74.80, 15.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15A", "LAT": "15.00", "LON": "-76.00", "TIME": "08/05/12Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.00, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "15.00", "LON": "-77.10", "TIME": "08/05/15Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/15Z" }, "geometry": { "type": "Point", "coordinates": [ -77.10, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16A", "LAT": "15.20", "LON": "-77.90", "TIME": "08/05/18Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 15.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "15.30", "LON": "-78.60", "TIME": "08/05/21Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/05/21Z" }, "geometry": { "type": "Point", "coordinates": [ -78.60, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17A", "LAT": "15.40", "LON": "-79.60", "TIME": "08/06/00Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -79.60, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "15.00", "LON": "-79.70", "TIME": "08/06/03Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/03Z" }, "geometry": { "type": "Point", "coordinates": [ -79.70, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18A", "LAT": "15.00", "LON": "-79.90", "TIME": "08/06/06Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -79.90, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "15.10", "LON": "-80.50", "TIME": "08/06/09Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/09Z" }, "geometry": { "type": "Point", "coordinates": [ -80.50, 15.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19A", "LAT": "15.20", "LON": "-81.00", "TIME": "08/06/12Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 15.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "15.80", "LON": "-80.50", "TIME": "08/06/15Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/15Z" }, "geometry": { "type": "Point", "coordinates": [ -80.50, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20A", "LAT": "16.20", "LON": "-81.10", "TIME": "08/06/18Z", "WIND": "55", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.10, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "16.20", "LON": "-81.60", "TIME": "08/06/21Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/06/21Z" }, "geometry": { "type": "Point", "coordinates": [ -81.60, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21A", "LAT": "16.50", "LON": "-82.10", "TIME": "08/07/00Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.10, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "17.00", "LON": "-82.70", "TIME": "08/07/03Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/03Z" }, "geometry": { "type": "Point", "coordinates": [ -82.70, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22A", "LAT": "17.30", "LON": "-83.30", "TIME": "08/07/06Z", "WIND": "55", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.30, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "17.50", "LON": "-83.90", "TIME": "08/07/09Z", "WIND": "55", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/09Z" }, "geometry": { "type": "Point", "coordinates": [ -83.90, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23A", "LAT": "17.80", "LON": "-84.40", "TIME": "08/07/12Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.40, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "18.10", "LON": "-85.00", "TIME": "08/07/15Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/15Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "18.50", "LON": "-85.50", "TIME": "08/07/18Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.50, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "18.80", "LON": "-86.20", "TIME": "08/07/21Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012-ERNESTO.geojson", "DATES": "08/07/21Z" }, "geometry": { "type": "Point", "coordinates": [ -86.20, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26A", "LAT": "18.70", "LON": "-87.10", "TIME": "08/08/00Z", "WIND": "75", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -87.10, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "18.70", "LON": "-87.70", "TIME": "08/08/03Z", "WIND": "75", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/03Z" }, "geometry": { "type": "Point", "coordinates": [ -87.70, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27A", "LAT": "18.80", "LON": "-88.30", "TIME": "08/08/06Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -88.30, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "18.90", "LON": "-89.00", "TIME": "08/08/09Z", "WIND": "60", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/09Z" }, "geometry": { "type": "Point", "coordinates": [ -89.00, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28A", "LAT": "18.80", "LON": "-89.80", "TIME": "08/08/12Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -89.80, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "18.70", "LON": "-90.40", "TIME": "08/08/15Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/15Z" }, "geometry": { "type": "Point", "coordinates": [ -90.40, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29A", "LAT": "18.80", "LON": "-90.90", "TIME": "08/08/18Z", "WIND": "40", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -90.90, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "18.90", "LON": "-91.50", "TIME": "08/08/21Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/08/21Z" }, "geometry": { "type": "Point", "coordinates": [ -91.50, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30A", "LAT": "18.70", "LON": "-91.50", "TIME": "08/09/00Z", "WIND": "45", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -91.50, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "18.80", "LON": "-91.80", "TIME": "08/09/03Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/03Z" }, "geometry": { "type": "Point", "coordinates": [ -91.80, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31A", "LAT": "18.80", "LON": "-93.00", "TIME": "08/09/06Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -93.00, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "18.70", "LON": "-93.60", "TIME": "08/09/09Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/09Z" }, "geometry": { "type": "Point", "coordinates": [ -93.60, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32A", "LAT": "18.30", "LON": "-94.00", "TIME": "08/09/12Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -94.00, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "18.20", "LON": "-94.30", "TIME": "08/09/15Z", "WIND": "50", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/15Z" }, "geometry": { "type": "Point", "coordinates": [ -94.30, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33A", "LAT": "18.20", "LON": "-94.60", "TIME": "08/09/18Z", "WIND": "50", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -94.60, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "18.10", "LON": "-95.20", "TIME": "08/09/21Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/09/21Z" }, "geometry": { "type": "Point", "coordinates": [ -95.20, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34A", "LAT": "18.20", "LON": "-95.80", "TIME": "08/10/00Z", "WIND": "40", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.80, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "18.10", "LON": "-96.70", "TIME": "08/10/03Z", "WIND": "35", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2012-ERNESTO.geojson", "DATES": "08/10/03Z" }, "geometry": { "type": "Point", "coordinates": [ -96.70, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35A", "LAT": "18.00", "LON": "-97.20", "TIME": "08/10/06Z", "WIND": "30", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.20, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "18.00", "LON": "-97.80", "TIME": "08/10/09Z", "WIND": "30", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-ERNESTO.geojson", "DATES": "08/10/09Z" }, "geometry": { "type": "Point", "coordinates": [ -97.80, 18.00 ] } }
+
+]
+}
