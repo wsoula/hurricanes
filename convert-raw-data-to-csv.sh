@@ -7,4 +7,4 @@ if [ -z $2 ]; then
   echo must enter a filename to save as
   exit 1
 fi
-cat $1 | sed -E "s%[ ]+%,%g" > $2.csv
+tail -n+3 $1 | sed -E "s%[ ]+%,%g" > $2.csv

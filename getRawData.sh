@@ -10,3 +10,4 @@ fi
 year=$1
 name=$2
 wget http://weather.unisys.com/hurricane/atlantic/$year/$name/track.dat -O $year-$name-raw-data
+cat $year-$name-raw-data | sed -E "s%^[ ]+%%g">$year-$name-no-leading-space
