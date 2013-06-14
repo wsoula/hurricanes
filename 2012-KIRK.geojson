@@ -1,0 +1,45 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "23.80", "LON": "-43.90", "TIME": "08/28/21Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-KIRK.geojson", "DATES": "08/28/21Z" }, "geometry": { "type": "Point", "coordinates": [ -43.90, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "23.90", "LON": "-45.00", "TIME": "08/29/03Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "08/29/03Z" }, "geometry": { "type": "Point", "coordinates": [ -45.00, 23.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "24.30", "LON": "-45.30", "TIME": "08/29/09Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "08/29/09Z" }, "geometry": { "type": "Point", "coordinates": [ -45.30, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "24.70", "LON": "-46.90", "TIME": "08/29/15Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "08/29/15Z" }, "geometry": { "type": "Point", "coordinates": [ -46.90, 24.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "25.30", "LON": "-47.60", "TIME": "08/29/21Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "08/29/21Z" }, "geometry": { "type": "Point", "coordinates": [ -47.60, 25.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "25.90", "LON": "-48.30", "TIME": "08/30/03Z", "WIND": "50", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "08/30/03Z" }, "geometry": { "type": "Point", "coordinates": [ -48.30, 25.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "26.50", "LON": "-49.00", "TIME": "08/30/09Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "08/30/09Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "27.20", "LON": "-49.50", "TIME": "08/30/15Z", "WIND": "65", "PR": "989", "STAT": "HURRICANE-1", "NAME": "2012-KIRK.geojson", "DATES": "08/30/15Z" }, "geometry": { "type": "Point", "coordinates": [ -49.50, 27.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "28.20", "LON": "-50.30", "TIME": "08/30/21Z", "WIND": "80", "PR": "982", "STAT": "HURRICANE-1", "NAME": "2012-KIRK.geojson", "DATES": "08/30/21Z" }, "geometry": { "type": "Point", "coordinates": [ -50.30, 28.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "29.00", "LON": "-50.70", "TIME": "08/31/03Z", "WIND": "85", "PR": "980", "STAT": "HURRICANE-2", "NAME": "2012-KIRK.geojson", "DATES": "08/31/03Z" }, "geometry": { "type": "Point", "coordinates": [ -50.70, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "30.10", "LON": "-50.90", "TIME": "08/31/09Z", "WIND": "90", "PR": "970", "STAT": "HURRICANE-2", "NAME": "2012-KIRK.geojson", "DATES": "08/31/09Z" }, "geometry": { "type": "Point", "coordinates": [ -50.90, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "31.20", "LON": "-50.80", "TIME": "08/31/15Z", "WIND": "90", "PR": "972", "STAT": "HURRICANE-2", "NAME": "2012-KIRK.geojson", "DATES": "08/31/15Z" }, "geometry": { "type": "Point", "coordinates": [ -50.80, 31.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "32.20", "LON": "-50.20", "TIME": "08/31/21Z", "WIND": "80", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2012-KIRK.geojson", "DATES": "08/31/21Z" }, "geometry": { "type": "Point", "coordinates": [ -50.20, 32.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "33.90", "LON": "-49.50", "TIME": "09/01/03Z", "WIND": "70", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2012-KIRK.geojson", "DATES": "09/01/03Z" }, "geometry": { "type": "Point", "coordinates": [ -49.50, 33.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "35.30", "LON": "-48.20", "TIME": "09/01/09Z", "WIND": "65", "PR": "989", "STAT": "HURRICANE-1", "NAME": "2012-KIRK.geojson", "DATES": "09/01/09Z" }, "geometry": { "type": "Point", "coordinates": [ -48.20, 35.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "37.40", "LON": "-46.50", "TIME": "09/01/15Z", "WIND": "60", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "09/01/15Z" }, "geometry": { "type": "Point", "coordinates": [ -46.50, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "39.50", "LON": "-44.30", "TIME": "09/01/21Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "09/01/21Z" }, "geometry": { "type": "Point", "coordinates": [ -44.30, 39.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "41.20", "LON": "-41.80", "TIME": "09/02/03Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "09/02/03Z" }, "geometry": { "type": "Point", "coordinates": [ -41.80, 41.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "43.50", "LON": "-39.20", "TIME": "09/02/09Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "09/02/09Z" }, "geometry": { "type": "Point", "coordinates": [ -39.20, 43.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "46.20", "LON": "-36.50", "TIME": "09/02/15Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012-KIRK.geojson", "DATES": "09/02/15Z" }, "geometry": { "type": "Point", "coordinates": [ -36.50, 46.20 ] } }
+
+]
+}
