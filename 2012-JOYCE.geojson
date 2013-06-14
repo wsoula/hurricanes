@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.40", "LON": "-36.30", "TIME": "08/22/15Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-JOYCE.geojson", "DATES": "08/22/15Z" }, "geometry": { "type": "Point", "coordinates": [ -36.30, 12.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "13.10", "LON": "-37.40", "TIME": "08/22/21Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-JOYCE.geojson", "DATES": "08/22/21Z" }, "geometry": { "type": "Point", "coordinates": [ -37.40, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "13.80", "LON": "-39.50", "TIME": "08/23/03Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-JOYCE.geojson", "DATES": "08/23/03Z" }, "geometry": { "type": "Point", "coordinates": [ -39.50, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "14.50", "LON": "-40.60", "TIME": "08/23/09Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-JOYCE.geojson", "DATES": "08/23/09Z" }, "geometry": { "type": "Point", "coordinates": [ -40.60, 14.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "15.20", "LON": "-42.20", "TIME": "08/23/15Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-JOYCE.geojson", "DATES": "08/23/15Z" }, "geometry": { "type": "Point", "coordinates": [ -42.20, 15.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "15.90", "LON": "-42.50", "TIME": "08/23/21Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-JOYCE.geojson", "DATES": "08/23/21Z" }, "geometry": { "type": "Point", "coordinates": [ -42.50, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "16.30", "LON": "-43.70", "TIME": "08/24/03Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-JOYCE.geojson", "DATES": "08/24/03Z" }, "geometry": { "type": "Point", "coordinates": [ -43.70, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "16.90", "LON": "-45.00", "TIME": "08/24/09Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-JOYCE.geojson", "DATES": "08/24/09Z" }, "geometry": { "type": "Point", "coordinates": [ -45.00, 16.90 ] } }
+
+]
+}
