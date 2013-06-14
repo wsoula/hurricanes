@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "13.70", "LON": "-43.80", "TIME": "08/09/21Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/09/21Z" }, "geometry": { "type": "Point", "coordinates": [ -43.80, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "13.70", "LON": "-45.50", "TIME": "08/10/03Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/10/03Z" }, "geometry": { "type": "Point", "coordinates": [ -45.50, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "13.60", "LON": "-47.20", "TIME": "08/10/09Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/10/09Z" }, "geometry": { "type": "Point", "coordinates": [ -47.20, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.70", "LON": "-49.50", "TIME": "08/10/15Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/10/15Z" }, "geometry": { "type": "Point", "coordinates": [ -49.50, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "13.70", "LON": "-51.90", "TIME": "08/10/21Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/10/21Z" }, "geometry": { "type": "Point", "coordinates": [ -51.90, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5A", "LAT": "13.80", "LON": "-52.80", "TIME": "08/11/00Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -52.80, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "13.90", "LON": "-54.10", "TIME": "08/11/03Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/11/03Z" }, "geometry": { "type": "Point", "coordinates": [ -54.10, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6A", "LAT": "13.90", "LON": "-55.20", "TIME": "08/11/06Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -55.20, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "14.00", "LON": "-56.10", "TIME": "08/11/09Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/11/09Z" }, "geometry": { "type": "Point", "coordinates": [ -56.10, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "14.00", "LON": "-57.50", "TIME": "08/11/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -57.50, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "20.60", "LON": "-96.10", "TIME": "08/17/21Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012-HELENE.geojson", "DATES": "08/17/21Z" }, "geometry": { "type": "Point", "coordinates": [ -96.10, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9A", "LAT": "20.70", "LON": "-96.10", "TIME": "08/18/00Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-HELENE.geojson", "DATES": "08/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -96.10, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "21.00", "LON": "-96.40", "TIME": "08/18/03Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-HELENE.geojson", "DATES": "08/18/03Z" }, "geometry": { "type": "Point", "coordinates": [ -96.40, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10A", "LAT": "21.20", "LON": "-96.40", "TIME": "08/18/06Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-HELENE.geojson", "DATES": "08/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -96.40, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "21.60", "LON": "-97.00", "TIME": "08/18/09Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-HELENE.geojson", "DATES": "08/18/09Z" }, "geometry": { "type": "Point", "coordinates": [ -97.00, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11A", "LAT": "21.90", "LON": "-97.50", "TIME": "08/18/12Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-HELENE.geojson", "DATES": "08/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -97.50, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "22.00", "LON": "-98.00", "TIME": "08/18/15Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/18/15Z" }, "geometry": { "type": "Point", "coordinates": [ -98.00, 22.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "22.60", "LON": "-98.80", "TIME": "08/18/21Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-HELENE.geojson", "DATES": "08/18/21Z" }, "geometry": { "type": "Point", "coordinates": [ -98.80, 22.60 ] } }
+
+]
+}
