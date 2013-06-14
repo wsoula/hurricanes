@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "32.20", "LON": "-77.70", "TIME": "05/19/21Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/19/21Z" }, "geometry": { "type": "Point", "coordinates": [ -77.70, 32.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "31.80", "LON": "-78.50", "TIME": "05/20/03Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/03Z" }, "geometry": { "type": "Point", "coordinates": [ -78.50, 31.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2A", "LAT": "31.80", "LON": "-78.80", "TIME": "05/20/06Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 31.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "31.70", "LON": "-78.90", "TIME": "05/20/09Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/09Z" }, "geometry": { "type": "Point", "coordinates": [ -78.90, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3A", "LAT": "31.70", "LON": "-79.30", "TIME": "05/20/12Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -79.30, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "31.50", "LON": "-79.70", "TIME": "05/20/15Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/15Z" }, "geometry": { "type": "Point", "coordinates": [ -79.70, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4A", "LAT": "31.30", "LON": "-79.90", "TIME": "05/20/18Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -79.90, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "30.90", "LON": "-80.00", "TIME": "05/20/21Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/20/21Z" }, "geometry": { "type": "Point", "coordinates": [ -80.00, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "30.50", "LON": "-80.10", "TIME": "05/21/03Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/21/03Z" }, "geometry": { "type": "Point", "coordinates": [ -80.10, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "30.40", "LON": "-79.70", "TIME": "05/21/09Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/21/09Z" }, "geometry": { "type": "Point", "coordinates": [ -79.70, 30.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "30.40", "LON": "-78.80", "TIME": "05/21/15Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/21/15Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 30.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "30.50", "LON": "-77.90", "TIME": "05/21/21Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012-alberto.geojson", "DATES": "05/21/21Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "30.90", "LON": "-76.50", "TIME": "05/22/03Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-alberto.geojson", "DATES": "05/22/03Z" }, "geometry": { "type": "Point", "coordinates": [ -76.50, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "32.00", "LON": "-75.50", "TIME": "05/22/09Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012-alberto.geojson", "DATES": "05/22/09Z" }, "geometry": { "type": "Point", "coordinates": [ -75.50, 32.00 ] } }
+
+]
+}
