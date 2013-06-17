@@ -1,0 +1,135 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "8.30", "LON": "-17.50", "TIME": "09/23/00Z", "WIND": "20", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -17.50, 8.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "8.60", "LON": "-19.10", "TIME": "09/23/06Z", "WIND": "20", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -19.10, 8.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "9.00", "LON": "-20.60", "TIME": "09/23/12Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -20.60, 9.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "9.50", "LON": "-22.00", "TIME": "09/23/18Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -22.00, 9.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "10.40", "LON": "-23.30", "TIME": "09/24/00Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -23.30, 10.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "11.00", "LON": "-24.70", "TIME": "09/24/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -24.70, 11.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "11.10", "LON": "-26.10", "TIME": "09/24/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -26.10, 11.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "11.20", "LON": "-27.30", "TIME": "09/24/18Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -27.30, 11.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "11.50", "LON": "-28.40", "TIME": "09/25/00Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -28.40, 11.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "12.10", "LON": "-29.40", "TIME": "09/25/06Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.40, 12.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "12.70", "LON": "-30.30", "TIME": "09/25/12Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -30.30, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "13.20", "LON": "-31.20", "TIME": "09/25/18Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -31.20, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "13.80", "LON": "-32.10", "TIME": "09/26/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -32.10, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "14.40", "LON": "-33.00", "TIME": "09/26/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -33.00, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "14.90", "LON": "-33.60", "TIME": "09/26/12Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -33.60, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "15.30", "LON": "-34.10", "TIME": "09/26/18Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -34.10, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "15.40", "LON": "-34.40", "TIME": "09/27/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -34.40, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "15.50", "LON": "-34.70", "TIME": "09/27/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -34.70, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "15.60", "LON": "-35.20", "TIME": "09/27/12Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -35.20, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "15.70", "LON": "-35.80", "TIME": "09/27/18Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -35.80, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "15.80", "LON": "-36.60", "TIME": "09/28/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -36.60, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "16.00", "LON": "-37.40", "TIME": "09/28/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -37.40, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "16.20", "LON": "-38.40", "TIME": "09/28/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.40, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "16.60", "LON": "-39.40", "TIME": "09/28/18Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.40, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "17.10", "LON": "-40.50", "TIME": "09/29/00Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.50, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "17.80", "LON": "-41.50", "TIME": "09/29/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.50, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "18.70", "LON": "-42.30", "TIME": "09/29/12Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -42.30, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "19.70", "LON": "-43.00", "TIME": "09/29/18Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.00, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "20.70", "LON": "-43.60", "TIME": "09/30/00Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -43.60, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "21.70", "LON": "-44.20", "TIME": "09/30/06Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -44.20, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "22.50", "LON": "-44.80", "TIME": "09/30/12Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -44.80, 22.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "23.20", "LON": "-45.60", "TIME": "09/30/18Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "09/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -45.60, 23.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "23.80", "LON": "-46.30", "TIME": "10/01/00Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -46.30, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "24.10", "LON": "-47.00", "TIME": "10/01/06Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -47.00, 24.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "24.40", "LON": "-47.60", "TIME": "10/01/12Z", "WIND": "60", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -47.60, 24.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "24.80", "LON": "-48.40", "TIME": "10/01/18Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -48.40, 24.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "25.20", "LON": "-49.30", "TIME": "10/02/00Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -49.30, 25.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "25.80", "LON": "-50.30", "TIME": "10/02/06Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -50.30, 25.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "26.20", "LON": "-51.20", "TIME": "10/02/12Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -51.20, 26.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "26.30", "LON": "-52.30", "TIME": "10/02/18Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -52.30, 26.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "26.20", "LON": "-53.20", "TIME": "10/03/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.20, 26.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "25.60", "LON": "-54.00", "TIME": "10/03/06Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -54.00, 25.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "24.90", "LON": "-54.80", "TIME": "10/03/12Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -54.80, 24.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "24.30", "LON": "-55.60", "TIME": "10/03/18Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -55.60, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "23.80", "LON": "-56.60", "TIME": "10/04/00Z", "WIND": "65", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -56.60, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "23.70", "LON": "-57.70", "TIME": "10/04/06Z", "WIND": "65", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.70, 23.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "23.80", "LON": "-58.70", "TIME": "10/04/12Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.70, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "24.00", "LON": "-59.60", "TIME": "10/04/18Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -59.60, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "24.30", "LON": "-60.20", "TIME": "10/05/00Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -60.20, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "24.70", "LON": "-60.70", "TIME": "10/05/06Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.70, 24.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "25.20", "LON": "-61.00", "TIME": "10/05/12Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 25.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "25.50", "LON": "-61.10", "TIME": "10/05/18Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -61.10, 25.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "53", "LAT": "25.90", "LON": "-61.10", "TIME": "10/06/00Z", "WIND": "60", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.10, 25.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "54", "LAT": "26.50", "LON": "-61.00", "TIME": "10/06/06Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "55", "LAT": "27.40", "LON": "-60.40", "TIME": "10/06/12Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -60.40, 27.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "56", "LAT": "28.20", "LON": "-59.70", "TIME": "10/06/18Z", "WIND": "80", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -59.70, 28.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "57", "LAT": "28.70", "LON": "-58.80", "TIME": "10/07/00Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.80, 28.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "58", "LAT": "29.00", "LON": "-57.70", "TIME": "10/07/06Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.70, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "59", "LAT": "29.30", "LON": "-56.50", "TIME": "10/07/12Z", "WIND": "80", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.50, 29.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "60", "LAT": "29.70", "LON": "-55.10", "TIME": "10/07/18Z", "WIND": "70", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -55.10, 29.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "61", "LAT": "30.10", "LON": "-53.50", "TIME": "10/08/00Z", "WIND": "65", "PR": "986", "STAT": "HURRICANE-1", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "62", "LAT": "30.90", "LON": "-51.40", "TIME": "10/08/06Z", "WIND": "60", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -51.40, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "63", "LAT": "32.30", "LON": "-48.70", "TIME": "10/08/12Z", "WIND": "60", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -48.70, 32.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "64", "LAT": "34.40", "LON": "-46.00", "TIME": "10/08/18Z", "WIND": "50", "PR": "987", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.00, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "65", "LAT": "37.50", "LON": "-43.60", "TIME": "10/09/00Z", "WIND": "45", "PR": "987", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/PHILIPPE/2011-PHILIPPE.geojson", "DATES": "10/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -43.60, 37.50 ] } }
+
+]
+}
