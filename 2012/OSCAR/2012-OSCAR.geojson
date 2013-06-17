@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "17.30", "LON": "-41.50", "TIME": "10/03/15Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/03/15Z" }, "geometry": { "type": "Point", "coordinates": [ -41.50, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.60", "LON": "-42.00", "TIME": "10/03/21Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/03/21Z" }, "geometry": { "type": "Point", "coordinates": [ -42.00, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "19.30", "LON": "-42.20", "TIME": "10/04/03Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/04/03Z" }, "geometry": { "type": "Point", "coordinates": [ -42.20, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "20.00", "LON": "-42.50", "TIME": "10/04/09Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/04/09Z" }, "geometry": { "type": "Point", "coordinates": [ -42.50, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "20.60", "LON": "-41.70", "TIME": "10/04/15Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/04/15Z" }, "geometry": { "type": "Point", "coordinates": [ -41.70, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "21.30", "LON": "-41.00", "TIME": "10/04/21Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/04/21Z" }, "geometry": { "type": "Point", "coordinates": [ -41.00, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "22.00", "LON": "-40.20", "TIME": "10/05/03Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/05/03Z" }, "geometry": { "type": "Point", "coordinates": [ -40.20, 22.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "23.00", "LON": "-38.90", "TIME": "10/05/09Z", "WIND": "45", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/OSCAR/2012-OSCAR.geojson", "DATES": "10/05/09Z" }, "geometry": { "type": "Point", "coordinates": [ -38.90, 23.00 ] } }
+
+]
+}

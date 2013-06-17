@@ -9,5 +9,7 @@ if [ -z $2 ]; then
 fi
 year=$1
 name=$2
-wget http://weather.unisys.com/hurricane/atlantic/$year/$name/track.dat -O $year-$name-raw-data
-cat $year-$name-raw-data | sed -E "s%^[ ]+%%g">$year-$name-no-leading-space
+dir=$1/$2
+mkdir -p $dir
+wget http://weather.unisys.com/hurricane/atlantic/$year/$name/track.dat -O $dir/$year-$name-raw-data
+cat $dir/$year-$name-raw-data | sed -E "s%^[ ]+%%g">$dir/$year-$name-no-leading-space

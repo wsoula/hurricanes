@@ -1,0 +1,77 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "15.00", "LON": "-63.10", "TIME": "10/12/23Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/12/23Z" }, "geometry": { "type": "Point", "coordinates": [ -63.10, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "15.40", "LON": "-63.40", "TIME": "10/13/03Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/03Z" }, "geometry": { "type": "Point", "coordinates": [ -63.40, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2A", "LAT": "15.60", "LON": "-63.60", "TIME": "10/13/06Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.60, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "15.70", "LON": "-64.20", "TIME": "10/13/09Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/09Z" }, "geometry": { "type": "Point", "coordinates": [ -64.20, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3A", "LAT": "15.50", "LON": "-63.90", "TIME": "10/13/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.90, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "15.90", "LON": "-64.10", "TIME": "10/13/15Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/15Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4A", "LAT": "16.50", "LON": "-63.90", "TIME": "10/13/18Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.90, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "17.30", "LON": "-63.30", "TIME": "10/13/21Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/13/21Z" }, "geometry": { "type": "Point", "coordinates": [ -63.30, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5A", "LAT": "17.90", "LON": "-63.50", "TIME": "10/14/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -63.50, 17.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.40", "LON": "-63.60", "TIME": "10/14/03Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/03Z" }, "geometry": { "type": "Point", "coordinates": [ -63.60, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6A", "LAT": "18.70", "LON": "-63.60", "TIME": "10/14/06Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.60, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "19.40", "LON": "-63.80", "TIME": "10/14/09Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/09Z" }, "geometry": { "type": "Point", "coordinates": [ -63.80, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7A", "LAT": "19.50", "LON": "-63.80", "TIME": "10/14/12Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.80, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "20.00", "LON": "-64.10", "TIME": "10/14/15Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/15Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8A", "LAT": "20.30", "LON": "-64.40", "TIME": "10/14/18Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.40, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "20.70", "LON": "-64.70", "TIME": "10/14/21Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/14/21Z" }, "geometry": { "type": "Point", "coordinates": [ -64.70, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9A", "LAT": "21.40", "LON": "-64.50", "TIME": "10/15/00Z", "WIND": "55", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.50, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "21.60", "LON": "-64.80", "TIME": "10/15/03Z", "WIND": "60", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/03Z" }, "geometry": { "type": "Point", "coordinates": [ -64.80, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10A", "LAT": "22.10", "LON": "-65.10", "TIME": "10/15/06Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.10, 22.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "22.50", "LON": "-65.30", "TIME": "10/15/09Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/09Z" }, "geometry": { "type": "Point", "coordinates": [ -65.30, 22.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11A", "LAT": "22.50", "LON": "-65.50", "TIME": "10/15/12Z", "WIND": "60", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.50, 22.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "23.00", "LON": "-65.70", "TIME": "10/15/15Z", "WIND": "60", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/15Z" }, "geometry": { "type": "Point", "coordinates": [ -65.70, 23.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12A", "LAT": "23.50", "LON": "-65.80", "TIME": "10/15/18Z", "WIND": "60", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -65.80, 23.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "24.10", "LON": "-65.80", "TIME": "10/15/21Z", "WIND": "60", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/15/21Z" }, "geometry": { "type": "Point", "coordinates": [ -65.80, 24.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13A", "LAT": "24.50", "LON": "-65.70", "TIME": "10/16/00Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.70, 24.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "25.10", "LON": "-65.50", "TIME": "10/16/03Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/03Z" }, "geometry": { "type": "Point", "coordinates": [ -65.50, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14A", "LAT": "25.90", "LON": "-65.30", "TIME": "10/16/06Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.30, 25.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "26.60", "LON": "-65.00", "TIME": "10/16/09Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/09Z" }, "geometry": { "type": "Point", "coordinates": [ -65.00, 26.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15A", "LAT": "27.30", "LON": "-65.00", "TIME": "10/16/12Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.00, 27.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "28.60", "LON": "-64.50", "TIME": "10/16/15Z", "WIND": "80", "PR": "971", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/15Z" }, "geometry": { "type": "Point", "coordinates": [ -64.50, 28.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16A", "LAT": "29.50", "LON": "-64.40", "TIME": "10/16/18Z", "WIND": "75", "PR": "969", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.40, 29.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "30.60", "LON": "-63.80", "TIME": "10/16/21Z", "WIND": "75", "PR": "969", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/16/21Z" }, "geometry": { "type": "Point", "coordinates": [ -63.80, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17A", "LAT": "31.40", "LON": "-63.10", "TIME": "10/17/00Z", "WIND": "75", "PR": "969", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -63.10, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "32.40", "LON": "-62.50", "TIME": "10/17/03Z", "WIND": "75", "PR": "970", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/17/03Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "35.20", "LON": "-60.70", "TIME": "10/17/09Z", "WIND": "70", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/17/09Z" }, "geometry": { "type": "Point", "coordinates": [ -60.70, 35.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "37.50", "LON": "-59.10", "TIME": "10/17/15Z", "WIND": "65", "PR": "975", "STAT": "HURRICANE-1", "NAME": "2012/RAFAEL/2012-RAFAEL.geojson", "DATES": "10/17/15Z" }, "geometry": { "type": "Point", "coordinates": [ -59.10, 37.50 ] } }
+
+]
+}

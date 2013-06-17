@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "25.40", "LON": "-72.60", "TIME": "10/11/15Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/11/15Z" }, "geometry": { "type": "Point", "coordinates": [ -72.60, 25.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "25.80", "LON": "-72.50", "TIME": "10/11/21Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/11/21Z" }, "geometry": { "type": "Point", "coordinates": [ -72.50, 25.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "25.90", "LON": "-72.50", "TIME": "10/12/03Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/12/03Z" }, "geometry": { "type": "Point", "coordinates": [ -72.50, 25.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "25.10", "LON": "-72.50", "TIME": "10/12/09Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/12/09Z" }, "geometry": { "type": "Point", "coordinates": [ -72.50, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "25.50", "LON": "-72.00", "TIME": "10/12/15Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/12/15Z" }, "geometry": { "type": "Point", "coordinates": [ -72.00, 25.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "25.50", "LON": "-72.10", "TIME": "10/12/21Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/12/21Z" }, "geometry": { "type": "Point", "coordinates": [ -72.10, 25.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "25.40", "LON": "-72.10", "TIME": "10/13/03Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/13/03Z" }, "geometry": { "type": "Point", "coordinates": [ -72.10, 25.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "25.50", "LON": "-71.90", "TIME": "10/13/09Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/PATTY/2012-PATTY.geojson", "DATES": "10/13/09Z" }, "geometry": { "type": "Point", "coordinates": [ -71.90, 25.50 ] } }
+
+]
+}

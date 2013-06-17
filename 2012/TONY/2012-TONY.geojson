@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "22.30", "LON": "-51.70", "TIME": "10/22/21Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/22/21Z" }, "geometry": { "type": "Point", "coordinates": [ -51.70, 22.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "23.00", "LON": "-51.80", "TIME": "10/23/03Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/23/03Z" }, "geometry": { "type": "Point", "coordinates": [ -51.80, 23.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "24.10", "LON": "-51.50", "TIME": "10/23/09Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/23/09Z" }, "geometry": { "type": "Point", "coordinates": [ -51.50, 24.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "25.70", "LON": "-51.00", "TIME": "10/23/15Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/23/15Z" }, "geometry": { "type": "Point", "coordinates": [ -51.00, 25.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "26.30", "LON": "-50.00", "TIME": "10/23/21Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/23/21Z" }, "geometry": { "type": "Point", "coordinates": [ -50.00, 26.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "26.70", "LON": "-49.20", "TIME": "10/24/03Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/24/03Z" }, "geometry": { "type": "Point", "coordinates": [ -49.20, 26.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "27.40", "LON": "-47.90", "TIME": "10/24/09Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/24/09Z" }, "geometry": { "type": "Point", "coordinates": [ -47.90, 27.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "28.50", "LON": "-45.40", "TIME": "10/24/15Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/24/15Z" }, "geometry": { "type": "Point", "coordinates": [ -45.40, 28.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "29.60", "LON": "-42.50", "TIME": "10/24/21Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/24/21Z" }, "geometry": { "type": "Point", "coordinates": [ -42.50, 29.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "30.10", "LON": "-40.30", "TIME": "10/25/03Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/25/03Z" }, "geometry": { "type": "Point", "coordinates": [ -40.30, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "30.40", "LON": "-38.40", "TIME": "10/25/09Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/25/09Z" }, "geometry": { "type": "Point", "coordinates": [ -38.40, 30.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "31.00", "LON": "-36.30", "TIME": "10/25/15Z", "WIND": "35", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/TONY/2012-TONY.geojson", "DATES": "10/25/15Z" }, "geometry": { "type": "Point", "coordinates": [ -36.30, 31.00 ] } }
+
+]
+}

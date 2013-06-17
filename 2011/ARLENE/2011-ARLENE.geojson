@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "19.90", "LON": "-92.80", "TIME": "06/28/06Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -92.80, 19.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "20.30", "LON": "-93.10", "TIME": "06/28/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -93.10, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "20.70", "LON": "-93.50", "TIME": "06/28/18Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -93.50, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "21.00", "LON": "-93.90", "TIME": "06/29/00Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -93.90, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "21.20", "LON": "-94.50", "TIME": "06/29/06Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -94.50, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "21.30", "LON": "-95.30", "TIME": "06/29/12Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -95.30, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "21.40", "LON": "-95.60", "TIME": "06/29/18Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "21.60", "LON": "-96.10", "TIME": "06/30/00Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -96.10, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "21.60", "LON": "-97.00", "TIME": "06/30/06Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.00, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "21.60", "LON": "-97.30", "TIME": "06/30/12Z", "WIND": "55", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -97.30, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "21.50", "LON": "-98.10", "TIME": "06/30/18Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "06/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -98.10, 21.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "21.10", "LON": "-98.70", "TIME": "07/01/00Z", "WIND": "30", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/ARLENE/2011-ARLENE.geojson", "DATES": "07/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -98.70, 21.10 ] } }
+
+]
+}
