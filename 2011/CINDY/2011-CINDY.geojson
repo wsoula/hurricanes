@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "33.00", "LON": "-59.50", "TIME": "07/20/06Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -59.50, 33.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "33.40", "LON": "-57.00", "TIME": "07/20/12Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -57.00, 33.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "34.50", "LON": "-54.70", "TIME": "07/20/18Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -54.70, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "35.80", "LON": "-52.50", "TIME": "07/21/00Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -52.50, 35.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "37.40", "LON": "-50.50", "TIME": "07/21/06Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -50.50, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "39.40", "LON": "-48.40", "TIME": "07/21/12Z", "WIND": "55", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -48.40, 39.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "41.30", "LON": "-46.10", "TIME": "07/21/18Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.10, 41.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "42.60", "LON": "-43.70", "TIME": "07/22/00Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -43.70, 42.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "43.80", "LON": "-41.20", "TIME": "07/22/06Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.20, 43.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "45.10", "LON": "-38.60", "TIME": "07/22/12Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.60, 45.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "46.70", "LON": "-35.60", "TIME": "07/22/18Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -35.60, 46.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "48.40", "LON": "-32.10", "TIME": "07/23/00Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -32.10, 48.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "50.00", "LON": "-27.80", "TIME": "07/23/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/CINDY/2011-CINDY.geojson", "DATES": "07/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -27.80, 50.00 ] } }
+
+]
+}
