@@ -7,6 +7,6 @@ if [ -z $2 ]; then
   echo must enter a storm name second
   exit 1
 fi
-git add $1-$2-no-leading-space $1-$2-raw-data $1-$2.csv $1-$2.geojson
+git add $1/$2
 git commit -m "Adding $1 $2"
 git push origin master
