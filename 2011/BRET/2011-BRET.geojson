@@ -1,0 +1,63 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "30.70", "LON": "-79.70", "TIME": "07/16/06Z", "WIND": "20", "PR": "1014", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -79.70, 30.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "30.30", "LON": "-79.40", "TIME": "07/16/12Z", "WIND": "20", "PR": "1014", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -79.40, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "29.80", "LON": "-79.10", "TIME": "07/16/18Z", "WIND": "20", "PR": "1014", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -79.10, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "29.30", "LON": "-78.80", "TIME": "07/17/00Z", "WIND": "20", "PR": "1014", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 29.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "28.80", "LON": "-78.50", "TIME": "07/17/06Z", "WIND": "20", "PR": "1014", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.50, 28.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "28.30", "LON": "-78.30", "TIME": "07/17/12Z", "WIND": "25", "PR": "1013", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.30, 28.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "27.80", "LON": "-78.20", "TIME": "07/17/18Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.20, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "27.50", "LON": "-78.10", "TIME": "07/18/00Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -78.10, 27.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "27.10", "LON": "-78.00", "TIME": "07/18/06Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.00, 27.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "27.40", "LON": "-77.50", "TIME": "07/18/12Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -77.50, 27.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "27.80", "LON": "-77.10", "TIME": "07/18/18Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.10, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "28.40", "LON": "-76.80", "TIME": "07/19/00Z", "WIND": "60", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -76.80, 28.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "29.00", "LON": "-76.60", "TIME": "07/19/06Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -76.60, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "29.50", "LON": "-76.20", "TIME": "07/19/12Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.20, 29.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "30.00", "LON": "-75.80", "TIME": "07/19/18Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -75.80, 30.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "30.50", "LON": "-75.30", "TIME": "07/20/00Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.30, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "30.90", "LON": "-74.70", "TIME": "07/20/06Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -74.70, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "31.40", "LON": "-74.10", "TIME": "07/20/12Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -74.10, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "31.90", "LON": "-73.40", "TIME": "07/20/18Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -73.40, 31.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "32.40", "LON": "-72.70", "TIME": "07/21/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -72.70, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "33.00", "LON": "-72.00", "TIME": "07/21/06Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.00, 33.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "33.50", "LON": "-71.20", "TIME": "07/21/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -71.20, 33.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "34.10", "LON": "-70.10", "TIME": "07/21/18Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -70.10, 34.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "35.10", "LON": "-68.90", "TIME": "07/22/00Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.90, 35.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "36.20", "LON": "-67.40", "TIME": "07/22/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.40, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "37.30", "LON": "-65.20", "TIME": "07/22/12Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.20, 37.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "38.30", "LON": "-62.80", "TIME": "07/22/18Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.80, 38.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "39.20", "LON": "-60.10", "TIME": "07/23/00Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -60.10, 39.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "39.80", "LON": "-57.00", "TIME": "07/23/06Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/BRET/2011-BRET.geojson", "DATES": "07/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.00, 39.80 ] } }
+
+]
+}
