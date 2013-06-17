@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "marker-color": "#f44",  "properties": { "ADV": "1", "LAT": "25.30", "LON": "-86.50", "TIME": "06/05/22Z", "WIND": "35", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/05/22Z" }, "geometry": { "type": "Point", "coordinates": [ -86.50, 25.30 ] } }
+{ "type": "Feature",  "properties": { "ADV": "1", "LAT": "25.30", "LON": "-86.50", "TIME": "06/05/22Z", "WIND": "35", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/05/22Z", "marker-color": "#CC0033" }, "geometry": { "type": "Point", "coordinates": [ -86.50, 25.30 ] } }
 ,
 { "type": "Feature", "properties": { "ADV": "1A", "LAT": "25.50", "LON": "-86.50", "TIME": "06/06/00Z", "WIND": "35", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.50, 25.50 ] } }
 ,
