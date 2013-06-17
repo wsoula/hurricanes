@@ -1,0 +1,137 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "14.10", "LON": "-43.40", "TIME": "08/30/15Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "08/30/15Z" }, "geometry": { "type": "Point", "coordinates": [ -43.40, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "14.40", "LON": "-45.30", "TIME": "08/30/21Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "08/30/21Z" }, "geometry": { "type": "Point", "coordinates": [ -45.30, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "14.70", "LON": "-46.80", "TIME": "08/31/03Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "08/31/03Z" }, "geometry": { "type": "Point", "coordinates": [ -46.80, 14.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "15.20", "LON": "-47.80", "TIME": "08/31/09Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "08/31/09Z" }, "geometry": { "type": "Point", "coordinates": [ -47.80, 15.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "16.20", "LON": "-49.10", "TIME": "08/31/15Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "08/31/15Z" }, "geometry": { "type": "Point", "coordinates": [ -49.10, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "16.70", "LON": "-51.00", "TIME": "08/31/21Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "08/31/21Z" }, "geometry": { "type": "Point", "coordinates": [ -51.00, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "17.40", "LON": "-52.80", "TIME": "09/01/03Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/01/03Z" }, "geometry": { "type": "Point", "coordinates": [ -52.80, 17.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "17.80", "LON": "-53.50", "TIME": "09/01/09Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/01/09Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "18.30", "LON": "-55.70", "TIME": "09/01/15Z", "WIND": "60", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/01/15Z" }, "geometry": { "type": "Point", "coordinates": [ -55.70, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "19.20", "LON": "-57.30", "TIME": "09/01/21Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/01/21Z" }, "geometry": { "type": "Point", "coordinates": [ -57.30, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "20.20", "LON": "-58.40", "TIME": "09/02/03Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/02/03Z" }, "geometry": { "type": "Point", "coordinates": [ -58.40, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "20.80", "LON": "-59.50", "TIME": "09/02/09Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/02/09Z" }, "geometry": { "type": "Point", "coordinates": [ -59.50, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "21.30", "LON": "-61.10", "TIME": "09/02/15Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/02/15Z" }, "geometry": { "type": "Point", "coordinates": [ -61.10, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "22.40", "LON": "-61.30", "TIME": "09/02/21Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/02/21Z" }, "geometry": { "type": "Point", "coordinates": [ -61.30, 22.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "23.40", "LON": "-61.70", "TIME": "09/03/03Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/03/03Z" }, "geometry": { "type": "Point", "coordinates": [ -61.70, 23.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "23.80", "LON": "-62.10", "TIME": "09/03/09Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/03/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.10, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "24.40", "LON": "-63.10", "TIME": "09/03/15Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/03/15Z" }, "geometry": { "type": "Point", "coordinates": [ -63.10, 24.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "24.00", "LON": "-63.10", "TIME": "09/03/21Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/03/21Z" }, "geometry": { "type": "Point", "coordinates": [ -63.10, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "24.00", "LON": "-63.10", "TIME": "09/04/03Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/04/03Z" }, "geometry": { "type": "Point", "coordinates": [ -63.10, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "24.70", "LON": "-62.50", "TIME": "09/04/09Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/04/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 24.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "25.00", "LON": "-62.50", "TIME": "09/04/15Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/04/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "25.30", "LON": "-62.60", "TIME": "09/04/21Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/04/21Z" }, "geometry": { "type": "Point", "coordinates": [ -62.60, 25.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "25.20", "LON": "-62.80", "TIME": "09/05/03Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/05/03Z" }, "geometry": { "type": "Point", "coordinates": [ -62.80, 25.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "25.40", "LON": "-62.90", "TIME": "09/05/09Z", "WIND": "55", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/05/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.90, 25.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "25.70", "LON": "-62.80", "TIME": "09/05/15Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/05/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.80, 25.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "25.90", "LON": "-62.70", "TIME": "09/05/21Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/05/21Z" }, "geometry": { "type": "Point", "coordinates": [ -62.70, 25.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "26.20", "LON": "-62.50", "TIME": "09/06/03Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/06/03Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 26.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "26.30", "LON": "-62.40", "TIME": "09/06/09Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/06/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 26.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "26.40", "LON": "-62.40", "TIME": "09/06/15Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/06/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 26.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "26.50", "LON": "-62.20", "TIME": "09/06/21Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/06/21Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30A", "LAT": "26.50", "LON": "-62.20", "TIME": "09/07/00Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "26.50", "LON": "-62.20", "TIME": "09/07/03Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/03Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31A", "LAT": "26.50", "LON": "-62.20", "TIME": "09/07/06Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "26.70", "LON": "-62.20", "TIME": "09/07/09Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 26.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32A", "LAT": "26.70", "LON": "-62.00", "TIME": "09/07/12Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.00, 26.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "26.80", "LON": "-62.20", "TIME": "09/07/15Z", "WIND": "60", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 26.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33A", "LAT": "27.10", "LON": "-62.20", "TIME": "09/07/18Z", "WIND": "55", "PR": "982", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 27.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "27.40", "LON": "-62.20", "TIME": "09/07/21Z", "WIND": "55", "PR": "982", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/07/21Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 27.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34A", "LAT": "27.60", "LON": "-62.20", "TIME": "09/08/00Z", "WIND": "55", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 27.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "27.60", "LON": "-62.30", "TIME": "09/08/03Z", "WIND": "55", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/03Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 27.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35A", "LAT": "27.80", "LON": "-62.30", "TIME": "09/08/06Z", "WIND": "55", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "28.10", "LON": "-62.30", "TIME": "09/08/09Z", "WIND": "55", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36A", "LAT": "28.30", "LON": "-62.50", "TIME": "09/08/12Z", "WIND": "55", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 28.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "28.60", "LON": "-62.50", "TIME": "09/08/15Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 28.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37A", "LAT": "29.00", "LON": "-62.50", "TIME": "09/08/18Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "29.40", "LON": "-62.50", "TIME": "09/08/21Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/08/21Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 29.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38A", "LAT": "29.70", "LON": "-62.60", "TIME": "09/09/00Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.60, 29.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "30.10", "LON": "-62.60", "TIME": "09/09/03Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/03Z" }, "geometry": { "type": "Point", "coordinates": [ -62.60, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39A", "LAT": "30.50", "LON": "-62.60", "TIME": "09/09/06Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.60, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "30.80", "LON": "-62.50", "TIME": "09/09/09Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/09Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40A", "LAT": "31.40", "LON": "-62.50", "TIME": "09/09/12Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "32.00", "LON": "-62.40", "TIME": "09/09/15Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/15Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41A", "LAT": "32.60", "LON": "-62.40", "TIME": "09/09/18Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 32.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "33.40", "LON": "-62.10", "TIME": "09/09/21Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/09/21Z" }, "geometry": { "type": "Point", "coordinates": [ -62.10, 33.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42A", "LAT": "33.80", "LON": "-62.00", "TIME": "09/10/00Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.00, 33.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "34.40", "LON": "-61.80", "TIME": "09/10/03Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/03Z" }, "geometry": { "type": "Point", "coordinates": [ -61.80, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "35.70", "LON": "-61.20", "TIME": "09/10/09Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/09Z" }, "geometry": { "type": "Point", "coordinates": [ -61.20, 35.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44A", "LAT": "36.50", "LON": "-60.80", "TIME": "09/10/12Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -60.80, 36.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "37.00", "LON": "-60.20", "TIME": "09/10/15Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/15Z" }, "geometry": { "type": "Point", "coordinates": [ -60.20, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45A", "LAT": "38.50", "LON": "-59.80", "TIME": "09/10/18Z", "WIND": "50", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -59.80, 38.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "40.00", "LON": "-59.10", "TIME": "09/10/21Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/10/21Z" }, "geometry": { "type": "Point", "coordinates": [ -59.10, 40.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46A", "LAT": "41.10", "LON": "-58.50", "TIME": "09/11/00Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.50, 41.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "42.70", "LON": "-57.50", "TIME": "09/11/03Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/11/03Z" }, "geometry": { "type": "Point", "coordinates": [ -57.50, 42.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47A", "LAT": "43.80", "LON": "-56.80", "TIME": "09/11/06Z", "WIND": "60", "PR": "970", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -56.80, 43.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "45.70", "LON": "-56.40", "TIME": "09/11/09Z", "WIND": "60", "PR": "968", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/11/09Z" }, "geometry": { "type": "Point", "coordinates": [ -56.40, 45.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48A", "LAT": "47.20", "LON": "-55.70", "TIME": "09/11/12Z", "WIND": "60", "PR": "968", "STAT": "TROPICAL,STORM", "NAME": "2012/LESLIE/2012-LESLIE.geojson", "DATES": "09/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.70, 47.20 ] } }
+
+]
+}
