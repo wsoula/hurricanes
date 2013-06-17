@@ -1,0 +1,61 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "28.50", "LON": "-70.00", "TIME": "11/06/00Z", "WIND": "45", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 28.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "28.50", "LON": "-69.20", "TIME": "11/06/06Z", "WIND": "45", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.20, 28.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "28.40", "LON": "-68.80", "TIME": "11/06/12Z", "WIND": "45", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.80, 28.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "28.00", "LON": "-68.50", "TIME": "11/06/18Z", "WIND": "45", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 28.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "27.90", "LON": "-68.60", "TIME": "11/07/00Z", "WIND": "45", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.60, 27.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "27.70", "LON": "-68.70", "TIME": "11/07/06Z", "WIND": "40", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.70, 27.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "27.50", "LON": "-69.00", "TIME": "11/07/12Z", "WIND": "40", "PR": "1005", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.00, 27.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "27.60", "LON": "-69.30", "TIME": "11/07/18Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 27.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "27.60", "LON": "-69.60", "TIME": "11/08/00Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -69.60, 27.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "27.70", "LON": "-69.80", "TIME": "11/08/06Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.80, 27.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "27.80", "LON": "-70.00", "TIME": "11/08/12Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "27.80", "LON": "-70.00", "TIME": "11/08/18Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "27.80", "LON": "-70.10", "TIME": "11/09/00Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.10, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "27.80", "LON": "-70.20", "TIME": "11/09/06Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -70.20, 27.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "27.90", "LON": "-70.40", "TIME": "11/09/12Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -70.40, 27.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "28.30", "LON": "-70.60", "TIME": "11/09/18Z", "WIND": "55", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -70.60, 28.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "29.00", "LON": "-70.70", "TIME": "11/10/00Z", "WIND": "55", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.70, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "29.70", "LON": "-70.90", "TIME": "11/10/06Z", "WIND": "55", "PR": "984", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -70.90, 29.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "30.20", "LON": "-70.70", "TIME": "11/10/12Z", "WIND": "55", "PR": "982", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -70.70, 30.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "30.50", "LON": "-70.00", "TIME": "11/10/18Z", "WIND": "55", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "31.00", "LON": "-69.00", "TIME": "11/11/00Z", "WIND": "55", "PR": "984", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -69.00, 31.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "32.20", "LON": "-67.20", "TIME": "11/11/06Z", "WIND": "50", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.20, 32.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "33.40", "LON": "-65.30", "TIME": "11/11/12Z", "WIND": "45", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.30, 33.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "34.80", "LON": "-62.60", "TIME": "11/11/18Z", "WIND": "40", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.60, 34.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "35.90", "LON": "-59.40", "TIME": "11/12/00Z", "WIND": "35", "PR": "1000", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.40, 35.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "38.00", "LON": "-57.20", "TIME": "11/12/06Z", "WIND": "35", "PR": "1000", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.20, 38.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "40.00", "LON": "-55.00", "TIME": "11/12/12Z", "WIND": "35", "PR": "1000", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.00, 40.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "42.50", "LON": "-52.40", "TIME": "11/12/18Z", "WIND": "35", "PR": "1000", "STAT": "EXTRATROPICAL,STORM", "NAME": "2011/SEAN/2011-SEAN.geojson", "DATES": "11/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -52.40, 42.50 ] } }
+
+]
+}
