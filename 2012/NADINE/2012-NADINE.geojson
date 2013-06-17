@@ -1,0 +1,231 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "16.30", "LON": "-43.10", "TIME": "09/11/15Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/11/15Z" }, "geometry": { "type": "Point", "coordinates": [ -43.10, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "17.50", "LON": "-43.80", "TIME": "09/11/21Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/11/21Z" }, "geometry": { "type": "Point", "coordinates": [ -43.80, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "17.80", "LON": "-45.20", "TIME": "09/12/03Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/12/03Z" }, "geometry": { "type": "Point", "coordinates": [ -45.20, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "18.60", "LON": "-46.60", "TIME": "09/12/09Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/12/09Z" }, "geometry": { "type": "Point", "coordinates": [ -46.60, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "19.10", "LON": "-47.60", "TIME": "09/12/15Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/12/15Z" }, "geometry": { "type": "Point", "coordinates": [ -47.60, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "20.00", "LON": "-48.90", "TIME": "09/12/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -48.90, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "20.70", "LON": "-50.10", "TIME": "09/13/03Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/13/03Z" }, "geometry": { "type": "Point", "coordinates": [ -50.10, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "21.50", "LON": "-51.30", "TIME": "09/13/09Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/13/09Z" }, "geometry": { "type": "Point", "coordinates": [ -51.30, 21.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "22.60", "LON": "-52.20", "TIME": "09/13/15Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/13/15Z" }, "geometry": { "type": "Point", "coordinates": [ -52.20, 22.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "24.00", "LON": "-53.00", "TIME": "09/13/18Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.00, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "25.00", "LON": "-53.70", "TIME": "09/14/03Z", "WIND": "60", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/14/03Z" }, "geometry": { "type": "Point", "coordinates": [ -53.70, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "26.30", "LON": "-54.10", "TIME": "09/14/09Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/14/09Z" }, "geometry": { "type": "Point", "coordinates": [ -54.10, 26.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "28.00", "LON": "-53.50", "TIME": "09/14/15Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/14/15Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 28.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "28.80", "LON": "-53.40", "TIME": "09/14/21Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/14/21Z" }, "geometry": { "type": "Point", "coordinates": [ -53.40, 28.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "30.00", "LON": "-52.80", "TIME": "09/15/03Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/15/03Z" }, "geometry": { "type": "Point", "coordinates": [ -52.80, 30.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "30.70", "LON": "-51.40", "TIME": "09/15/09Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/15/09Z" }, "geometry": { "type": "Point", "coordinates": [ -51.40, 30.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "30.90", "LON": "-49.90", "TIME": "09/15/15Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/15/15Z" }, "geometry": { "type": "Point", "coordinates": [ -49.90, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "30.80", "LON": "-48.20", "TIME": "09/15/21Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/15/21Z" }, "geometry": { "type": "Point", "coordinates": [ -48.20, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "30.60", "LON": "-46.60", "TIME": "09/16/03Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/16/03Z" }, "geometry": { "type": "Point", "coordinates": [ -46.60, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "30.50", "LON": "-44.70", "TIME": "09/16/09Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/16/09Z" }, "geometry": { "type": "Point", "coordinates": [ -44.70, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "30.50", "LON": "-41.70", "TIME": "09/16/15Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/16/15Z" }, "geometry": { "type": "Point", "coordinates": [ -41.70, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "30.80", "LON": "-39.10", "TIME": "09/16/21Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/16/21Z" }, "geometry": { "type": "Point", "coordinates": [ -39.10, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "31.40", "LON": "-38.10", "TIME": "09/17/03Z", "WIND": "60", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/17/03Z" }, "geometry": { "type": "Point", "coordinates": [ -38.10, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "32.00", "LON": "-36.40", "TIME": "09/17/09Z", "WIND": "60", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/17/09Z" }, "geometry": { "type": "Point", "coordinates": [ -36.40, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "32.90", "LON": "-35.30", "TIME": "09/17/15Z", "WIND": "60", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/17/15Z" }, "geometry": { "type": "Point", "coordinates": [ -35.30, 32.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "33.50", "LON": "-34.50", "TIME": "09/17/21Z", "WIND": "55", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/17/21Z" }, "geometry": { "type": "Point", "coordinates": [ -34.50, 33.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "33.90", "LON": "-34.20", "TIME": "09/18/03Z", "WIND": "50", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/18/03Z" }, "geometry": { "type": "Point", "coordinates": [ -34.20, 33.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "34.30", "LON": "-33.60", "TIME": "09/18/09Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/18/09Z" }, "geometry": { "type": "Point", "coordinates": [ -33.60, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28A", "LAT": "34.50", "LON": "-33.30", "TIME": "09/18/12Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -33.30, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "34.40", "LON": "-32.90", "TIME": "09/18/15Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/18/15Z" }, "geometry": { "type": "Point", "coordinates": [ -32.90, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29A", "LAT": "34.80", "LON": "-32.70", "TIME": "09/18/18Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.70, 34.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "35.20", "LON": "-32.60", "TIME": "09/18/21Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/18/21Z" }, "geometry": { "type": "Point", "coordinates": [ -32.60, 35.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30A", "LAT": "35.40", "LON": "-32.20", "TIME": "09/19/00Z", "WIND": "50", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -32.20, 35.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "35.80", "LON": "-32.20", "TIME": "09/19/03Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/03Z" }, "geometry": { "type": "Point", "coordinates": [ -32.20, 35.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31A", "LAT": "36.20", "LON": "-32.10", "TIME": "09/19/06Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -32.10, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "36.40", "LON": "-32.10", "TIME": "09/19/09Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/09Z" }, "geometry": { "type": "Point", "coordinates": [ -32.10, 36.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32A", "LAT": "36.70", "LON": "-31.70", "TIME": "09/19/12Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -31.70, 36.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "37.20", "LON": "-31.80", "TIME": "09/19/15Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/15Z" }, "geometry": { "type": "Point", "coordinates": [ -31.80, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33A", "LAT": "37.10", "LON": "-32.20", "TIME": "09/19/18Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.20, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "37.10", "LON": "-32.00", "TIME": "09/19/21Z", "WIND": "45", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/19/21Z" }, "geometry": { "type": "Point", "coordinates": [ -32.00, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34A", "LAT": "37.20", "LON": "-31.90", "TIME": "09/20/00Z", "WIND": "45", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -31.90, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "37.10", "LON": "-31.40", "TIME": "09/20/03Z", "WIND": "45", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/03Z" }, "geometry": { "type": "Point", "coordinates": [ -31.40, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35A", "LAT": "37.10", "LON": "-31.00", "TIME": "09/20/06Z", "WIND": "45", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -31.00, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "36.80", "LON": "-30.60", "TIME": "09/20/09Z", "WIND": "45", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/09Z" }, "geometry": { "type": "Point", "coordinates": [ -30.60, 36.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36A", "LAT": "36.40", "LON": "-29.80", "TIME": "09/20/12Z", "WIND": "45", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -29.80, 36.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "36.20", "LON": "-29.40", "TIME": "09/20/15Z", "WIND": "45", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/15Z" }, "geometry": { "type": "Point", "coordinates": [ -29.40, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37A", "LAT": "36.20", "LON": "-28.60", "TIME": "09/20/18Z", "WIND": "45", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -28.60, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "36.10", "LON": "-28.20", "TIME": "09/20/21Z", "WIND": "45", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/20/21Z" }, "geometry": { "type": "Point", "coordinates": [ -28.20, 36.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38A", "LAT": "36.00", "LON": "-28.10", "TIME": "09/21/00Z", "WIND": "45", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -28.10, 36.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "35.40", "LON": "-28.00", "TIME": "09/21/03Z", "WIND": "55", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/03Z" }, "geometry": { "type": "Point", "coordinates": [ -28.00, 35.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39A", "LAT": "35.30", "LON": "-27.50", "TIME": "09/21/06Z", "WIND": "55", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -27.50, 35.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "35.10", "LON": "-27.20", "TIME": "09/21/09Z", "WIND": "55", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/09Z" }, "geometry": { "type": "Point", "coordinates": [ -27.20, 35.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40A", "LAT": "34.90", "LON": "-27.50", "TIME": "09/21/12Z", "WIND": "55", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -27.50, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "34.10", "LON": "-27.50", "TIME": "09/21/15Z", "WIND": "50", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/15Z" }, "geometry": { "type": "Point", "coordinates": [ -27.50, 34.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41A", "LAT": "33.60", "LON": "-27.30", "TIME": "09/21/18Z", "WIND": "50", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -27.30, 33.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "33.00", "LON": "-27.00", "TIME": "09/21/21Z", "WIND": "50", "PR": "982", "STAT": "SUBTROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/21/21Z" }, "geometry": { "type": "Point", "coordinates": [ -27.00, 33.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "31.90", "LON": "-26.60", "TIME": "09/22/00Z", "WIND": "50", "PR": "984", "STAT": "SUBTROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -26.60, 31.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "30.60", "LON": "-25.60", "TIME": "09/23/15Z", "WIND": "50", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/23/15Z" }, "geometry": { "type": "Point", "coordinates": [ -25.60, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "31.00", "LON": "-26.10", "TIME": "09/23/21Z", "WIND": "50", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/23/21Z" }, "geometry": { "type": "Point", "coordinates": [ -26.10, 31.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "31.00", "LON": "-26.30", "TIME": "09/24/03Z", "WIND": "50", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/24/03Z" }, "geometry": { "type": "Point", "coordinates": [ -26.30, 31.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "31.40", "LON": "-26.90", "TIME": "09/24/09Z", "WIND": "45", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/24/09Z" }, "geometry": { "type": "Point", "coordinates": [ -26.90, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "31.70", "LON": "-27.80", "TIME": "09/24/15Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/24/15Z" }, "geometry": { "type": "Point", "coordinates": [ -27.80, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "31.70", "LON": "-28.60", "TIME": "09/24/21Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/24/21Z" }, "geometry": { "type": "Point", "coordinates": [ -28.60, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "32.20", "LON": "-29.00", "TIME": "09/25/03Z", "WIND": "40", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/25/03Z" }, "geometry": { "type": "Point", "coordinates": [ -29.00, 32.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "32.10", "LON": "-29.60", "TIME": "09/25/09Z", "WIND": "40", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/25/09Z" }, "geometry": { "type": "Point", "coordinates": [ -29.60, 32.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "31.90", "LON": "-30.00", "TIME": "09/25/15Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/25/15Z" }, "geometry": { "type": "Point", "coordinates": [ -30.00, 31.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "53", "LAT": "31.70", "LON": "-30.40", "TIME": "09/25/21Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/25/21Z" }, "geometry": { "type": "Point", "coordinates": [ -30.40, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "54", "LAT": "31.20", "LON": "-30.40", "TIME": "09/26/03Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/26/03Z" }, "geometry": { "type": "Point", "coordinates": [ -30.40, 31.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "55", "LAT": "30.90", "LON": "-30.50", "TIME": "09/26/09Z", "WIND": "40", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/26/09Z" }, "geometry": { "type": "Point", "coordinates": [ -30.50, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "56", "LAT": "30.60", "LON": "-30.30", "TIME": "09/26/15Z", "WIND": "45", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/26/15Z" }, "geometry": { "type": "Point", "coordinates": [ -30.30, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "57", "LAT": "30.20", "LON": "-30.80", "TIME": "09/26/21Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/26/21Z" }, "geometry": { "type": "Point", "coordinates": [ -30.80, 30.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "58", "LAT": "29.50", "LON": "-31.40", "TIME": "09/27/03Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/27/03Z" }, "geometry": { "type": "Point", "coordinates": [ -31.40, 29.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "59", "LAT": "28.90", "LON": "-31.50", "TIME": "09/27/09Z", "WIND": "50", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/27/09Z" }, "geometry": { "type": "Point", "coordinates": [ -31.50, 28.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "60", "LAT": "28.70", "LON": "-32.40", "TIME": "09/27/15Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/27/15Z" }, "geometry": { "type": "Point", "coordinates": [ -32.40, 28.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "61", "LAT": "28.60", "LON": "-32.80", "TIME": "09/27/21Z", "WIND": "55", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/27/21Z" }, "geometry": { "type": "Point", "coordinates": [ -32.80, 28.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "62", "LAT": "28.80", "LON": "-33.60", "TIME": "09/28/03Z", "WIND": "55", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/28/03Z" }, "geometry": { "type": "Point", "coordinates": [ -33.60, 28.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "63", "LAT": "29.00", "LON": "-34.10", "TIME": "09/28/09Z", "WIND": "60", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/28/09Z" }, "geometry": { "type": "Point", "coordinates": [ -34.10, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "64", "LAT": "29.60", "LON": "-34.70", "TIME": "09/28/15Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/28/15Z" }, "geometry": { "type": "Point", "coordinates": [ -34.70, 29.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "65", "LAT": "30.10", "LON": "-35.00", "TIME": "09/28/21Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/28/21Z" }, "geometry": { "type": "Point", "coordinates": [ -35.00, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "66", "LAT": "31.00", "LON": "-35.50", "TIME": "09/29/03Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/29/03Z" }, "geometry": { "type": "Point", "coordinates": [ -35.50, 31.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "67", "LAT": "31.90", "LON": "-35.90", "TIME": "09/29/09Z", "WIND": "60", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/29/09Z" }, "geometry": { "type": "Point", "coordinates": [ -35.90, 31.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "68", "LAT": "33.30", "LON": "-36.20", "TIME": "09/29/15Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/29/15Z" }, "geometry": { "type": "Point", "coordinates": [ -36.20, 33.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "69", "LAT": "34.40", "LON": "-36.70", "TIME": "09/29/21Z", "WIND": "70", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/29/21Z" }, "geometry": { "type": "Point", "coordinates": [ -36.70, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "70", "LAT": "35.60", "LON": "-37.50", "TIME": "09/30/03Z", "WIND": "75", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/30/03Z" }, "geometry": { "type": "Point", "coordinates": [ -37.50, 35.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "71", "LAT": "36.60", "LON": "-37.80", "TIME": "09/30/09Z", "WIND": "80", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/30/09Z" }, "geometry": { "type": "Point", "coordinates": [ -37.80, 36.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "72", "LAT": "37.10", "LON": "-38.60", "TIME": "09/30/15Z", "WIND": "80", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/30/15Z" }, "geometry": { "type": "Point", "coordinates": [ -38.60, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "73", "LAT": "37.20", "LON": "-39.20", "TIME": "09/30/21Z", "WIND": "80", "PR": "978", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "09/30/21Z" }, "geometry": { "type": "Point", "coordinates": [ -39.20, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "74", "LAT": "36.70", "LON": "-39.40", "TIME": "10/01/03Z", "WIND": "75", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/01/03Z" }, "geometry": { "type": "Point", "coordinates": [ -39.40, 36.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "75", "LAT": "36.30", "LON": "-39.30", "TIME": "10/01/09Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/01/09Z" }, "geometry": { "type": "Point", "coordinates": [ -39.30, 36.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "76", "LAT": "35.80", "LON": "-39.20", "TIME": "10/01/15Z", "WIND": "60", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/01/15Z" }, "geometry": { "type": "Point", "coordinates": [ -39.20, 35.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "76A", "LAT": "35.60", "LON": "-39.40", "TIME": "10/01/18Z", "WIND": "60", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.40, 35.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "77", "LAT": "35.40", "LON": "-39.40", "TIME": "10/01/21Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/01/21Z" }, "geometry": { "type": "Point", "coordinates": [ -39.40, 35.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "77A", "LAT": "34.80", "LON": "-39.10", "TIME": "10/02/00Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -39.10, 34.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "78", "LAT": "34.70", "LON": "-38.90", "TIME": "10/02/03Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/03Z" }, "geometry": { "type": "Point", "coordinates": [ -38.90, 34.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "78A", "LAT": "34.50", "LON": "-38.50", "TIME": "10/02/06Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -38.50, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "79", "LAT": "34.50", "LON": "-38.10", "TIME": "10/02/09Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/09Z" }, "geometry": { "type": "Point", "coordinates": [ -38.10, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "79A", "LAT": "34.30", "LON": "-37.80", "TIME": "10/02/12Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.80, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "80", "LAT": "34.20", "LON": "-37.50", "TIME": "10/02/15Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/15Z" }, "geometry": { "type": "Point", "coordinates": [ -37.50, 34.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "80A", "LAT": "34.30", "LON": "-37.20", "TIME": "10/02/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -37.20, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "81", "LAT": "34.40", "LON": "-36.70", "TIME": "10/02/21Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/02/21Z" }, "geometry": { "type": "Point", "coordinates": [ -36.70, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "81A", "LAT": "34.40", "LON": "-36.10", "TIME": "10/03/00Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -36.10, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "82", "LAT": "34.40", "LON": "-35.70", "TIME": "10/03/03Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/03Z" }, "geometry": { "type": "Point", "coordinates": [ -35.70, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "82A", "LAT": "34.50", "LON": "-35.40", "TIME": "10/03/06Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.40, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "83", "LAT": "34.90", "LON": "-34.60", "TIME": "10/03/09Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/09Z" }, "geometry": { "type": "Point", "coordinates": [ -34.60, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "83A", "LAT": "34.90", "LON": "-34.00", "TIME": "10/03/12Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -34.00, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "84", "LAT": "35.10", "LON": "-33.30", "TIME": "10/03/15Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/15Z" }, "geometry": { "type": "Point", "coordinates": [ -33.30, 35.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "84A", "LAT": "35.20", "LON": "-32.50", "TIME": "10/03/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.50, 35.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "85", "LAT": "36.10", "LON": "-31.90", "TIME": "10/03/21Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/03/21Z" }, "geometry": { "type": "Point", "coordinates": [ -31.90, 36.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "85A", "LAT": "36.50", "LON": "-31.00", "TIME": "10/04/00Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -31.00, 36.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "86", "LAT": "37.40", "LON": "-30.30", "TIME": "10/04/03Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/04/03Z" }, "geometry": { "type": "Point", "coordinates": [ -30.30, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "86A", "LAT": "37.60", "LON": "-29.30", "TIME": "10/04/06Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.30, 37.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "87", "LAT": "38.40", "LON": "-28.40", "TIME": "10/04/09Z", "WIND": "40", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/04/09Z" }, "geometry": { "type": "Point", "coordinates": [ -28.40, 38.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "87A", "LAT": "39.00", "LON": "-27.20", "TIME": "10/04/12Z", "WIND": "40", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2012/NADINE/2012-NADINE.geojson", "DATES": "10/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -27.20, 39.00 ] } }
+
+]
+}
