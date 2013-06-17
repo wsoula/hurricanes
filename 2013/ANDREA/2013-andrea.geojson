@@ -7,7 +7,7 @@
 ,
 { "type": "Feature", "properties": { "ADV": "2", "LAT": "26.00", "LON": "-86.30", "TIME": "06/06/03Z", "WIND": "35", "PR": "-", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/06/03Z" }, "geometry": { "type": "Point", "coordinates": [ -86.30, 26.00 ] } }
 ,
-{ "type": "Feature", "properties": { "ADV": "2A", "LAT": "26.80", "LON": "-86.20", "TIME": "06/06/06Z", "WIND": "40", "PR": "-", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.20, 26.80 ] } }
+{ "type": "Feature", "properties": { "ADV": "2A", "LAT": "26.80", "LON": "-86.20", "TIME": "06/06/06Z", "WIND": "40", "PR": "-", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/06/06Z", "marker-color": "#CC0044" }, "geometry": { "type": "Point", "coordinates": [ -86.20, 26.80 ] } }
 ,
 { "type": "Feature", "properties": { "ADV": "3", "LAT": "27.00", "LON": "-85.90", "TIME": "06/06/09Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "", "DATES": "06/06/09Z" }, "geometry": { "type": "Point", "coordinates": [ -85.90, 27.00 ] } }
 ,
