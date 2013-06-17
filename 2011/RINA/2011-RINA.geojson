@@ -1,0 +1,65 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.70", "LON": "-81.00", "TIME": "10/22/00Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "12.70", "LON": "-81.20", "TIME": "10/22/06Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.20, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.90", "LON": "-81.40", "TIME": "10/22/12Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 12.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.20", "LON": "-81.40", "TIME": "10/22/18Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "13.60", "LON": "-81.40", "TIME": "10/23/00Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "14.20", "LON": "-81.40", "TIME": "10/23/06Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "14.80", "LON": "-81.50", "TIME": "10/23/12Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.50, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "15.50", "LON": "-81.70", "TIME": "10/23/18Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.70, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "16.00", "LON": "-81.90", "TIME": "10/24/00Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.90, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "16.50", "LON": "-82.20", "TIME": "10/24/06Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -82.20, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "16.90", "LON": "-82.60", "TIME": "10/24/12Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.60, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "17.10", "LON": "-83.00", "TIME": "10/24/18Z", "WIND": "65", "PR": "991", "STAT": "HURRICANE-1", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.00, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "17.20", "LON": "-83.20", "TIME": "10/25/00Z", "WIND": "75", "PR": "982", "STAT": "HURRICANE-1", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "17.30", "LON": "-83.50", "TIME": "10/25/06Z", "WIND": "90", "PR": "976", "STAT": "HURRICANE-2", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.50, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "17.30", "LON": "-83.80", "TIME": "10/25/12Z", "WIND": "95", "PR": "972", "STAT": "HURRICANE-2", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.80, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "17.30", "LON": "-84.20", "TIME": "10/25/18Z", "WIND": "100", "PR": "971", "STAT": "HURRICANE-3", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -84.20, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "17.40", "LON": "-84.60", "TIME": "10/26/00Z", "WIND": "100", "PR": "966", "STAT": "HURRICANE-3", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -84.60, 17.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "17.50", "LON": "-85.00", "TIME": "10/26/06Z", "WIND": "100", "PR": "969", "STAT": "HURRICANE-3", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "17.70", "LON": "-85.40", "TIME": "10/26/12Z", "WIND": "85", "PR": "973", "STAT": "HURRICANE-2", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.40, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "18.00", "LON": "-85.80", "TIME": "10/26/18Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "18.30", "LON": "-86.30", "TIME": "10/27/00Z", "WIND": "80", "PR": "978", "STAT": "HURRICANE-1", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.30, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "18.60", "LON": "-86.70", "TIME": "10/27/06Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.70, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "19.00", "LON": "-86.90", "TIME": "10/27/12Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -86.90, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "19.50", "LON": "-87.10", "TIME": "10/27/18Z", "WIND": "60", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -87.10, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "20.20", "LON": "-87.20", "TIME": "10/28/00Z", "WIND": "55", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -87.20, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "20.90", "LON": "-87.10", "TIME": "10/28/06Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -87.10, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "21.40", "LON": "-86.90", "TIME": "10/28/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -86.90, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "21.70", "LON": "-86.40", "TIME": "10/28/18Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -86.40, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "21.80", "LON": "-85.30", "TIME": "10/29/00Z", "WIND": "20", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.30, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "21.50", "LON": "-84.20", "TIME": "10/29/06Z", "WIND": "20", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/RINA/2011-RINA.geojson", "DATES": "10/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.20, 21.50 ] } }
+
+]
+}
