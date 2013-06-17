@@ -1,0 +1,87 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "11.50", "LON": "-35.90", "TIME": "09/06/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -35.90, 11.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "11.90", "LON": "-37.50", "TIME": "09/07/00Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -37.50, 11.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.30", "LON": "-39.10", "TIME": "09/07/06Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -39.10, 12.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "12.80", "LON": "-41.00", "TIME": "09/07/12Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -41.00, 12.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "13.00", "LON": "-43.00", "TIME": "09/07/18Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.00, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "13.20", "LON": "-45.20", "TIME": "09/08/00Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -45.20, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.20", "LON": "-47.70", "TIME": "09/08/06Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -47.70, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.00", "LON": "-50.10", "TIME": "09/08/12Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -50.10, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "13.20", "LON": "-52.10", "TIME": "09/08/18Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -52.10, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "13.50", "LON": "-53.70", "TIME": "09/09/00Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.70, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "13.90", "LON": "-55.20", "TIME": "09/09/06Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -55.20, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "14.30", "LON": "-56.60", "TIME": "09/09/12Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.60, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "14.90", "LON": "-57.90", "TIME": "09/09/18Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -57.90, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.40", "LON": "-59.00", "TIME": "09/10/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "16.00", "LON": "-60.00", "TIME": "09/10/06Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.00, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "16.90", "LON": "-61.10", "TIME": "09/10/12Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.10, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "17.80", "LON": "-62.00", "TIME": "09/10/18Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.00, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "18.30", "LON": "-62.70", "TIME": "09/11/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.70, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "18.70", "LON": "-63.40", "TIME": "09/11/06Z", "WIND": "50", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.40, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "19.10", "LON": "-64.10", "TIME": "09/11/12Z", "WIND": "50", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "19.60", "LON": "-64.70", "TIME": "09/11/18Z", "WIND": "50", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.70, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "20.00", "LON": "-65.30", "TIME": "09/12/00Z", "WIND": "50", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.30, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "20.40", "LON": "-66.10", "TIME": "09/12/06Z", "WIND": "50", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.10, 20.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "20.60", "LON": "-66.90", "TIME": "09/12/12Z", "WIND": "50", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.90, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "20.80", "LON": "-67.10", "TIME": "09/12/18Z", "WIND": "50", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -67.10, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "21.00", "LON": "-67.30", "TIME": "09/13/00Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -67.30, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "21.30", "LON": "-67.50", "TIME": "09/13/06Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.50, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "21.70", "LON": "-67.70", "TIME": "09/13/12Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.70, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "22.30", "LON": "-68.00", "TIME": "09/13/18Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.00, 22.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "23.10", "LON": "-68.50", "TIME": "09/14/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "23.90", "LON": "-69.00", "TIME": "09/14/06Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.00, 23.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "24.70", "LON": "-69.30", "TIME": "09/14/12Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 24.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "25.80", "LON": "-69.30", "TIME": "09/14/18Z", "WIND": "55", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 25.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "27.20", "LON": "-68.90", "TIME": "09/15/00Z", "WIND": "60", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.90, 27.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "28.80", "LON": "-68.40", "TIME": "09/15/06Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.40, 28.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "30.90", "LON": "-67.80", "TIME": "09/15/12Z", "WIND": "60", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.80, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "33.70", "LON": "-66.90", "TIME": "09/15/18Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.90, 33.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "36.80", "LON": "-64.80", "TIME": "09/16/00Z", "WIND": "70", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.80, 36.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "39.80", "LON": "-62.10", "TIME": "09/16/06Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.10, 39.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "42.90", "LON": "-58.20", "TIME": "09/16/12Z", "WIND": "65", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.20, 42.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "46.70", "LON": "-53.90", "TIME": "09/16/18Z", "WIND": "60", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2011/MARIA/2011-MARIA.geojson", "DATES": "09/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.90, 46.70 ] } }
+
+]
+}
