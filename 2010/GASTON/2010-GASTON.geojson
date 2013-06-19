@@ -1,0 +1,65 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.20", "LON": "-32.20", "TIME": "09/01/00Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -32.20, 12.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "12.40", "LON": "-33.60", "TIME": "09/01/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -33.60, 12.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.70", "LON": "-35.00", "TIME": "09/01/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -35.00, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "12.90", "LON": "-36.10", "TIME": "09/01/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -36.10, 12.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "13.10", "LON": "-37.20", "TIME": "09/02/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -37.20, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "13.20", "LON": "-38.00", "TIME": "09/02/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -38.00, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.30", "LON": "-38.80", "TIME": "09/02/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.80, 13.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.50", "LON": "-39.50", "TIME": "09/02/18Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.50, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "13.80", "LON": "-40.10", "TIME": "09/03/00Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.10, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "14.10", "LON": "-40.60", "TIME": "09/03/06Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -40.60, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "14.50", "LON": "-41.30", "TIME": "09/03/12Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -41.30, 14.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "15.00", "LON": "-42.00", "TIME": "09/03/18Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -42.00, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "15.40", "LON": "-43.00", "TIME": "09/04/00Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -43.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.90", "LON": "-44.20", "TIME": "09/04/06Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -44.20, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "16.30", "LON": "-45.50", "TIME": "09/04/12Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -45.50, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "16.50", "LON": "-46.60", "TIME": "09/04/18Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.60, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "16.70", "LON": "-47.70", "TIME": "09/05/00Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -47.70, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "16.80", "LON": "-48.80", "TIME": "09/05/06Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -48.80, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "16.90", "LON": "-50.00", "TIME": "09/05/12Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -50.00, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "17.00", "LON": "-51.20", "TIME": "09/05/18Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -51.20, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "17.10", "LON": "-52.60", "TIME": "09/06/00Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -52.60, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "17.30", "LON": "-54.00", "TIME": "09/06/06Z", "WIND": "30", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -54.00, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "17.40", "LON": "-55.50", "TIME": "09/06/12Z", "WIND": "30", "PR": "1009", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.50, 17.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "17.50", "LON": "-57.20", "TIME": "09/06/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -57.20, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "17.40", "LON": "-59.00", "TIME": "09/07/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.00, 17.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "17.10", "LON": "-60.80", "TIME": "09/07/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.80, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "16.80", "LON": "-62.70", "TIME": "09/07/12Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.70, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "16.80", "LON": "-64.60", "TIME": "09/07/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.60, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "17.00", "LON": "-66.30", "TIME": "09/08/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -66.30, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "17.40", "LON": "-67.70", "TIME": "09/08/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2010/GASTON/2010-GASTON.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.70, 17.40 ] } }
+
+]
+}
