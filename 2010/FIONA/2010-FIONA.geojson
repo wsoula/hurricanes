@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "14.00", "LON": "-41.80", "TIME": "08/30/00Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -41.80, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "14.10", "LON": "-43.80", "TIME": "08/30/06Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -43.80, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "14.40", "LON": "-45.70", "TIME": "08/30/12Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -45.70, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "14.90", "LON": "-47.70", "TIME": "08/30/18Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.70, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "15.50", "LON": "-50.00", "TIME": "08/31/00Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/31/00Z" }, "geometry": { "type": "Point", "coordinates": [ -50.00, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "15.90", "LON": "-52.50", "TIME": "08/31/06Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/31/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.50, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "16.10", "LON": "-54.80", "TIME": "08/31/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -54.80, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "16.30", "LON": "-56.90", "TIME": "08/31/18Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "08/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -56.90, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "16.60", "LON": "-58.50", "TIME": "09/01/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.50, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "17.20", "LON": "-59.80", "TIME": "09/01/06Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -59.80, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "18.20", "LON": "-61.00", "TIME": "09/01/12Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "19.50", "LON": "-62.50", "TIME": "09/01/18Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "21.00", "LON": "-63.80", "TIME": "09/02/00Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -63.80, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "22.30", "LON": "-64.90", "TIME": "09/02/06Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -64.90, 22.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "23.60", "LON": "-65.90", "TIME": "09/02/12Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.90, 23.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "25.00", "LON": "-66.60", "TIME": "09/02/18Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.60, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "26.30", "LON": "-67.00", "TIME": "09/03/00Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -67.00, 26.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "27.50", "LON": "-67.00", "TIME": "09/03/06Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.00, 27.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "28.50", "LON": "-66.70", "TIME": "09/03/12Z", "WIND": "35", "PR": "1010", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.70, 28.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "29.60", "LON": "-66.00", "TIME": "09/03/18Z", "WIND": "35", "PR": "1011", "STAT": "TROPICAL,STORM", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.00, 29.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "30.70", "LON": "-65.00", "TIME": "09/04/00Z", "WIND": "35", "PR": "1011", "STAT": "LOW", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.00, 30.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "31.80", "LON": "-63.90", "TIME": "09/04/06Z", "WIND": "30", "PR": "1011", "STAT": "LOW", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.90, 31.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "32.90", "LON": "-62.90", "TIME": "09/04/12Z", "WIND": "25", "PR": "1011", "STAT": "LOW", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.90, 32.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "34.10", "LON": "-62.00", "TIME": "09/04/18Z", "WIND": "25", "PR": "1011", "STAT": "LOW", "NAME": "2010/FIONA/2010-FIONA.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.00, 34.10 ] } }
+
+]
+}
