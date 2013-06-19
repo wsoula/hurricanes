@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "17.50", "LON": "-95.60", "TIME": "09/04/18Z", "WIND": "20", "PR": "1006", "STAT": "LOW", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.30", "LON": "-95.60", "TIME": "09/05/00Z", "WIND": "20", "PR": "1006", "STAT": "LOW", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "19.00", "LON": "-95.60", "TIME": "09/05/06Z", "WIND": "20", "PR": "1006", "STAT": "LOW", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "19.50", "LON": "-95.60", "TIME": "09/05/12Z", "WIND": "20", "PR": "1006", "STAT": "LOW", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "20.00", "LON": "-95.50", "TIME": "09/05/18Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -95.50, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "20.70", "LON": "-95.00", "TIME": "09/06/00Z", "WIND": "30", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.00, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "21.80", "LON": "-95.10", "TIME": "09/06/06Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -95.10, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "23.00", "LON": "-95.60", "TIME": "09/06/12Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 23.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "24.00", "LON": "-96.50", "TIME": "09/06/18Z", "WIND": "50", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -96.50, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "24.90", "LON": "-97.20", "TIME": "09/07/00Z", "WIND": "55", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -97.20, 24.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "25.30", "LON": "-97.40", "TIME": "09/07/02Z", "WIND": "60", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/07/02Z" }, "geometry": { "type": "Point", "coordinates": [ -97.40, 25.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "26.20", "LON": "-97.70", "TIME": "09/07/06Z", "WIND": "55", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.70, 26.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "27.70", "LON": "-98.10", "TIME": "09/07/12Z", "WIND": "45", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -98.10, 27.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "29.40", "LON": "-98.60", "TIME": "09/07/18Z", "WIND": "40", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -98.60, 29.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "30.60", "LON": "-99.10", "TIME": "09/08/00Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -99.10, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "31.60", "LON": "-99.50", "TIME": "09/08/06Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -99.50, 31.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "32.70", "LON": "-99.50", "TIME": "09/08/12Z", "WIND": "20", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -99.50, 32.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "33.70", "LON": "-98.70", "TIME": "09/08/18Z", "WIND": "20", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -98.70, 33.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "34.70", "LON": "-97.90", "TIME": "09/09/00Z", "WIND": "20", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -97.90, 34.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "35.50", "LON": "-97.20", "TIME": "09/09/06Z", "WIND": "20", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.20, 35.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "36.30", "LON": "-96.40", "TIME": "09/09/12Z", "WIND": "20", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -96.40, 36.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "37.00", "LON": "-95.50", "TIME": "09/09/18Z", "WIND": "20", "PR": "1005", "STAT": "LOW", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -95.50, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "37.50", "LON": "-95.00", "TIME": "09/10/00Z", "WIND": "20", "PR": "1005", "STAT": "LOW", "NAME": "2010/HERMINE/2010-HERMINE.geojson", "DATES": "09/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.00, 37.50 ] } }
+
+]
+}
