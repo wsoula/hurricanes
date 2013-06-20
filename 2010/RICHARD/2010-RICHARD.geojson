@@ -1,0 +1,63 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "17.20", "LON": "-83.40", "TIME": "10/19/18Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.40, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "17.70", "LON": "-83.20", "TIME": "10/20/00Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "17.80", "LON": "-82.80", "TIME": "10/20/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -82.80, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "17.80", "LON": "-82.30", "TIME": "10/20/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.30, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "17.60", "LON": "-81.80", "TIME": "10/20/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.80, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "17.30", "LON": "-81.30", "TIME": "10/21/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.30, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "17.00", "LON": "-80.90", "TIME": "10/21/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.90, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "16.70", "LON": "-80.60", "TIME": "10/21/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.60, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "16.30", "LON": "-80.40", "TIME": "10/21/18Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -80.40, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "16.00", "LON": "-80.50", "TIME": "10/22/00Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -80.50, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "15.90", "LON": "-80.70", "TIME": "10/22/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.70, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "15.80", "LON": "-81.00", "TIME": "10/22/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "15.80", "LON": "-81.50", "TIME": "10/22/18Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.50, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.80", "LON": "-82.10", "TIME": "10/23/00Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.10, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "15.80", "LON": "-82.60", "TIME": "10/23/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -82.60, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "15.90", "LON": "-83.10", "TIME": "10/23/12Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.10, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "16.00", "LON": "-83.60", "TIME": "10/23/18Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.60, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "16.20", "LON": "-84.30", "TIME": "10/24/00Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -84.30, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "16.50", "LON": "-85.20", "TIME": "10/24/06Z", "WIND": "65", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.20, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "16.80", "LON": "-86.30", "TIME": "10/24/12Z", "WIND": "75", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -86.30, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "17.00", "LON": "-87.30", "TIME": "10/24/18Z", "WIND": "80", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -87.30, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "17.20", "LON": "-88.20", "TIME": "10/25/00Z", "WIND": "85", "PR": "977", "STAT": "HURRICANE-2", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -88.20, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "17.20", "LON": "-88.30", "TIME": "10/25/00Z", "WIND": "85", "PR": "977", "STAT": "HURRICANE-2", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -88.30, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "17.40", "LON": "-89.20", "TIME": "10/25/06Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -89.20, 17.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "17.70", "LON": "-90.00", "TIME": "10/25/12Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -90.00, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "18.00", "LON": "-90.80", "TIME": "10/25/18Z", "WIND": "30", "PR": "1000", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -90.80, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "18.40", "LON": "-91.50", "TIME": "10/26/00Z", "WIND": "25", "PR": "1002", "STAT": "LOW", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -91.50, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "19.10", "LON": "-92.30", "TIME": "10/26/06Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -92.30, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "20.10", "LON": "-92.90", "TIME": "10/26/12Z", "WIND": "20", "PR": "1004", "STAT": "LOW", "NAME": "2010/RICHARD/2010-RICHARD.geojson", "DATES": "10/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -92.90, 20.10 ] } }
+
+]
+}
