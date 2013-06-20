@@ -1,0 +1,107 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.90", "LON": "-20.50", "TIME": "09/12/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -20.50, 12.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "13.00", "LON": "-21.30", "TIME": "09/12/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -21.30, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "13.10", "LON": "-22.10", "TIME": "09/12/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -22.10, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.50", "LON": "-23.10", "TIME": "09/13/00Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -23.10, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "14.00", "LON": "-24.20", "TIME": "09/13/06Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -24.20, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "14.50", "LON": "-25.40", "TIME": "09/13/12Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -25.40, 14.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "15.00", "LON": "-26.50", "TIME": "09/13/18Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -26.50, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "15.30", "LON": "-27.50", "TIME": "09/14/00Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -27.50, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "15.60", "LON": "-28.40", "TIME": "09/14/06Z", "WIND": "60", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -28.40, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "15.90", "LON": "-29.20", "TIME": "09/14/12Z", "WIND": "70", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -29.20, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "16.10", "LON": "-29.90", "TIME": "09/14/18Z", "WIND": "80", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -29.90, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "16.40", "LON": "-30.60", "TIME": "09/15/00Z", "WIND": "90", "PR": "973", "STAT": "HURRICANE-2", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -30.60, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "16.90", "LON": "-31.40", "TIME": "09/15/06Z", "WIND": "110", "PR": "956", "STAT": "HURRICANE-3", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -31.40, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "17.70", "LON": "-32.20", "TIME": "09/15/12Z", "WIND": "120", "PR": "948", "STAT": "HURRICANE-4", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -32.20, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "18.80", "LON": "-33.00", "TIME": "09/15/18Z", "WIND": "115", "PR": "951", "STAT": "HURRICANE-4", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -33.00, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "19.90", "LON": "-34.10", "TIME": "09/16/00Z", "WIND": "105", "PR": "958", "STAT": "HURRICANE-3", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -34.10, 19.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "20.90", "LON": "-35.80", "TIME": "09/16/06Z", "WIND": "100", "PR": "962", "STAT": "HURRICANE-3", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.80, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "21.80", "LON": "-37.70", "TIME": "09/16/12Z", "WIND": "90", "PR": "970", "STAT": "HURRICANE-2", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.70, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "22.70", "LON": "-40.00", "TIME": "09/16/18Z", "WIND": "80", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -40.00, 22.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "23.10", "LON": "-42.00", "TIME": "09/17/00Z", "WIND": "75", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -42.00, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "23.50", "LON": "-44.00", "TIME": "09/17/06Z", "WIND": "75", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -44.00, 23.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "23.90", "LON": "-45.80", "TIME": "09/17/12Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -45.80, 23.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "24.60", "LON": "-47.40", "TIME": "09/17/18Z", "WIND": "65", "PR": "986", "STAT": "HURRICANE-1", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.40, 24.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "25.60", "LON": "-48.70", "TIME": "09/18/00Z", "WIND": "60", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.70, 25.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "26.90", "LON": "-49.80", "TIME": "09/18/06Z", "WIND": "55", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.80, 26.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "28.30", "LON": "-50.70", "TIME": "09/18/12Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -50.70, 28.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "29.80", "LON": "-51.40", "TIME": "09/18/18Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -51.40, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "31.40", "LON": "-51.80", "TIME": "09/19/00Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.80, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "32.80", "LON": "-52.00", "TIME": "09/19/06Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.00, 32.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "33.90", "LON": "-51.40", "TIME": "09/19/12Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -51.40, 33.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "34.60", "LON": "-50.20", "TIME": "09/19/18Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -50.20, 34.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "34.90", "LON": "-49.20", "TIME": "09/20/00Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -49.20, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "34.90", "LON": "-48.00", "TIME": "09/20/06Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -48.00, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "34.70", "LON": "-46.90", "TIME": "09/20/12Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.90, 34.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "34.60", "LON": "-46.00", "TIME": "09/20/18Z", "WIND": "40", "PR": "1002", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.00, 34.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "34.40", "LON": "-45.10", "TIME": "09/21/00Z", "WIND": "40", "PR": "1003", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -45.10, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "34.40", "LON": "-44.10", "TIME": "09/21/06Z", "WIND": "35", "PR": "1004", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -44.10, 34.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "34.50", "LON": "-43.00", "TIME": "09/21/12Z", "WIND": "35", "PR": "1005", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -43.00, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "34.50", "LON": "-41.90", "TIME": "09/21/18Z", "WIND": "30", "PR": "1006", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -41.90, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "34.30", "LON": "-40.90", "TIME": "09/22/00Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.90, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "33.90", "LON": "-39.90", "TIME": "09/22/06Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -39.90, 33.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "33.60", "LON": "-38.80", "TIME": "09/22/12Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.80, 33.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "33.20", "LON": "-38.00", "TIME": "09/22/18Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -38.00, 33.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "33.00", "LON": "-37.80", "TIME": "09/23/00Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -37.80, 33.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "32.70", "LON": "-37.70", "TIME": "09/23/06Z", "WIND": "30", "PR": "1009", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -37.70, 32.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "32.40", "LON": "-37.80", "TIME": "09/23/12Z", "WIND": "30", "PR": "1009", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.80, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "32.00", "LON": "-38.60", "TIME": "09/23/18Z", "WIND": "30", "PR": "1010", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -38.60, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "31.50", "LON": "-40.00", "TIME": "09/24/00Z", "WIND": "30", "PR": "1010", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.00, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "31.20", "LON": "-41.60", "TIME": "09/24/06Z", "WIND": "30", "PR": "1011", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.60, 31.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "30.90", "LON": "-43.10", "TIME": "09/24/12Z", "WIND": "30", "PR": "1011", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -43.10, 30.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "30.60", "LON": "-44.30", "TIME": "09/24/18Z", "WIND": "30", "PR": "1012", "STAT": "LOW", "NAME": "2010/JULIA/2010-JULIA.geojson", "DATES": "09/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -44.30, 30.60 ] } }
+
+]
+}
