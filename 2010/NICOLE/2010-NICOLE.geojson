@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "19.40", "LON": "-84.10", "TIME": "09/28/00Z", "WIND": "25", "PR": "1003", "STAT": "LOW", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -84.10, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "19.80", "LON": "-83.50", "TIME": "09/28/06Z", "WIND": "30", "PR": "1003", "STAT": "LOW", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.50, 19.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "20.40", "LON": "-83.00", "TIME": "09/28/12Z", "WIND": "35", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.00, 20.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "21.00", "LON": "-82.70", "TIME": "09/28/18Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -82.70, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "21.40", "LON": "-82.20", "TIME": "09/29/00Z", "WIND": "35", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.20, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "21.70", "LON": "-81.60", "TIME": "09/29/06Z", "WIND": "35", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.60, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "21.90", "LON": "-81.00", "TIME": "09/29/12Z", "WIND": "40", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "22.20", "LON": "-80.50", "TIME": "09/29/15Z", "WIND": "40", "PR": "995", "STAT": "LOW", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/29/15Z" }, "geometry": { "type": "Point", "coordinates": [ -80.50, 22.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "23.30", "LON": "-80.10", "TIME": "09/29/18Z", "WIND": "40", "PR": "994", "STAT": "LOW", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -80.10, 23.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "24.70", "LON": "-79.60", "TIME": "09/30/00Z", "WIND": "40", "PR": "994", "STAT": "LOW", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -79.60, 24.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "26.10", "LON": "-79.00", "TIME": "09/30/06Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -79.00, 26.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "27.40", "LON": "-78.50", "TIME": "09/30/12Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/NICOLE/2010-NICOLE.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.50, 27.40 ] } }
+
+]
+}
