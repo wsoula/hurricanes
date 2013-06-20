@@ -1,0 +1,113 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "9.00", "LON": "-53.70", "TIME": "10/29/06Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -53.70, 9.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "9.80", "LON": "-55.30", "TIME": "10/29/12Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.30, 9.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "10.80", "LON": "-56.80", "TIME": "10/29/18Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -56.80, 10.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "11.90", "LON": "-57.80", "TIME": "10/30/00Z", "WIND": "55", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.80, 11.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "12.70", "LON": "-58.90", "TIME": "10/30/06Z", "WIND": "60", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.90, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "13.00", "LON": "-59.50", "TIME": "10/30/09Z", "WIND": "60", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/30/09Z" }, "geometry": { "type": "Point", "coordinates": [ -59.50, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.10", "LON": "-60.10", "TIME": "10/30/12Z", "WIND": "65", "PR": "993", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -60.10, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.30", "LON": "-61.00", "TIME": "10/30/18Z", "WIND": "80", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 13.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "13.40", "LON": "-61.20", "TIME": "10/30/20Z", "WIND": "85", "PR": "987", "STAT": "HURRICANE-2", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/30/20Z" }, "geometry": { "type": "Point", "coordinates": [ -61.20, 13.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "13.50", "LON": "-61.70", "TIME": "10/31/00Z", "WIND": "85", "PR": "982", "STAT": "HURRICANE-2", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/31/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.70, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "13.80", "LON": "-62.40", "TIME": "10/31/06Z", "WIND": "85", "PR": "983", "STAT": "HURRICANE-2", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/31/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "14.00", "LON": "-63.30", "TIME": "10/31/12Z", "WIND": "80", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.30, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "14.20", "LON": "-64.40", "TIME": "10/31/18Z", "WIND": "65", "PR": "994", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "10/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.40, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "14.10", "LON": "-65.80", "TIME": "11/01/00Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.80, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "13.90", "LON": "-67.10", "TIME": "11/01/06Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.10, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "13.60", "LON": "-68.20", "TIME": "11/01/12Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.20, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "13.50", "LON": "-69.20", "TIME": "11/01/18Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.20, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "13.50", "LON": "-70.30", "TIME": "11/02/00Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.30, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "13.50", "LON": "-71.40", "TIME": "11/02/06Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.40, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "13.50", "LON": "-72.50", "TIME": "11/02/12Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -72.50, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "13.60", "LON": "-73.40", "TIME": "11/02/18Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -73.40, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "13.80", "LON": "-73.90", "TIME": "11/03/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -73.90, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "14.00", "LON": "-74.30", "TIME": "11/03/06Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -74.30, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "14.30", "LON": "-74.70", "TIME": "11/03/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -74.70, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "14.70", "LON": "-75.10", "TIME": "11/03/18Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -75.10, 14.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "15.10", "LON": "-75.50", "TIME": "11/04/00Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.50, 15.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "15.50", "LON": "-75.90", "TIME": "11/04/06Z", "WIND": "40", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.90, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "15.90", "LON": "-76.20", "TIME": "11/04/12Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.20, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "16.40", "LON": "-76.20", "TIME": "11/04/18Z", "WIND": "50", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -76.20, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "17.00", "LON": "-75.70", "TIME": "11/05/00Z", "WIND": "60", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.70, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "17.70", "LON": "-75.20", "TIME": "11/05/06Z", "WIND": "70", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.20, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "18.70", "LON": "-74.70", "TIME": "11/05/12Z", "WIND": "75", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -74.70, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "19.70", "LON": "-74.00", "TIME": "11/05/18Z", "WIND": "70", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -74.00, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "20.40", "LON": "-73.10", "TIME": "11/06/00Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -73.10, 20.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "21.40", "LON": "-71.80", "TIME": "11/06/06Z", "WIND": "60", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "21.70", "LON": "-71.60", "TIME": "11/06/07Z", "WIND": "60", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/06/07Z" }, "geometry": { "type": "Point", "coordinates": [ -71.60, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "22.60", "LON": "-70.90", "TIME": "11/06/12Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -70.90, 22.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "23.80", "LON": "-70.30", "TIME": "11/06/18Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -70.30, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "24.90", "LON": "-69.80", "TIME": "11/07/00Z", "WIND": "70", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -69.80, 24.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "25.40", "LON": "-69.60", "TIME": "11/07/06Z", "WIND": "65", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.60, 25.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "25.70", "LON": "-69.50", "TIME": "11/07/12Z", "WIND": "60", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.50, 25.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "26.00", "LON": "-69.30", "TIME": "11/07/18Z", "WIND": "50", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 26.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "26.00", "LON": "-68.50", "TIME": "11/08/00Z", "WIND": "50", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 26.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "25.80", "LON": "-67.50", "TIME": "11/08/06Z", "WIND": "50", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.50, 25.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "25.60", "LON": "-66.20", "TIME": "11/08/12Z", "WIND": "50", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.20, 25.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "25.80", "LON": "-64.50", "TIME": "11/08/18Z", "WIND": "45", "PR": "993", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.50, 25.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "26.50", "LON": "-62.30", "TIME": "11/09/00Z", "WIND": "45", "PR": "993", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "27.90", "LON": "-60.40", "TIME": "11/09/06Z", "WIND": "45", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.40, 27.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "29.40", "LON": "-58.60", "TIME": "11/09/12Z", "WIND": "45", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.60, 29.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "31.00", "LON": "-56.90", "TIME": "11/09/18Z", "WIND": "45", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -56.90, 31.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "33.30", "LON": "-55.40", "TIME": "11/10/00Z", "WIND": "45", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -55.40, 33.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "36.00", "LON": "-54.00", "TIME": "11/10/06Z", "WIND": "45", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -54.00, 36.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "53", "LAT": "39.00", "LON": "-53.50", "TIME": "11/10/12Z", "WIND": "35", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 39.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "54", "LAT": "42.00", "LON": "-53.50", "TIME": "11/10/18Z", "WIND": "35", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/TOMAS/2010-TOMAS.geojson", "DATES": "11/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 42.00 ] } }
+
+]
+}
