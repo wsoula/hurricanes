@@ -1,0 +1,49 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "16.30", "LON": "-78.50", "TIME": "09/13/18Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.50, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "16.60", "LON": "-79.80", "TIME": "09/14/00Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -79.80, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "17.00", "LON": "-81.10", "TIME": "09/14/06Z", "WIND": "25", "PR": "1003", "STAT": "LOW", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.10, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "17.60", "LON": "-82.30", "TIME": "09/14/12Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.30, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.10", "LON": "-83.60", "TIME": "09/14/18Z", "WIND": "35", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.60, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.30", "LON": "-85.00", "TIME": "09/15/00Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.30", "LON": "-86.20", "TIME": "09/15/06Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.20, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "18.50", "LON": "-87.60", "TIME": "09/15/12Z", "WIND": "55", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.60, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "18.50", "LON": "-87.80", "TIME": "09/15/12Z", "WIND": "55", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.80, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "18.80", "LON": "-88.80", "TIME": "09/15/18Z", "WIND": "45", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -88.80, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "19.20", "LON": "-90.10", "TIME": "09/16/00Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -90.10, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "19.40", "LON": "-91.10", "TIME": "09/16/06Z", "WIND": "45", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -91.10, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "19.60", "LON": "-92.20", "TIME": "09/16/12Z", "WIND": "55", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -92.20, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "19.60", "LON": "-93.30", "TIME": "09/16/18Z", "WIND": "70", "PR": "982", "STAT": "HURRICANE-1", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -93.30, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "19.70", "LON": "-94.10", "TIME": "09/17/00Z", "WIND": "85", "PR": "971", "STAT": "HURRICANE-2", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -94.10, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "19.70", "LON": "-94.90", "TIME": "09/17/06Z", "WIND": "95", "PR": "966", "STAT": "HURRICANE-2", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -94.90, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "19.60", "LON": "-95.60", "TIME": "09/17/12Z", "WIND": "110", "PR": "956", "STAT": "HURRICANE-3", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -95.60, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "19.40", "LON": "-96.00", "TIME": "09/17/15Z", "WIND": "110", "PR": "970", "STAT": "HURRICANE-3", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/17/15Z" }, "geometry": { "type": "Point", "coordinates": [ -96.00, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "19.30", "LON": "-96.20", "TIME": "09/17/16Z", "WIND": "100", "PR": "976", "STAT": "HURRICANE-3", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/17/16Z" }, "geometry": { "type": "Point", "coordinates": [ -96.20, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "19.20", "LON": "-96.40", "TIME": "09/17/18Z", "WIND": "90", "PR": "979", "STAT": "HURRICANE-2", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -96.40, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "18.70", "LON": "-97.10", "TIME": "09/18/00Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -97.10, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "18.60", "LON": "-97.40", "TIME": "09/18/06Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/KARL/2010-KARL.geojson", "DATES": "09/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.40, 18.60 ] } }
+
+]
+}
