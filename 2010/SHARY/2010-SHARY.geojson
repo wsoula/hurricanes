@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "25.60", "LON": "-61.20", "TIME": "10/28/18Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -61.20, 25.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "26.80", "LON": "-63.00", "TIME": "10/29/00Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -63.00, 26.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "28.10", "LON": "-64.60", "TIME": "10/29/06Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -64.60, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "29.30", "LON": "-65.90", "TIME": "10/29/12Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.90, 29.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "30.20", "LON": "-65.80", "TIME": "10/29/18Z", "WIND": "55", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -65.80, 30.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "31.30", "LON": "-64.00", "TIME": "10/30/00Z", "WIND": "65", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.00, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "32.90", "LON": "-60.90", "TIME": "10/30/06Z", "WIND": "65", "PR": "989", "STAT": "HURRICANE-1", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.90, 32.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "35.10", "LON": "-57.20", "TIME": "10/30/12Z", "WIND": "65", "PR": "991", "STAT": "HURRICANE-1", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -57.20, 35.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "37.00", "LON": "-53.50", "TIME": "10/30/18Z", "WIND": "55", "PR": "993", "STAT": "EXTRATROPICAL,STORM", "NAME": "2010/SHARY/2010-SHARY.geojson", "DATES": "10/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 37.00 ] } }
+
+]
+}
