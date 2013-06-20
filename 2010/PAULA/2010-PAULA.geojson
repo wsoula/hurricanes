@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "13.90", "LON": "-81.80", "TIME": "10/11/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.80, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "14.40", "LON": "-82.50", "TIME": "10/11/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -82.50, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "15.00", "LON": "-83.20", "TIME": "10/11/12Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "15.70", "LON": "-83.80", "TIME": "10/11/18Z", "WIND": "60", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.80, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "16.50", "LON": "-84.40", "TIME": "10/12/00Z", "WIND": "65", "PR": "996", "STAT": "HURRICANE-1", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -84.40, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "17.30", "LON": "-85.00", "TIME": "10/12/06Z", "WIND": "65", "PR": "991", "STAT": "HURRICANE-1", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.10", "LON": "-85.60", "TIME": "10/12/12Z", "WIND": "75", "PR": "986", "STAT": "HURRICANE-1", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.60, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "18.80", "LON": "-85.90", "TIME": "10/12/18Z", "WIND": "90", "PR": "981", "STAT": "HURRICANE-2", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.90, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "19.60", "LON": "-86.00", "TIME": "10/13/00Z", "WIND": "90", "PR": "981", "STAT": "HURRICANE-2", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.00, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "20.30", "LON": "-86.00", "TIME": "10/13/06Z", "WIND": "85", "PR": "984", "STAT": "HURRICANE-2", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.00, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "20.90", "LON": "-85.90", "TIME": "10/13/12Z", "WIND": "85", "PR": "987", "STAT": "HURRICANE-2", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.90, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "21.40", "LON": "-85.80", "TIME": "10/13/18Z", "WIND": "75", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "21.80", "LON": "-85.60", "TIME": "10/14/00Z", "WIND": "75", "PR": "993", "STAT": "HURRICANE-1", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.60, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "22.20", "LON": "-85.20", "TIME": "10/14/06Z", "WIND": "70", "PR": "995", "STAT": "HURRICANE-1", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.20, 22.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "22.60", "LON": "-84.50", "TIME": "10/14/12Z", "WIND": "60", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.50, 22.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "22.70", "LON": "-83.90", "TIME": "10/14/15Z", "WIND": "55", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/14/15Z" }, "geometry": { "type": "Point", "coordinates": [ -83.90, 22.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "22.80", "LON": "-83.50", "TIME": "10/14/18Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.50, 22.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "22.90", "LON": "-82.00", "TIME": "10/15/00Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.00, 22.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "22.90", "LON": "-80.90", "TIME": "10/15/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.90, 22.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "22.90", "LON": "-79.90", "TIME": "10/15/12Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -79.90, 22.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "23.00", "LON": "-79.10", "TIME": "10/15/18Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2010/PAULA/2010-PAULA.geojson", "DATES": "10/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -79.10, 23.00 ] } }
+
+]
+}
