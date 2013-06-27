@@ -1,0 +1,73 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "39.00", "LON": "-35.00", "TIME": "09/26/00Z", "WIND": "40", "PR": "1011", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -35.00, 39.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "37.90", "LON": "-35.00", "TIME": "09/26/06Z", "WIND": "45", "PR": "1010", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.00, 37.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "37.00", "LON": "-35.50", "TIME": "09/26/12Z", "WIND": "50", "PR": "1009", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -35.50, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "36.50", "LON": "-36.00", "TIME": "09/26/18Z", "WIND": "55", "PR": "1007", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -36.00, 36.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "37.00", "LON": "-36.50", "TIME": "09/27/00Z", "WIND": "60", "PR": "1004", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -36.50, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "37.40", "LON": "-37.20", "TIME": "09/27/06Z", "WIND": "65", "PR": "998", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -37.20, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "37.50", "LON": "-38.00", "TIME": "09/27/12Z", "WIND": "70", "PR": "992", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.00, 37.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "37.40", "LON": "-39.00", "TIME": "09/27/18Z", "WIND": "70", "PR": "992", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.00, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "37.30", "LON": "-40.00", "TIME": "09/28/00Z", "WIND": "60", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.00, 37.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "37.20", "LON": "-41.20", "TIME": "09/28/06Z", "WIND": "55", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.20, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "37.00", "LON": "-42.50", "TIME": "09/28/12Z", "WIND": "50", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -42.50, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "36.80", "LON": "-44.10", "TIME": "09/28/18Z", "WIND": "50", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -44.10, 36.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "36.70", "LON": "-45.70", "TIME": "09/29/00Z", "WIND": "50", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -45.70, 36.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "37.00", "LON": "-47.00", "TIME": "09/29/06Z", "WIND": "50", "PR": "995", "STAT": "SUBTROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -47.00, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "37.20", "LON": "-47.70", "TIME": "09/29/12Z", "WIND": "50", "PR": "995", "STAT": "SUBTROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -47.70, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "37.80", "LON": "-48.20", "TIME": "09/29/18Z", "WIND": "50", "PR": "995", "STAT": "SUBTROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -48.20, 37.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "38.60", "LON": "-48.50", "TIME": "09/30/00Z", "WIND": "50", "PR": "996", "STAT": "SUBTROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.50, 38.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "39.60", "LON": "-48.80", "TIME": "09/30/06Z", "WIND": "50", "PR": "996", "STAT": "SUBTROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -48.80, 39.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "40.60", "LON": "-48.90", "TIME": "09/30/12Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -48.90, 40.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "41.70", "LON": "-48.80", "TIME": "09/30/18Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "09/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -48.80, 41.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "42.90", "LON": "-48.30", "TIME": "10/01/00Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.30, 42.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "44.20", "LON": "-47.70", "TIME": "10/01/06Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -47.70, 44.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "45.70", "LON": "-46.90", "TIME": "10/01/12Z", "WIND": "40", "PR": "995", "STAT": "LOW", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.90, 45.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "47.50", "LON": "-46.30", "TIME": "10/01/18Z", "WIND": "40", "PR": "995", "STAT": "LOW", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.30, 47.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "49.50", "LON": "-46.00", "TIME": "10/02/00Z", "WIND": "35", "PR": "997", "STAT": "LOW", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -46.00, 49.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "51.50", "LON": "-46.00", "TIME": "10/02/06Z", "WIND": "35", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -46.00, 51.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "53.50", "LON": "-46.00", "TIME": "10/02/12Z", "WIND": "40", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.00, 53.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "55.60", "LON": "-45.50", "TIME": "10/02/18Z", "WIND": "40", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -45.50, 55.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "56.90", "LON": "-44.00", "TIME": "10/03/00Z", "WIND": "50", "PR": "991", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -44.00, 56.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "57.00", "LON": "-42.00", "TIME": "10/03/06Z", "WIND": "65", "PR": "990", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -42.00, 57.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "57.00", "LON": "-40.00", "TIME": "10/03/12Z", "WIND": "60", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -40.00, 57.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "57.00", "LON": "-37.00", "TIME": "10/03/18Z", "WIND": "55", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -37.00, 57.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "56.50", "LON": "-31.40", "TIME": "10/04/00Z", "WIND": "45", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -31.40, 56.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "56.00", "LON": "-26.00", "TIME": "10/04/06Z", "WIND": "40", "PR": "997", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/LAURA/2008-LAURA.geojson", "DATES": "10/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -26.00, 56.00 ] } }
+
+]
+}
