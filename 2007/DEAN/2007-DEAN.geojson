@@ -1,0 +1,89 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.20", "LON": "-28.90", "TIME": "08/13/06Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -28.90, 12.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "12.10", "LON": "-30.70", "TIME": "08/13/12Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -30.70, 12.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.00", "LON": "-32.40", "TIME": "08/13/18Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.40, 12.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "11.90", "LON": "-34.50", "TIME": "08/14/00Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -34.50, 11.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "11.80", "LON": "-36.50", "TIME": "08/14/06Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -36.50, 11.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "11.80", "LON": "-38.30", "TIME": "08/14/12Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.30, 11.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "11.80", "LON": "-40.10", "TIME": "08/14/18Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -40.10, 11.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "11.90", "LON": "-41.70", "TIME": "08/15/00Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -41.70, 11.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "12.00", "LON": "-43.40", "TIME": "08/15/06Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -43.40, 12.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "12.30", "LON": "-45.10", "TIME": "08/15/12Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -45.10, 12.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "12.80", "LON": "-47.00", "TIME": "08/15/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.00, 12.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "13.00", "LON": "-49.20", "TIME": "08/16/00Z", "WIND": "60", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -49.20, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "13.20", "LON": "-51.30", "TIME": "08/16/06Z", "WIND": "70", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -51.30, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "13.50", "LON": "-53.30", "TIME": "08/16/12Z", "WIND": "80", "PR": "972", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.30, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "13.80", "LON": "-55.50", "TIME": "08/16/18Z", "WIND": "80", "PR": "972", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -55.50, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "14.00", "LON": "-57.70", "TIME": "08/17/00Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.70, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "14.20", "LON": "-59.80", "TIME": "08/17/06Z", "WIND": "80", "PR": "975", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -59.80, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "14.40", "LON": "-61.70", "TIME": "08/17/12Z", "WIND": "90", "PR": "967", "STAT": "HURRICANE-2", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.70, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "14.80", "LON": "-63.50", "TIME": "08/17/18Z", "WIND": "110", "PR": "961", "STAT": "HURRICANE-3", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.50, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "14.90", "LON": "-65.10", "TIME": "08/18/00Z", "WIND": "125", "PR": "944", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.10, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "15.00", "LON": "-66.60", "TIME": "08/18/06Z", "WIND": "145", "PR": "929", "STAT": "HURRICANE-5", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.60, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "15.40", "LON": "-68.00", "TIME": "08/18/12Z", "WIND": "145", "PR": "923", "STAT": "HURRICANE-5", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "15.90", "LON": "-69.50", "TIME": "08/18/18Z", "WIND": "130", "PR": "930", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.50, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "16.10", "LON": "-71.00", "TIME": "08/19/00Z", "WIND": "120", "PR": "920", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -71.00, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "16.40", "LON": "-72.60", "TIME": "08/19/06Z", "WIND": "120", "PR": "921", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.60, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "16.80", "LON": "-74.30", "TIME": "08/19/12Z", "WIND": "125", "PR": "923", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -74.30, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "17.10", "LON": "-76.00", "TIME": "08/19/18Z", "WIND": "125", "PR": "930", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -76.00, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "17.50", "LON": "-77.80", "TIME": "08/20/00Z", "WIND": "125", "PR": "926", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -77.80, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "17.60", "LON": "-79.80", "TIME": "08/20/06Z", "WIND": "130", "PR": "926", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -79.80, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "17.80", "LON": "-81.50", "TIME": "08/20/12Z", "WIND": "130", "PR": "926", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.50, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "18.00", "LON": "-83.30", "TIME": "08/20/18Z", "WIND": "135", "PR": "924", "STAT": "HURRICANE-4", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.30, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "18.20", "LON": "-85.10", "TIME": "08/21/00Z", "WIND": "145", "PR": "914", "STAT": "HURRICANE-5", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.10, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "18.60", "LON": "-86.90", "TIME": "08/21/06Z", "WIND": "150", "PR": "907", "STAT": "HURRICANE-5", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.90, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "18.70", "LON": "-87.70", "TIME": "08/21/08Z", "WIND": "150", "PR": "905", "STAT": "HURRICANE-5", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/21/08Z" }, "geometry": { "type": "Point", "coordinates": [ -87.70, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "18.90", "LON": "-88.70", "TIME": "08/21/12Z", "WIND": "110", "PR": "935", "STAT": "HURRICANE-3", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -88.70, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "19.20", "LON": "-90.50", "TIME": "08/21/18Z", "WIND": "75", "PR": "960", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -90.50, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "19.70", "LON": "-92.20", "TIME": "08/22/00Z", "WIND": "65", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -92.20, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "20.10", "LON": "-94.00", "TIME": "08/22/06Z", "WIND": "70", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -94.00, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "20.50", "LON": "-95.50", "TIME": "08/22/12Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -95.50, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "20.50", "LON": "-97.00", "TIME": "08/22/16Z", "WIND": "85", "PR": "974", "STAT": "HURRICANE-2", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/22/16Z" }, "geometry": { "type": "Point", "coordinates": [ -97.00, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "20.50", "LON": "-97.30", "TIME": "08/22/18Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -97.30, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "20.50", "LON": "-99.00", "TIME": "08/23/00Z", "WIND": "30", "PR": "998", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/DEAN/2007-DEAN.geojson", "DATES": "08/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -99.00, 20.50 ] } }
+
+]
+}
