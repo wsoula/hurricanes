@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "36.20", "LON": "-46.10", "TIME": "09/23/00Z", "WIND": "30", "PR": "1008", "STAT": "SUBTROPICAL,DEPRESSION", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -46.10, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "36.20", "LON": "-46.10", "TIME": "09/23/06Z", "WIND": "35", "PR": "1007", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -46.10, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "36.00", "LON": "-46.30", "TIME": "09/23/12Z", "WIND": "35", "PR": "1004", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.30, 36.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "36.50", "LON": "-46.30", "TIME": "09/23/18Z", "WIND": "35", "PR": "1004", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.30, 36.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "37.10", "LON": "-46.30", "TIME": "09/24/00Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -46.30, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "38.10", "LON": "-45.90", "TIME": "09/24/06Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -45.90, 38.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "39.30", "LON": "-44.70", "TIME": "09/24/12Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -44.70, 39.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "41.00", "LON": "-43.50", "TIME": "09/24/18Z", "WIND": "30", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/JERRY/2007-JERRY.geojson", "DATES": "09/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.50, 41.00 ] } }
+
+]
+}
