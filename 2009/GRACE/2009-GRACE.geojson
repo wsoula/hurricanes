@@ -1,0 +1,79 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "46.00", "LON": "-43.20", "TIME": "09/27/18Z", "WIND": "55", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.20, 46.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "45.30", "LON": "-42.90", "TIME": "09/28/00Z", "WIND": "50", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -42.90, 45.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "44.70", "LON": "-42.00", "TIME": "09/28/06Z", "WIND": "45", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -42.00, 44.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "44.00", "LON": "-40.30", "TIME": "09/28/12Z", "WIND": "45", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -40.30, 44.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "43.80", "LON": "-38.70", "TIME": "09/28/18Z", "WIND": "40", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -38.70, 43.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "43.60", "LON": "-37.10", "TIME": "09/29/00Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -37.10, 43.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "43.40", "LON": "-35.80", "TIME": "09/29/06Z", "WIND": "35", "PR": "998", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.80, 43.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "42.90", "LON": "-35.30", "TIME": "09/29/12Z", "WIND": "35", "PR": "1000", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -35.30, 42.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "42.30", "LON": "-35.20", "TIME": "09/29/18Z", "WIND": "35", "PR": "999", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -35.20, 42.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "41.40", "LON": "-35.40", "TIME": "09/30/00Z", "WIND": "35", "PR": "998", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -35.40, 41.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "40.30", "LON": "-35.30", "TIME": "09/30/06Z", "WIND": "35", "PR": "997", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.30, 40.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "38.70", "LON": "-34.60", "TIME": "09/30/12Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -34.60, 38.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "37.40", "LON": "-33.20", "TIME": "09/30/18Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "09/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -33.20, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "36.60", "LON": "-31.50", "TIME": "10/01/00Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -31.50, 36.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "36.70", "LON": "-29.70", "TIME": "10/01/06Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.70, 36.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "37.70", "LON": "-28.70", "TIME": "10/01/12Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -28.70, 37.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "38.60", "LON": "-28.50", "TIME": "10/01/18Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -28.50, 38.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "39.30", "LON": "-28.80", "TIME": "10/02/00Z", "WIND": "35", "PR": "997", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -28.80, 39.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "39.70", "LON": "-29.40", "TIME": "10/02/06Z", "WIND": "35", "PR": "997", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.40, 39.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "40.20", "LON": "-30.00", "TIME": "10/02/12Z", "WIND": "35", "PR": "997", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -30.00, 40.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "40.90", "LON": "-30.40", "TIME": "10/02/18Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -30.40, 40.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "41.40", "LON": "-31.00", "TIME": "10/03/00Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -31.00, 41.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "41.40", "LON": "-31.90", "TIME": "10/03/06Z", "WIND": "35", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -31.90, 41.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "40.80", "LON": "-32.50", "TIME": "10/03/12Z", "WIND": "35", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -32.50, 40.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "39.90", "LON": "-32.30", "TIME": "10/03/18Z", "WIND": "40", "PR": "995", "STAT": "LOW", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.30, 39.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "39.10", "LON": "-31.30", "TIME": "10/04/00Z", "WIND": "40", "PR": "994", "STAT": "LOW", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -31.30, 39.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "38.50", "LON": "-29.50", "TIME": "10/04/06Z", "WIND": "40", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.50, 38.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "38.30", "LON": "-26.80", "TIME": "10/04/12Z", "WIND": "45", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -26.80, 38.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "38.80", "LON": "-23.90", "TIME": "10/04/18Z", "WIND": "50", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -23.90, 38.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "40.20", "LON": "-21.30", "TIME": "10/05/00Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -21.30, 40.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "42.00", "LON": "-19.00", "TIME": "10/05/06Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -19.00, 42.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "44.30", "LON": "-17.10", "TIME": "10/05/12Z", "WIND": "55", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -17.10, 44.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "46.60", "LON": "-15.50", "TIME": "10/05/18Z", "WIND": "50", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -15.50, 46.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "48.80", "LON": "-14.30", "TIME": "10/06/00Z", "WIND": "45", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -14.30, 48.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "50.00", "LON": "-12.70", "TIME": "10/06/06Z", "WIND": "40", "PR": "989", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -12.70, 50.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "50.40", "LON": "-10.60", "TIME": "10/06/12Z", "WIND": "35", "PR": "993", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -10.60, 50.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "50.80", "LON": "-7.70", "TIME": "10/06/18Z", "WIND": "30", "PR": "997", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2009/GRACE/2009-GRACE.geojson", "DATES": "10/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -7.70, 50.80 ] } }
+
+]
+}
