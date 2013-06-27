@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "15.10", "LON": "-49.20", "TIME": "10/06/00Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -49.20, 15.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "16.10", "LON": "-50.50", "TIME": "10/06/06Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -50.50, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "17.00", "LON": "-51.90", "TIME": "10/06/12Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -51.90, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "17.60", "LON": "-53.40", "TIME": "10/06/18Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.40, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.00", "LON": "-54.60", "TIME": "10/07/00Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -54.60, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.30", "LON": "-55.70", "TIME": "10/07/06Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -55.70, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.70", "LON": "-56.80", "TIME": "10/07/12Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.80, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.00", "LON": "-57.90", "TIME": "10/07/18Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -57.90, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "19.30", "LON": "-59.10", "TIME": "10/08/00Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.10, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "19.60", "LON": "-60.30", "TIME": "10/08/06Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.30, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "20.00", "LON": "-61.40", "TIME": "10/08/12Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.40, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "20.30", "LON": "-62.20", "TIME": "10/08/18Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "20.50", "LON": "-62.90", "TIME": "10/09/00Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.90, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "20.60", "LON": "-63.50", "TIME": "10/09/06Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.50, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "20.70", "LON": "-64.10", "TIME": "10/09/12Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "20.90", "LON": "-64.90", "TIME": "10/09/18Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.90, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "21.00", "LON": "-65.70", "TIME": "10/10/00Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.70, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "20.90", "LON": "-66.70", "TIME": "10/10/06Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.70, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "20.60", "LON": "-67.60", "TIME": "10/10/12Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.60, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "20.30", "LON": "-68.50", "TIME": "10/10/18Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "20.20", "LON": "-69.40", "TIME": "10/11/00Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -69.40, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "20.10", "LON": "-70.50", "TIME": "10/11/06Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -70.50, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "20.20", "LON": "-71.70", "TIME": "10/11/12Z", "WIND": "20", "PR": "1013", "STAT": "LOW", "NAME": "2009/HENRI/2009-HENRI.geojson", "DATES": "10/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -71.70, 20.20 ] } }
+
+]
+}
