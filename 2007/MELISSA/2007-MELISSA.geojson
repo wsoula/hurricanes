@@ -1,0 +1,67 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "14.00", "LON": "-25.80", "TIME": "09/28/06Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -25.80, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "14.00", "LON": "-26.20", "TIME": "09/28/12Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -26.20, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "14.00", "LON": "-26.60", "TIME": "09/28/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -26.60, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "14.20", "LON": "-27.00", "TIME": "09/29/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -27.00, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "14.50", "LON": "-27.40", "TIME": "09/29/06Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -27.40, 14.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "15.00", "LON": "-28.10", "TIME": "09/29/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -28.10, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "15.30", "LON": "-29.00", "TIME": "09/29/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -29.00, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "15.60", "LON": "-29.90", "TIME": "09/30/00Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -29.90, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "15.80", "LON": "-30.90", "TIME": "09/30/06Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -30.90, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "15.90", "LON": "-32.00", "TIME": "09/30/12Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -32.00, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "16.10", "LON": "-33.30", "TIME": "09/30/18Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "09/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -33.30, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "16.20", "LON": "-34.80", "TIME": "10/01/00Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -34.80, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "16.30", "LON": "-36.00", "TIME": "10/01/06Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -36.00, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "16.50", "LON": "-37.20", "TIME": "10/01/12Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.20, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "16.90", "LON": "-38.60", "TIME": "10/01/18Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -38.60, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "17.20", "LON": "-40.10", "TIME": "10/02/00Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.10, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "17.50", "LON": "-41.50", "TIME": "10/02/06Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.50, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "18.20", "LON": "-42.60", "TIME": "10/02/12Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -42.60, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "18.90", "LON": "-43.50", "TIME": "10/02/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.50, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "19.50", "LON": "-44.50", "TIME": "10/03/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -44.50, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "20.10", "LON": "-45.50", "TIME": "10/03/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -45.50, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "20.70", "LON": "-46.50", "TIME": "10/03/12Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.50, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "21.30", "LON": "-47.50", "TIME": "10/03/18Z", "WIND": "30", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.50, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "21.70", "LON": "-48.70", "TIME": "10/04/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.70, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "22.00", "LON": "-49.70", "TIME": "10/04/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.70, 22.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "22.40", "LON": "-50.70", "TIME": "10/04/12Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -50.70, 22.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "23.10", "LON": "-51.30", "TIME": "10/04/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -51.30, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "23.70", "LON": "-51.90", "TIME": "10/05/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.90, 23.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "24.30", "LON": "-52.50", "TIME": "10/05/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.50, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "24.50", "LON": "-53.00", "TIME": "10/05/12Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.00, 24.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "24.60", "LON": "-53.50", "TIME": "10/05/18Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2007/MELISSA/2007-MELISSA.geojson", "DATES": "10/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 24.60 ] } }
+
+]
+}
