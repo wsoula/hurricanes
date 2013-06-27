@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "16.70", "LON": "-57.30", "TIME": "09/01/18Z", "WIND": "45", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -57.30, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "16.80", "LON": "-58.00", "TIME": "09/02/00Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.00, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "16.50", "LON": "-58.90", "TIME": "09/02/06Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.90, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "16.40", "LON": "-59.90", "TIME": "09/02/12Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -59.90, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "16.30", "LON": "-61.00", "TIME": "09/02/18Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "16.30", "LON": "-61.90", "TIME": "09/03/00Z", "WIND": "35", "PR": "1009", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.90, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "16.40", "LON": "-62.70", "TIME": "09/03/06Z", "WIND": "40", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.70, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "16.50", "LON": "-63.50", "TIME": "09/03/12Z", "WIND": "40", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.50, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "16.60", "LON": "-64.50", "TIME": "09/03/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.50, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "16.80", "LON": "-65.50", "TIME": "09/04/00Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.50, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "17.00", "LON": "-66.50", "TIME": "09/04/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2009/ERIKA/2009-ERIKA.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.50, 17.00 ] } }
+
+]
+}
