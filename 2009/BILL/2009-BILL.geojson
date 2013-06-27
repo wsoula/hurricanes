@@ -1,0 +1,97 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "11.80", "LON": "-32.00", "TIME": "08/15/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -32.00, 11.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "11.50", "LON": "-33.30", "TIME": "08/15/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -33.30, 11.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "11.20", "LON": "-34.50", "TIME": "08/15/18Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -34.50, 11.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "11.20", "LON": "-35.50", "TIME": "08/16/00Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -35.50, 11.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "11.50", "LON": "-36.50", "TIME": "08/16/06Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -36.50, 11.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "12.00", "LON": "-37.80", "TIME": "08/16/12Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.80, 12.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "12.60", "LON": "-39.40", "TIME": "08/16/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.40, 12.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.10", "LON": "-41.30", "TIME": "08/17/00Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -41.30, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "13.50", "LON": "-43.20", "TIME": "08/17/06Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -43.20, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "13.90", "LON": "-44.60", "TIME": "08/17/12Z", "WIND": "75", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -44.60, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "14.40", "LON": "-46.00", "TIME": "08/17/18Z", "WIND": "80", "PR": "970", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.00, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "14.80", "LON": "-47.50", "TIME": "08/18/00Z", "WIND": "85", "PR": "967", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -47.50, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "15.30", "LON": "-49.00", "TIME": "08/18/06Z", "WIND": "90", "PR": "965", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.70", "LON": "-50.30", "TIME": "08/18/12Z", "WIND": "95", "PR": "963", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -50.30, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "16.20", "LON": "-51.70", "TIME": "08/18/18Z", "WIND": "100", "PR": "962", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -51.70, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "16.90", "LON": "-52.90", "TIME": "08/19/00Z", "WIND": "105", "PR": "955", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -52.90, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "17.60", "LON": "-54.20", "TIME": "08/19/06Z", "WIND": "115", "PR": "954", "STAT": "HURRICANE-4", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -54.20, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "18.30", "LON": "-55.60", "TIME": "08/19/12Z", "WIND": "115", "PR": "949", "STAT": "HURRICANE-4", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.60, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "19.30", "LON": "-56.90", "TIME": "08/19/18Z", "WIND": "115", "PR": "947", "STAT": "HURRICANE-4", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -56.90, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "20.20", "LON": "-58.20", "TIME": "08/20/00Z", "WIND": "115", "PR": "945", "STAT": "HURRICANE-4", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.20, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "21.10", "LON": "-59.60", "TIME": "08/20/06Z", "WIND": "115", "PR": "949", "STAT": "HURRICANE-4", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -59.60, 21.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "22.10", "LON": "-61.00", "TIME": "08/20/12Z", "WIND": "105", "PR": "952", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 22.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "23.10", "LON": "-62.40", "TIME": "08/20/18Z", "WIND": "110", "PR": "948", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "24.10", "LON": "-63.70", "TIME": "08/21/00Z", "WIND": "110", "PR": "943", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -63.70, 24.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "25.50", "LON": "-64.90", "TIME": "08/21/06Z", "WIND": "105", "PR": "951", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -64.90, 25.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "27.10", "LON": "-66.00", "TIME": "08/21/12Z", "WIND": "100", "PR": "954", "STAT": "HURRICANE-3", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.00, 27.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "28.60", "LON": "-66.90", "TIME": "08/21/18Z", "WIND": "95", "PR": "956", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.90, 28.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "30.40", "LON": "-67.60", "TIME": "08/22/00Z", "WIND": "90", "PR": "957", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -67.60, 30.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "32.30", "LON": "-68.40", "TIME": "08/22/06Z", "WIND": "90", "PR": "960", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.40, 32.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "34.10", "LON": "-68.80", "TIME": "08/22/12Z", "WIND": "85", "PR": "961", "STAT": "HURRICANE-2", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.80, 34.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "36.00", "LON": "-68.90", "TIME": "08/22/18Z", "WIND": "80", "PR": "961", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.90, 36.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "38.10", "LON": "-68.40", "TIME": "08/23/00Z", "WIND": "80", "PR": "961", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.40, 38.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "40.10", "LON": "-67.30", "TIME": "08/23/06Z", "WIND": "75", "PR": "962", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.30, 40.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "42.40", "LON": "-65.40", "TIME": "08/23/12Z", "WIND": "70", "PR": "965", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.40, 42.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "44.40", "LON": "-62.50", "TIME": "08/23/18Z", "WIND": "65", "PR": "970", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.50, 44.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "46.30", "LON": "-57.90", "TIME": "08/24/00Z", "WIND": "65", "PR": "973", "STAT": "HURRICANE-1", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.90, 46.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "46.80", "LON": "-56.40", "TIME": "08/24/02Z", "WIND": "60", "PR": "974", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/24/02Z" }, "geometry": { "type": "Point", "coordinates": [ -56.40, 46.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "46.90", "LON": "-56.00", "TIME": "08/24/03Z", "WIND": "60", "PR": "976", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/24/03Z" }, "geometry": { "type": "Point", "coordinates": [ -56.00, 46.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "48.00", "LON": "-53.00", "TIME": "08/24/06Z", "WIND": "60", "PR": "980", "STAT": "TROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -53.00, 48.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "49.20", "LON": "-47.20", "TIME": "08/24/12Z", "WIND": "60", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -47.20, 49.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "50.00", "LON": "-41.20", "TIME": "08/24/18Z", "WIND": "60", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -41.20, 50.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "50.30", "LON": "-35.40", "TIME": "08/25/00Z", "WIND": "60", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -35.40, 50.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "50.70", "LON": "-29.60", "TIME": "08/25/06Z", "WIND": "60", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.60, 50.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "51.20", "LON": "-23.80", "TIME": "08/25/12Z", "WIND": "60", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -23.80, 51.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "52.00", "LON": "-18.00", "TIME": "08/25/18Z", "WIND": "50", "PR": "982", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -18.00, 52.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "53.00", "LON": "-13.00", "TIME": "08/26/00Z", "WIND": "40", "PR": "985", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/BILL/2009-BILL.geojson", "DATES": "08/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -13.00, 53.00 ] } }
+
+]
+}
