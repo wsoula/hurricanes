@@ -1,0 +1,103 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "19.40", "LON": "-57.30", "TIME": "08/28/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.30, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "19.70", "LON": "-57.80", "TIME": "08/28/06Z", "WIND": "30", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.80, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "20.10", "LON": "-58.60", "TIME": "08/28/12Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.60, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "20.50", "LON": "-59.60", "TIME": "08/28/18Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -59.60, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "20.80", "LON": "-60.50", "TIME": "08/29/00Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -60.50, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "20.90", "LON": "-61.50", "TIME": "08/29/06Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -61.50, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "21.10", "LON": "-62.40", "TIME": "08/29/12Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.40, 21.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "21.50", "LON": "-63.40", "TIME": "08/29/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.40, 21.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "21.70", "LON": "-64.50", "TIME": "08/30/00Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.50, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "21.80", "LON": "-65.50", "TIME": "08/30/06Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.50, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "21.90", "LON": "-66.20", "TIME": "08/30/12Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.20, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "22.20", "LON": "-66.90", "TIME": "08/30/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.90, 22.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "22.60", "LON": "-67.50", "TIME": "08/31/00Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/31/00Z" }, "geometry": { "type": "Point", "coordinates": [ -67.50, 22.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "23.10", "LON": "-68.50", "TIME": "08/31/06Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/31/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "23.50", "LON": "-69.80", "TIME": "08/31/12Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.80, 23.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "23.60", "LON": "-71.00", "TIME": "08/31/18Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "08/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -71.00, 23.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "23.50", "LON": "-71.70", "TIME": "09/01/00Z", "WIND": "45", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -71.70, 23.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "23.20", "LON": "-72.00", "TIME": "09/01/06Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.00, 23.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "22.80", "LON": "-72.20", "TIME": "09/01/12Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -72.20, 22.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "22.30", "LON": "-72.40", "TIME": "09/01/18Z", "WIND": "70", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -72.40, 22.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "21.80", "LON": "-72.30", "TIME": "09/02/00Z", "WIND": "75", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -72.30, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "21.40", "LON": "-72.70", "TIME": "09/02/06Z", "WIND": "65", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.70, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "21.00", "LON": "-73.00", "TIME": "09/02/12Z", "WIND": "60", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.00, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "20.60", "LON": "-72.90", "TIME": "09/02/18Z", "WIND": "55", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -72.90, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "20.40", "LON": "-72.60", "TIME": "09/03/00Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -72.60, 20.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "20.20", "LON": "-72.40", "TIME": "09/03/06Z", "WIND": "50", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.40, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "20.60", "LON": "-71.90", "TIME": "09/03/12Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -71.90, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "21.60", "LON": "-71.80", "TIME": "09/03/18Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "21.70", "LON": "-71.80", "TIME": "09/03/19Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/03/19Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "22.70", "LON": "-71.80", "TIME": "09/04/00Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 22.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "23.40", "LON": "-72.40", "TIME": "09/04/06Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.40, 23.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "24.10", "LON": "-73.20", "TIME": "09/04/12Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.20, 24.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "25.10", "LON": "-74.30", "TIME": "09/04/18Z", "WIND": "55", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -74.30, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "26.10", "LON": "-75.80", "TIME": "09/05/00Z", "WIND": "55", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.80, 26.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "27.20", "LON": "-77.30", "TIME": "09/05/06Z", "WIND": "55", "PR": "984", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -77.30, 27.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "28.20", "LON": "-78.50", "TIME": "09/05/12Z", "WIND": "55", "PR": "980", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.50, 28.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "29.90", "LON": "-78.70", "TIME": "09/05/18Z", "WIND": "60", "PR": "980", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.70, 29.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "31.50", "LON": "-79.30", "TIME": "09/06/00Z", "WIND": "60", "PR": "980", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -79.30, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "33.40", "LON": "-78.80", "TIME": "09/06/06Z", "WIND": "60", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 33.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "33.80", "LON": "-78.70", "TIME": "09/06/07Z", "WIND": "60", "PR": "981", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/06/07Z" }, "geometry": { "type": "Point", "coordinates": [ -78.70, 33.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "35.70", "LON": "-78.10", "TIME": "09/06/12Z", "WIND": "45", "PR": "985", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.10, 35.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "37.80", "LON": "-76.70", "TIME": "09/06/18Z", "WIND": "45", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -76.70, 37.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "40.00", "LON": "-74.50", "TIME": "09/07/00Z", "WIND": "45", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -74.50, 40.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "41.90", "LON": "-71.70", "TIME": "09/07/06Z", "WIND": "45", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.70, 41.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "43.80", "LON": "-68.00", "TIME": "09/07/12Z", "WIND": "45", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.00, 43.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "45.70", "LON": "-63.70", "TIME": "09/07/18Z", "WIND": "45", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.70, 45.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "47.00", "LON": "-59.10", "TIME": "09/08/00Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.10, 47.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "47.50", "LON": "-55.40", "TIME": "09/08/06Z", "WIND": "40", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -55.40, 47.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "47.80", "LON": "-52.10", "TIME": "09/08/12Z", "WIND": "35", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/HANNA/2008-HANNA.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -52.10, 47.80 ] } }
+
+]
+}
