@@ -1,0 +1,55 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "18.30", "LON": "-61.80", "TIME": "12/10/12Z", "WIND": "35", "PR": "1009", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.80, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.30", "LON": "-63.20", "TIME": "12/10/18Z", "WIND": "35", "PR": "1008", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.20, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "18.40", "LON": "-64.70", "TIME": "12/11/00Z", "WIND": "35", "PR": "1007", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.70, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "18.50", "LON": "-66.30", "TIME": "12/11/06Z", "WIND": "40", "PR": "1005", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.30, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.40", "LON": "-66.50", "TIME": "12/11/07Z", "WIND": "40", "PR": "1005", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/11/07Z" }, "geometry": { "type": "Point", "coordinates": [ -66.50, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.30", "LON": "-67.40", "TIME": "12/11/12Z", "WIND": "45", "PR": "1004", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.40, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.50", "LON": "-68.40", "TIME": "12/11/18Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.40, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.00", "LON": "-70.00", "TIME": "12/12/00Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "19.10", "LON": "-71.90", "TIME": "12/12/06Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.90, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "19.10", "LON": "-73.80", "TIME": "12/12/12Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.80, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "19.00", "LON": "-75.70", "TIME": "12/12/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -75.70, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "18.90", "LON": "-77.20", "TIME": "12/13/00Z", "WIND": "30", "PR": "1008", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -77.20, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "19.00", "LON": "-78.70", "TIME": "12/13/06Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.70, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "19.40", "LON": "-80.10", "TIME": "12/13/12Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.10, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "19.60", "LON": "-81.30", "TIME": "12/13/18Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.30, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "19.70", "LON": "-82.30", "TIME": "12/14/00Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.30, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "19.70", "LON": "-83.30", "TIME": "12/14/06Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.30, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "19.60", "LON": "-84.20", "TIME": "12/14/12Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.20, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "19.50", "LON": "-85.10", "TIME": "12/14/18Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.10, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "20.00", "LON": "-85.80", "TIME": "12/15/00Z", "WIND": "30", "PR": "1006", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "20.60", "LON": "-86.50", "TIME": "12/15/06Z", "WIND": "30", "PR": "1006", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.50, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "21.70", "LON": "-87.40", "TIME": "12/15/12Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.40, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "23.30", "LON": "-88.20", "TIME": "12/15/18Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -88.20, 23.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "25.00", "LON": "-87.20", "TIME": "12/16/00Z", "WIND": "30", "PR": "1005", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -87.20, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "26.30", "LON": "-85.20", "TIME": "12/16/06Z", "WIND": "25", "PR": "1006", "STAT": "LOW", "NAME": "2007/OLGA/2007-OLGA.geojson", "DATES": "12/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.20, 26.30 ] } }
+
+]
+}
