@@ -1,0 +1,61 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "11.50", "LON": "-56.60", "TIME": "08/31/12Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "08/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.60, 11.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "11.50", "LON": "-58.00", "TIME": "08/31/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "08/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -58.00, 11.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.10", "LON": "-59.40", "TIME": "09/01/00Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.40, 12.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "12.10", "LON": "-61.10", "TIME": "09/01/06Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -61.10, 12.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "12.10", "LON": "-61.70", "TIME": "09/01/08Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/01/08Z" }, "geometry": { "type": "Point", "coordinates": [ -61.70, 12.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "12.20", "LON": "-62.80", "TIME": "09/01/12Z", "WIND": "50", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.80, 12.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "12.40", "LON": "-64.50", "TIME": "09/01/18Z", "WIND": "60", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.50, 12.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "12.60", "LON": "-66.10", "TIME": "09/02/00Z", "WIND": "65", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -66.10, 12.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "12.70", "LON": "-67.80", "TIME": "09/02/06Z", "WIND": "85", "PR": "985", "STAT": "HURRICANE-2", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -67.80, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "13.00", "LON": "-69.40", "TIME": "09/02/12Z", "WIND": "90", "PR": "980", "STAT": "HURRICANE-2", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.40, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "13.40", "LON": "-71.10", "TIME": "09/02/18Z", "WIND": "115", "PR": "962", "STAT": "HURRICANE-4", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -71.10, 13.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "13.80", "LON": "-73.00", "TIME": "09/03/00Z", "WIND": "150", "PR": "935", "STAT": "HURRICANE-5", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -73.00, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "14.00", "LON": "-75.00", "TIME": "09/03/06Z", "WIND": "150", "PR": "930", "STAT": "HURRICANE-5", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.00, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "14.00", "LON": "-75.30", "TIME": "09/03/07Z", "WIND": "150", "PR": "929", "STAT": "HURRICANE-5", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/03/07Z" }, "geometry": { "type": "Point", "coordinates": [ -75.30, 14.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "14.20", "LON": "-76.90", "TIME": "09/03/12Z", "WIND": "140", "PR": "937", "STAT": "HURRICANE-5", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.90, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "14.30", "LON": "-78.70", "TIME": "09/03/18Z", "WIND": "115", "PR": "951", "STAT": "HURRICANE-4", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.70, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "14.40", "LON": "-80.40", "TIME": "09/04/00Z", "WIND": "115", "PR": "950", "STAT": "HURRICANE-4", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -80.40, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "14.30", "LON": "-81.90", "TIME": "09/04/06Z", "WIND": "135", "PR": "939", "STAT": "HURRICANE-4", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.90, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "14.30", "LON": "-83.20", "TIME": "09/04/12Z", "WIND": "140", "PR": "934", "STAT": "HURRICANE-5", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "14.30", "LON": "-84.40", "TIME": "09/04/18Z", "WIND": "85", "PR": "962", "STAT": "HURRICANE-2", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -84.40, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "14.60", "LON": "-85.40", "TIME": "09/05/00Z", "WIND": "50", "PR": "982", "STAT": "TROPICAL,STORM", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.40, 14.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "15.00", "LON": "-86.40", "TIME": "09/05/06Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.40, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "15.50", "LON": "-87.30", "TIME": "09/05/12Z", "WIND": "20", "PR": "1006", "STAT": "LOW", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.30, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "16.10", "LON": "-88.30", "TIME": "09/05/18Z", "WIND": "20", "PR": "1007", "STAT": "LOW", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -88.30, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "16.50", "LON": "-89.50", "TIME": "09/06/00Z", "WIND": "20", "PR": "1007", "STAT": "LOW", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -89.50, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "16.70", "LON": "-90.80", "TIME": "09/06/06Z", "WIND": "20", "PR": "1007", "STAT": "LOW", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -90.80, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "17.20", "LON": "-92.40", "TIME": "09/06/12Z", "WIND": "20", "PR": "1007", "STAT": "LOW", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -92.40, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "17.70", "LON": "-93.80", "TIME": "09/06/18Z", "WIND": "15", "PR": "1010", "STAT": "LOW", "NAME": "2007/FELIX/2007-FELIX.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -93.80, 17.70 ] } }
+
+]
+}
