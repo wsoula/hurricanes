@@ -1,0 +1,117 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "18.00", "LON": "-60.20", "TIME": "10/24/00Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -60.20, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.00", "LON": "-60.70", "TIME": "10/24/06Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.70, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "18.10", "LON": "-61.20", "TIME": "10/24/12Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.20, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "18.40", "LON": "-61.70", "TIME": "10/24/18Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -61.70, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.80", "LON": "-62.30", "TIME": "10/25/00Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "19.10", "LON": "-62.90", "TIME": "10/25/06Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.90, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "19.20", "LON": "-63.50", "TIME": "10/25/12Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.50, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.10", "LON": "-64.10", "TIME": "10/25/18Z", "WIND": "25", "PR": "1006", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "18.80", "LON": "-64.80", "TIME": "10/26/00Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.80, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "18.00", "LON": "-65.70", "TIME": "10/26/06Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.70, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "17.20", "LON": "-66.70", "TIME": "10/26/12Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.70, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "16.50", "LON": "-67.70", "TIME": "10/26/18Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -67.70, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "16.10", "LON": "-68.50", "TIME": "10/27/00Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.70", "LON": "-69.30", "TIME": "10/27/06Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "15.30", "LON": "-70.10", "TIME": "10/27/12Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -70.10, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "15.40", "LON": "-71.00", "TIME": "10/27/18Z", "WIND": "25", "PR": "1004", "STAT": "LOW", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -71.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "15.70", "LON": "-71.20", "TIME": "10/28/00Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -71.20, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "16.00", "LON": "-71.40", "TIME": "10/28/06Z", "WIND": "30", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.40, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "16.30", "LON": "-71.60", "TIME": "10/28/12Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -71.60, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "16.60", "LON": "-71.80", "TIME": "10/28/18Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "17.10", "LON": "-72.10", "TIME": "10/29/00Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -72.10, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "18.00", "LON": "-72.40", "TIME": "10/29/06Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.40, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "18.10", "LON": "-72.50", "TIME": "10/29/07Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/29/07Z" }, "geometry": { "type": "Point", "coordinates": [ -72.50, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "19.20", "LON": "-72.90", "TIME": "10/29/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -72.90, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "20.20", "LON": "-73.60", "TIME": "10/29/18Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -73.60, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "21.00", "LON": "-74.60", "TIME": "10/30/00Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -74.60, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "21.10", "LON": "-75.80", "TIME": "10/30/06Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.80, 21.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "20.80", "LON": "-76.80", "TIME": "10/30/12Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.80, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "20.80", "LON": "-77.40", "TIME": "10/30/18Z", "WIND": "35", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.40, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "21.20", "LON": "-77.80", "TIME": "10/31/00Z", "WIND": "35", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/31/00Z" }, "geometry": { "type": "Point", "coordinates": [ -77.80, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "21.80", "LON": "-78.10", "TIME": "10/31/06Z", "WIND": "35", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/31/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.10, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "22.50", "LON": "-78.30", "TIME": "10/31/12Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.30, 22.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "22.60", "LON": "-78.80", "TIME": "10/31/18Z", "WIND": "45", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "10/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 22.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "22.90", "LON": "-78.60", "TIME": "11/01/00Z", "WIND": "50", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -78.60, 22.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "23.40", "LON": "-78.30", "TIME": "11/01/06Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -78.30, 23.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "23.90", "LON": "-78.00", "TIME": "11/01/12Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.00, 23.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "24.10", "LON": "-77.90", "TIME": "11/01/13Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/01/13Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 24.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "25.00", "LON": "-77.40", "TIME": "11/01/17Z", "WIND": "55", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/01/17Z" }, "geometry": { "type": "Point", "coordinates": [ -77.40, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "25.10", "LON": "-77.30", "TIME": "11/01/18Z", "WIND": "55", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.30, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "26.40", "LON": "-76.50", "TIME": "11/02/00Z", "WIND": "70", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -76.50, 26.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "27.70", "LON": "-75.60", "TIME": "11/02/06Z", "WIND": "70", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.60, 27.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "28.70", "LON": "-74.40", "TIME": "11/02/12Z", "WIND": "70", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -74.40, 28.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "30.30", "LON": "-73.30", "TIME": "11/02/18Z", "WIND": "70", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -73.30, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "32.30", "LON": "-72.40", "TIME": "11/03/00Z", "WIND": "70", "PR": "980", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -72.40, 32.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "34.30", "LON": "-71.70", "TIME": "11/03/06Z", "WIND": "70", "PR": "980", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.70, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "36.40", "LON": "-70.90", "TIME": "11/03/12Z", "WIND": "75", "PR": "974", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -70.90, 36.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "38.80", "LON": "-69.70", "TIME": "11/03/18Z", "WIND": "75", "PR": "970", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.70, 38.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "41.10", "LON": "-68.20", "TIME": "11/04/00Z", "WIND": "70", "PR": "968", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.20, 41.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "43.60", "LON": "-66.20", "TIME": "11/04/06Z", "WIND": "65", "PR": "965", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.20, 43.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "47.50", "LON": "-64.30", "TIME": "11/04/12Z", "WIND": "60", "PR": "966", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -64.30, 47.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "51.20", "LON": "-62.20", "TIME": "11/04/18Z", "WIND": "60", "PR": "966", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 51.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "54.80", "LON": "-59.60", "TIME": "11/05/00Z", "WIND": "60", "PR": "967", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.60, 54.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "53", "LAT": "57.90", "LON": "-57.60", "TIME": "11/05/06Z", "WIND": "55", "PR": "967", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.60, 57.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "54", "LAT": "60.40", "LON": "-55.40", "TIME": "11/05/12Z", "WIND": "55", "PR": "968", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.40, 60.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "55", "LAT": "62.30", "LON": "-53.30", "TIME": "11/05/18Z", "WIND": "55", "PR": "974", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.30, 62.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "56", "LAT": "64.20", "LON": "-50.40", "TIME": "11/06/00Z", "WIND": "45", "PR": "983", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/NOEL/2007-NOEL.geojson", "DATES": "11/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -50.40, 64.20 ] } }
+
+]
+}
