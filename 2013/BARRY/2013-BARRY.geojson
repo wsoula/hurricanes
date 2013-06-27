@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "16.20", "LON": "-87.60", "TIME": "06/17/15Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/17/15Z" }, "geometry": { "type": "Point", "coordinates": [ -87.60, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "16.40", "LON": "-88.40", "TIME": "06/17/21Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/17/21Z" }, "geometry": { "type": "Point", "coordinates": [ -88.40, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "16.70", "LON": "-88.90", "TIME": "06/18/03Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/18/03Z" }, "geometry": { "type": "Point", "coordinates": [ -88.90, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "17.00", "LON": "-89.40", "TIME": "06/18/09Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/18/09Z" }, "geometry": { "type": "Point", "coordinates": [ -89.40, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "17.90", "LON": "-90.00", "TIME": "06/18/15Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/18/15Z" }, "geometry": { "type": "Point", "coordinates": [ -90.00, 17.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.30", "LON": "-91.90", "TIME": "06/18/21Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/18/21Z" }, "geometry": { "type": "Point", "coordinates": [ -91.90, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.90", "LON": "-92.70", "TIME": "06/19/03Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/03Z" }, "geometry": { "type": "Point", "coordinates": [ -92.70, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7A", "LAT": "19.20", "LON": "-93.10", "TIME": "06/19/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -93.10, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.30", "LON": "-93.30", "TIME": "06/19/09Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/09Z" }, "geometry": { "type": "Point", "coordinates": [ -93.30, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8A", "LAT": "19.40", "LON": "-94.00", "TIME": "06/19/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -94.00, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "19.60", "LON": "-94.50", "TIME": "06/19/15Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/15Z" }, "geometry": { "type": "Point", "coordinates": [ -94.50, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9A", "LAT": "19.70", "LON": "-95.10", "TIME": "06/19/18Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -95.10, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "19.60", "LON": "-95.20", "TIME": "06/19/21Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/19/21Z" }, "geometry": { "type": "Point", "coordinates": [ -95.20, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10A", "LAT": "19.60", "LON": "-95.50", "TIME": "06/20/00Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.50, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "19.60", "LON": "-95.80", "TIME": "06/20/03Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/03Z" }, "geometry": { "type": "Point", "coordinates": [ -95.80, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11A", "LAT": "19.60", "LON": "-96.10", "TIME": "06/20/06Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -96.10, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "19.60", "LON": "-96.20", "TIME": "06/20/09Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/09Z" }, "geometry": { "type": "Point", "coordinates": [ -96.20, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12A", "LAT": "19.60", "LON": "-96.40", "TIME": "06/20/12Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -96.40, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "19.60", "LON": "-96.60", "TIME": "06/20/15Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/15Z" }, "geometry": { "type": "Point", "coordinates": [ -96.60, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13A", "LAT": "19.60", "LON": "-97.40", "TIME": "06/20/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -97.40, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "19.60", "LON": "-97.70", "TIME": "06/20/21Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2013/BARRY/2013-BARRY.geojson", "DATES": "06/20/21Z" }, "geometry": { "type": "Point", "coordinates": [ -97.70, 19.60 ] } }
+
+]
+}
