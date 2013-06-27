@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "31.70", "LON": "-79.80", "TIME": "07/19/00Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -79.80, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "32.20", "LON": "-79.40", "TIME": "07/19/06Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -79.40, 32.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "32.40", "LON": "-78.80", "TIME": "07/19/12Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "32.80", "LON": "-78.20", "TIME": "07/19/18Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.20, 32.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "33.20", "LON": "-77.80", "TIME": "07/20/00Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -77.80, 33.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "33.70", "LON": "-77.40", "TIME": "07/20/06Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -77.40, 33.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "34.10", "LON": "-76.70", "TIME": "07/20/12Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.70, 34.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "34.50", "LON": "-76.10", "TIME": "07/20/18Z", "WIND": "45", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -76.10, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "34.90", "LON": "-75.40", "TIME": "07/21/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.40, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "35.60", "LON": "-74.30", "TIME": "07/21/06Z", "WIND": "50", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -74.30, 35.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "36.20", "LON": "-73.20", "TIME": "07/21/12Z", "WIND": "55", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.20, 36.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "36.80", "LON": "-72.00", "TIME": "07/21/18Z", "WIND": "55", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -72.00, 36.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "37.40", "LON": "-70.70", "TIME": "07/22/00Z", "WIND": "55", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.70, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "38.40", "LON": "-69.20", "TIME": "07/22/06Z", "WIND": "55", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.20, 38.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "40.00", "LON": "-67.00", "TIME": "07/22/12Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.00, 40.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "41.70", "LON": "-64.20", "TIME": "07/22/18Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.20, 41.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "43.30", "LON": "-60.70", "TIME": "07/23/00Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -60.70, 43.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "44.40", "LON": "-57.50", "TIME": "07/23/06Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/CRISTOBAL/2008-CRISTOBAL.geojson", "DATES": "07/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.50, 44.40 ] } }
+
+]
+}
