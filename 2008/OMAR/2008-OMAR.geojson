@@ -1,0 +1,69 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "15.40", "LON": "-69.00", "TIME": "10/13/06Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "15.20", "LON": "-69.60", "TIME": "10/13/12Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.60, 15.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "14.80", "LON": "-69.80", "TIME": "10/13/18Z", "WIND": "30", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.80, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "14.50", "LON": "-69.60", "TIME": "10/14/00Z", "WIND": "35", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -69.60, 14.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "14.30", "LON": "-69.30", "TIME": "10/14/06Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "14.20", "LON": "-69.10", "TIME": "10/14/12Z", "WIND": "50", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.10, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.90", "LON": "-68.80", "TIME": "10/14/18Z", "WIND": "60", "PR": "983", "STAT": "TROPICAL,STORM", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.80, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "14.10", "LON": "-68.30", "TIME": "10/15/00Z", "WIND": "65", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.30, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "14.40", "LON": "-68.00", "TIME": "10/15/06Z", "WIND": "70", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.00, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "14.90", "LON": "-67.40", "TIME": "10/15/12Z", "WIND": "75", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.40, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "15.60", "LON": "-66.50", "TIME": "10/15/18Z", "WIND": "80", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.50, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "16.70", "LON": "-65.20", "TIME": "10/16/00Z", "WIND": "95", "PR": "970", "STAT": "HURRICANE-2", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -65.20, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "18.20", "LON": "-63.90", "TIME": "10/16/06Z", "WIND": "115", "PR": "958", "STAT": "HURRICANE-4", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.90, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "19.60", "LON": "-62.10", "TIME": "10/16/12Z", "WIND": "90", "PR": "975", "STAT": "HURRICANE-2", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.10, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "21.10", "LON": "-60.40", "TIME": "10/16/18Z", "WIND": "70", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -60.40, 21.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "22.80", "LON": "-58.80", "TIME": "10/17/00Z", "WIND": "65", "PR": "986", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.80, 22.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "25.10", "LON": "-57.10", "TIME": "10/17/06Z", "WIND": "70", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.10, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "27.90", "LON": "-55.70", "TIME": "10/17/12Z", "WIND": "75", "PR": "982", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.70, 27.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "30.10", "LON": "-54.40", "TIME": "10/17/18Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -54.40, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "31.30", "LON": "-53.20", "TIME": "10/18/00Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.20, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "32.40", "LON": "-52.10", "TIME": "10/18/06Z", "WIND": "50", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.10, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "33.00", "LON": "-51.30", "TIME": "10/18/12Z", "WIND": "40", "PR": "996", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -51.30, 33.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "33.50", "LON": "-50.50", "TIME": "10/18/18Z", "WIND": "35", "PR": "1002", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -50.50, 33.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "34.00", "LON": "-49.70", "TIME": "10/19/00Z", "WIND": "30", "PR": "1006", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -49.70, 34.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "34.50", "LON": "-49.00", "TIME": "10/19/06Z", "WIND": "30", "PR": "1009", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "35.10", "LON": "-48.30", "TIME": "10/19/12Z", "WIND": "25", "PR": "1011", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -48.30, 35.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "35.70", "LON": "-47.50", "TIME": "10/19/18Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.50, 35.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "36.40", "LON": "-46.80", "TIME": "10/20/00Z", "WIND": "25", "PR": "1013", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -46.80, 36.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "37.00", "LON": "-46.20", "TIME": "10/20/06Z", "WIND": "25", "PR": "1014", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -46.20, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "37.60", "LON": "-45.30", "TIME": "10/20/12Z", "WIND": "25", "PR": "1015", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -45.30, 37.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "37.90", "LON": "-44.30", "TIME": "10/20/18Z", "WIND": "25", "PR": "1016", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -44.30, 37.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "38.30", "LON": "-43.30", "TIME": "10/21/00Z", "WIND": "25", "PR": "1016", "STAT": "LOW", "NAME": "2008/OMAR/2008-OMAR.geojson", "DATES": "10/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -43.30, 38.30 ] } }
+
+]
+}
