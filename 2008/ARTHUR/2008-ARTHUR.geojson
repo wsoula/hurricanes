@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "17.50", "LON": "-87.50", "TIME": "05/31/00Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "05/31/00Z" }, "geometry": { "type": "Point", "coordinates": [ -87.50, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "17.80", "LON": "-88.00", "TIME": "05/31/06Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "05/31/06Z" }, "geometry": { "type": "Point", "coordinates": [ -88.00, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "17.90", "LON": "-88.20", "TIME": "05/31/09Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "05/31/09Z" }, "geometry": { "type": "Point", "coordinates": [ -88.20, 17.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "18.00", "LON": "-88.40", "TIME": "05/31/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "05/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -88.40, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.20", "LON": "-88.80", "TIME": "05/31/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "05/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -88.80, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.30", "LON": "-89.20", "TIME": "06/01/00Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "06/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -89.20, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.20", "LON": "-89.80", "TIME": "06/01/06Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "06/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -89.80, 18.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "18.00", "LON": "-90.40", "TIME": "06/01/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "06/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -90.40, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "17.80", "LON": "-90.80", "TIME": "06/01/18Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "06/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -90.80, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "17.60", "LON": "-91.10", "TIME": "06/02/00Z", "WIND": "25", "PR": "1006", "STAT": "LOW", "NAME": "2008/ARTHUR/2008-ARTHUR.geojson", "DATES": "06/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -91.10, 17.60 ] } }
+
+]
+}
