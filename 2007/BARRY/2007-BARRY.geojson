@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "18.10", "LON": "-87.00", "TIME": "05/31/00Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "05/31/00Z" }, "geometry": { "type": "Point", "coordinates": [ -87.00, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.70", "LON": "-86.90", "TIME": "05/31/06Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "05/31/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.90, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "19.10", "LON": "-86.80", "TIME": "05/31/12Z", "WIND": "25", "PR": "1006", "STAT": "LOW", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "05/31/12Z" }, "geometry": { "type": "Point", "coordinates": [ -86.80, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "19.60", "LON": "-86.60", "TIME": "05/31/18Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "05/31/18Z" }, "geometry": { "type": "Point", "coordinates": [ -86.60, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "20.10", "LON": "-86.00", "TIME": "06/01/00Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.00, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "21.20", "LON": "-85.80", "TIME": "06/01/06Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "22.30", "LON": "-85.80", "TIME": "06/01/12Z", "WIND": "30", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 22.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "23.60", "LON": "-85.70", "TIME": "06/01/18Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.70, 23.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "24.30", "LON": "-85.20", "TIME": "06/02/00Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.20, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "25.10", "LON": "-84.60", "TIME": "06/02/06Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.60, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "27.00", "LON": "-83.20", "TIME": "06/02/12Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 27.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "27.50", "LON": "-82.70", "TIME": "06/02/14Z", "WIND": "30", "PR": "1000", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/02/14Z" }, "geometry": { "type": "Point", "coordinates": [ -82.70, 27.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "29.70", "LON": "-82.10", "TIME": "06/02/18Z", "WIND": "30", "PR": "1001", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -82.10, 29.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "31.40", "LON": "-81.40", "TIME": "06/03/00Z", "WIND": "35", "PR": "997", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "32.10", "LON": "-81.00", "TIME": "06/03/06Z", "WIND": "40", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 32.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "32.80", "LON": "-80.00", "TIME": "06/03/12Z", "WIND": "40", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.00, 32.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "33.70", "LON": "-78.40", "TIME": "06/03/18Z", "WIND": "40", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.40, 33.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "35.30", "LON": "-76.00", "TIME": "06/04/00Z", "WIND": "40", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -76.00, 35.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "37.20", "LON": "-74.60", "TIME": "06/04/06Z", "WIND": "40", "PR": "990", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -74.60, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "39.00", "LON": "-73.20", "TIME": "06/04/12Z", "WIND": "40", "PR": "990", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.20, 39.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "40.70", "LON": "-72.10", "TIME": "06/04/18Z", "WIND": "35", "PR": "991", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -72.10, 40.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "42.40", "LON": "-70.80", "TIME": "06/05/00Z", "WIND": "35", "PR": "992", "STAT": "EXTRATROPICAL,STORM", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.80, 42.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "44.60", "LON": "-69.50", "TIME": "06/05/06Z", "WIND": "30", "PR": "992", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.50, 44.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "47.50", "LON": "-68.50", "TIME": "06/05/12Z", "WIND": "30", "PR": "992", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2007/BARRY/2007-BARRY.geojson", "DATES": "06/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.50, 47.50 ] } }
+
+]
+}
