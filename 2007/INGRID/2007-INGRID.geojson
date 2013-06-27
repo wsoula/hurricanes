@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "13.00", "LON": "-43.60", "TIME": "09/12/06Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -43.60, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "13.00", "LON": "-44.30", "TIME": "09/12/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -44.30, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "13.10", "LON": "-45.10", "TIME": "09/12/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -45.10, 13.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.40", "LON": "-45.90", "TIME": "09/13/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -45.90, 13.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "13.70", "LON": "-46.70", "TIME": "09/13/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -46.70, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "14.10", "LON": "-47.50", "TIME": "09/13/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -47.50, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "14.40", "LON": "-48.10", "TIME": "09/13/18Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -48.10, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "14.70", "LON": "-48.60", "TIME": "09/14/00Z", "WIND": "35", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.60, 14.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "15.00", "LON": "-49.30", "TIME": "09/14/06Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.30, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "15.30", "LON": "-49.90", "TIME": "09/14/12Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -49.90, 15.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "15.60", "LON": "-50.50", "TIME": "09/14/18Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -50.50, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "15.90", "LON": "-51.20", "TIME": "09/15/00Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.20, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "16.20", "LON": "-52.20", "TIME": "09/15/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.20, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "16.30", "LON": "-53.30", "TIME": "09/15/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.30, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "16.50", "LON": "-54.40", "TIME": "09/15/18Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -54.40, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "16.70", "LON": "-55.40", "TIME": "09/16/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -55.40, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "16.90", "LON": "-56.30", "TIME": "09/16/06Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -56.30, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "17.10", "LON": "-57.20", "TIME": "09/16/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -57.20, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "17.20", "LON": "-58.10", "TIME": "09/16/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -58.10, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "17.30", "LON": "-59.00", "TIME": "09/17/00Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.00, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "17.50", "LON": "-59.90", "TIME": "09/17/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -59.90, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "18.00", "LON": "-60.60", "TIME": "09/17/12Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -60.60, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "18.40", "LON": "-61.00", "TIME": "09/17/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "18.80", "LON": "-61.40", "TIME": "09/18/00Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.40, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "19.00", "LON": "-61.70", "TIME": "09/18/06Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -61.70, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "19.10", "LON": "-62.00", "TIME": "09/18/12Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2007/INGRID/2007-INGRID.geojson", "DATES": "09/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -62.00, 19.10 ] } }
+
+]
+}
