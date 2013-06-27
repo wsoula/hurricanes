@@ -1,0 +1,109 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "18.40", "LON": "-67.40", "TIME": "08/15/12Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -67.40, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.50", "LON": "-68.80", "TIME": "08/15/18Z", "WIND": "35", "PR": "1009", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.80, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "18.60", "LON": "-70.20", "TIME": "08/16/00Z", "WIND": "40", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.20, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "18.70", "LON": "-71.40", "TIME": "08/16/06Z", "WIND": "40", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -71.40, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.80", "LON": "-72.90", "TIME": "08/16/12Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -72.90, 18.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "19.10", "LON": "-74.60", "TIME": "08/16/18Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -74.60, 19.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "19.30", "LON": "-75.70", "TIME": "08/17/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.70, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.60", "LON": "-76.90", "TIME": "08/17/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -76.90, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "20.00", "LON": "-78.10", "TIME": "08/17/12Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -78.10, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "20.70", "LON": "-79.60", "TIME": "08/17/18Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -79.60, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "21.10", "LON": "-80.30", "TIME": "08/18/00Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -80.30, 21.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "21.90", "LON": "-80.80", "TIME": "08/18/06Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.80, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "23.20", "LON": "-81.20", "TIME": "08/18/12Z", "WIND": "50", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.20, 23.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "24.30", "LON": "-81.70", "TIME": "08/18/18Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.70, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "25.00", "LON": "-81.90", "TIME": "08/19/00Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.90, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "25.50", "LON": "-81.80", "TIME": "08/19/06Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.80, 25.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "26.40", "LON": "-81.40", "TIME": "08/19/12Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 26.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "27.00", "LON": "-81.10", "TIME": "08/19/18Z", "WIND": "60", "PR": "986", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.10, 27.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "27.50", "LON": "-80.90", "TIME": "08/20/00Z", "WIND": "55", "PR": "988", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -80.90, 27.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "28.00", "LON": "-80.60", "TIME": "08/20/06Z", "WIND": "50", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.60, 28.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "28.40", "LON": "-80.60", "TIME": "08/20/12Z", "WIND": "45", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.60, 28.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "28.70", "LON": "-80.60", "TIME": "08/20/18Z", "WIND": "45", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -80.60, 28.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "28.90", "LON": "-80.50", "TIME": "08/21/00Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -80.50, 28.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "29.10", "LON": "-80.70", "TIME": "08/21/06Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.70, 29.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "29.20", "LON": "-80.70", "TIME": "08/21/12Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.70, 29.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "29.30", "LON": "-81.00", "TIME": "08/21/18Z", "WIND": "55", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 29.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "29.30", "LON": "-81.20", "TIME": "08/22/00Z", "WIND": "50", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.20, 29.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "29.50", "LON": "-81.90", "TIME": "08/22/06Z", "WIND": "50", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.90, 29.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "29.60", "LON": "-82.40", "TIME": "08/22/12Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.40, 29.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "29.80", "LON": "-83.00", "TIME": "08/22/18Z", "WIND": "40", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.00, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "29.70", "LON": "-83.80", "TIME": "08/23/00Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -83.80, 29.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "29.80", "LON": "-84.70", "TIME": "08/23/06Z", "WIND": "45", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.70, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "30.00", "LON": "-85.20", "TIME": "08/23/12Z", "WIND": "40", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.20, 30.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "30.50", "LON": "-85.90", "TIME": "08/23/18Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.90, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "30.80", "LON": "-86.70", "TIME": "08/24/00Z", "WIND": "30", "PR": "999", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.70, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "31.10", "LON": "-87.70", "TIME": "08/24/06Z", "WIND": "30", "PR": "999", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -87.70, 31.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "31.80", "LON": "-88.40", "TIME": "08/24/12Z", "WIND": "30", "PR": "1000", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -88.40, 31.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "31.50", "LON": "-89.70", "TIME": "08/24/18Z", "WIND": "30", "PR": "1001", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -89.70, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "31.30", "LON": "-90.00", "TIME": "08/25/00Z", "WIND": "30", "PR": "1001", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -90.00, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "31.50", "LON": "-89.90", "TIME": "08/25/06Z", "WIND": "30", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -89.90, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "32.00", "LON": "-89.40", "TIME": "08/25/12Z", "WIND": "25", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -89.40, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "32.40", "LON": "-89.00", "TIME": "08/25/18Z", "WIND": "25", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -89.00, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "32.70", "LON": "-88.60", "TIME": "08/26/00Z", "WIND": "20", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -88.60, 32.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "33.30", "LON": "-87.90", "TIME": "08/26/06Z", "WIND": "20", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -87.90, 33.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "33.90", "LON": "-87.20", "TIME": "08/26/12Z", "WIND": "20", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.20, 33.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "34.60", "LON": "-86.50", "TIME": "08/26/18Z", "WIND": "20", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -86.50, 34.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "35.00", "LON": "-85.80", "TIME": "08/27/00Z", "WIND": "15", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 35.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "35.50", "LON": "-85.10", "TIME": "08/27/06Z", "WIND": "15", "PR": "1006", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.10, 35.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "36.10", "LON": "-84.40", "TIME": "08/27/12Z", "WIND": "15", "PR": "1007", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.40, 36.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "36.90", "LON": "-83.60", "TIME": "08/27/18Z", "WIND": "15", "PR": "1008", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.60, 36.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "37.40", "LON": "-83.20", "TIME": "08/28/00Z", "WIND": "15", "PR": "1009", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "37.70", "LON": "-82.60", "TIME": "08/28/06Z", "WIND": "15", "PR": "1010", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/FAY/2008-FAY.geojson", "DATES": "08/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -82.60, 37.70 ] } }
+
+]
+}
