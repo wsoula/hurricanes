@@ -1,0 +1,43 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "10.00", "LON": "-35.90", "TIME": "09/25/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -35.90, 10.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "10.30", "LON": "-37.00", "TIME": "09/25/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -37.00, 10.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "10.60", "LON": "-38.00", "TIME": "09/25/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -38.00, 10.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "10.80", "LON": "-39.20", "TIME": "09/25/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.20, 10.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "10.90", "LON": "-40.40", "TIME": "09/26/00Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.40, 10.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "11.20", "LON": "-41.50", "TIME": "09/26/06Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.50, 11.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "11.70", "LON": "-42.40", "TIME": "09/26/12Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -42.40, 11.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "12.30", "LON": "-43.30", "TIME": "09/26/18Z", "WIND": "65", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.30, 12.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "12.80", "LON": "-44.60", "TIME": "09/27/00Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -44.60, 12.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "13.20", "LON": "-45.70", "TIME": "09/27/06Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -45.70, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "13.50", "LON": "-46.80", "TIME": "09/27/12Z", "WIND": "55", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.80, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "14.10", "LON": "-47.90", "TIME": "09/27/18Z", "WIND": "50", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.90, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "14.10", "LON": "-48.80", "TIME": "09/28/00Z", "WIND": "50", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.80, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "14.30", "LON": "-49.00", "TIME": "09/28/06Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 14.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "14.60", "LON": "-49.00", "TIME": "09/28/12Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 14.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "15.80", "LON": "-49.40", "TIME": "09/28/18Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -49.40, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "16.10", "LON": "-51.00", "TIME": "09/29/00Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.00, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "16.30", "LON": "-52.60", "TIME": "09/29/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.60, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "16.80", "LON": "-54.20", "TIME": "09/29/12Z", "WIND": "30", "PR": "1009", "STAT": "LOW", "NAME": "2007/KAREN/2007-KAREN.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -54.20, 16.80 ] } }
+
+]
+}
