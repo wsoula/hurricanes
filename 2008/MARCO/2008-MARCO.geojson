@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "18.50", "LON": "-91.70", "TIME": "10/06/00Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -91.70, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "18.60", "LON": "-92.70", "TIME": "10/06/06Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -92.70, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "18.90", "LON": "-93.70", "TIME": "10/06/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -93.70, 18.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "19.40", "LON": "-94.50", "TIME": "10/06/18Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -94.50, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "19.70", "LON": "-95.20", "TIME": "10/07/00Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.20, 19.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "19.80", "LON": "-95.90", "TIME": "10/07/06Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -95.90, 19.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "19.90", "LON": "-96.50", "TIME": "10/07/12Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -96.50, 19.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.90", "LON": "-96.90", "TIME": "10/07/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/MARCO/2008-MARCO.geojson", "DATES": "10/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -96.90, 19.90 ] } }
+
+]
+}
