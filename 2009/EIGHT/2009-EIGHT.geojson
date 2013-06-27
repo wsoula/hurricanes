@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "14.80", "LON": "-29.00", "TIME": "09/25/06Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.00, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "15.40", "LON": "-30.10", "TIME": "09/25/12Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -30.10, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "16.10", "LON": "-31.10", "TIME": "09/25/18Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -31.10, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "16.70", "LON": "-32.20", "TIME": "09/26/00Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -32.20, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "17.20", "LON": "-33.30", "TIME": "09/26/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -33.30, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "17.80", "LON": "-34.30", "TIME": "09/26/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -34.30, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "18.60", "LON": "-35.20", "TIME": "09/26/18Z", "WIND": "25", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/EIGHT/2009-EIGHT.geojson", "DATES": "09/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -35.20, 18.60 ] } }
+
+]
+}
