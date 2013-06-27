@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "15.50", "LON": "-36.60", "TIME": "10/12/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -36.60, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "16.00", "LON": "-37.10", "TIME": "10/12/12Z", "WIND": "35", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.10, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "16.40", "LON": "-37.70", "TIME": "10/12/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -37.70, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "16.50", "LON": "-38.40", "TIME": "10/13/00Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -38.40, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "16.60", "LON": "-39.00", "TIME": "10/13/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -39.00, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "16.80", "LON": "-39.60", "TIME": "10/13/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -39.60, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "17.20", "LON": "-40.30", "TIME": "10/13/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -40.30, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "17.60", "LON": "-41.50", "TIME": "10/14/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -41.50, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "18.00", "LON": "-42.70", "TIME": "10/14/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -42.70, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "18.30", "LON": "-44.00", "TIME": "10/14/12Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -44.00, 18.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "18.60", "LON": "-45.00", "TIME": "10/14/18Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -45.00, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "19.40", "LON": "-46.10", "TIME": "10/15/00Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -46.10, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "20.50", "LON": "-47.10", "TIME": "10/15/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -47.10, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "22.00", "LON": "-48.00", "TIME": "10/15/12Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2008/NANA/2008-NANA.geojson", "DATES": "10/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -48.00, 22.00 ] } }
+
+]
+}
