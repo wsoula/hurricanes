@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "21.80", "LON": "-94.80", "TIME": "09/25/18Z", "WIND": "25", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -94.80, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "21.70", "LON": "-95.20", "TIME": "09/26/00Z", "WIND": "25", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.20, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "21.20", "LON": "-95.00", "TIME": "09/26/06Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -95.00, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "21.00", "LON": "-94.70", "TIME": "09/26/12Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -94.70, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "21.20", "LON": "-94.40", "TIME": "09/26/18Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -94.40, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "21.20", "LON": "-94.70", "TIME": "09/27/00Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -94.70, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "20.80", "LON": "-94.80", "TIME": "09/27/06Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -94.80, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "20.60", "LON": "-95.10", "TIME": "09/27/12Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -95.10, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "20.50", "LON": "-95.70", "TIME": "09/27/18Z", "WIND": "60", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -95.70, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "20.50", "LON": "-96.30", "TIME": "09/28/00Z", "WIND": "70", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -96.30, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "20.50", "LON": "-97.00", "TIME": "09/28/05Z", "WIND": "65", "PR": "993", "STAT": "HURRICANE-1", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/28/05Z" }, "geometry": { "type": "Point", "coordinates": [ -97.00, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "20.50", "LON": "-97.10", "TIME": "09/28/06Z", "WIND": "65", "PR": "993", "STAT": "HURRICANE-1", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.10, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "20.50", "LON": "-98.00", "TIME": "09/28/12Z", "WIND": "30", "PR": "1002", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -98.00, 20.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "20.70", "LON": "-98.70", "TIME": "09/28/18Z", "WIND": "20", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/LORENZO/2007-LORENZO.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -98.70, 20.70 ] } }
+
+]
+}
