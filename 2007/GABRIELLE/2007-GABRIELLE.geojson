@@ -1,0 +1,35 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "30.10", "LON": "-71.80", "TIME": "09/08/00Z", "WIND": "40", "PR": "1011", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "30.50", "LON": "-72.80", "TIME": "09/08/06Z", "WIND": "40", "PR": "1010", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.80, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "31.10", "LON": "-73.80", "TIME": "09/08/12Z", "WIND": "35", "PR": "1010", "STAT": "SUBTROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.80, 31.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "31.80", "LON": "-74.60", "TIME": "09/08/18Z", "WIND": "35", "PR": "1009", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -74.60, 31.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "32.60", "LON": "-75.40", "TIME": "09/09/00Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.40, 32.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "33.50", "LON": "-76.00", "TIME": "09/09/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -76.00, 33.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "34.30", "LON": "-76.40", "TIME": "09/09/12Z", "WIND": "50", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.40, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "34.80", "LON": "-76.40", "TIME": "09/09/15Z", "WIND": "50", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/09/15Z" }, "geometry": { "type": "Point", "coordinates": [ -76.40, 34.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "35.20", "LON": "-76.30", "TIME": "09/09/18Z", "WIND": "45", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -76.30, 35.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "36.00", "LON": "-75.80", "TIME": "09/10/00Z", "WIND": "40", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.80, 36.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "36.70", "LON": "-75.00", "TIME": "09/10/06Z", "WIND": "30", "PR": "1008", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.00, 36.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "37.10", "LON": "-73.80", "TIME": "09/10/12Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -73.80, 37.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "37.50", "LON": "-72.00", "TIME": "09/10/18Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -72.00, 37.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "37.90", "LON": "-70.00", "TIME": "09/11/00Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 37.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "38.40", "LON": "-68.00", "TIME": "09/11/06Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2007/GABRIELLE/2007-GABRIELLE.geojson", "DATES": "09/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.00, 38.40 ] } }
+
+]
+}
