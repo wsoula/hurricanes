@@ -1,0 +1,67 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "11.00", "LON": "-81.30", "TIME": "11/04/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.30, 11.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "11.40", "LON": "-81.80", "TIME": "11/04/12Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.80, 11.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "11.80", "LON": "-82.30", "TIME": "11/04/18Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -82.30, 11.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "12.30", "LON": "-82.80", "TIME": "11/05/00Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.80, 12.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "12.60", "LON": "-83.30", "TIME": "11/05/06Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.30, 12.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "12.90", "LON": "-83.60", "TIME": "11/05/12Z", "WIND": "70", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.60, 12.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.20", "LON": "-83.80", "TIME": "11/05/18Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.80, 13.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.60", "LON": "-83.90", "TIME": "11/06/00Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -83.90, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "14.10", "LON": "-84.00", "TIME": "11/06/06Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.00, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "14.70", "LON": "-83.90", "TIME": "11/06/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -83.90, 14.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "15.40", "LON": "-83.90", "TIME": "11/06/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.90, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "16.10", "LON": "-84.00", "TIME": "11/07/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -84.00, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "16.80", "LON": "-84.00", "TIME": "11/07/06Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.00, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "17.70", "LON": "-84.00", "TIME": "11/07/12Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.00, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "18.70", "LON": "-84.10", "TIME": "11/07/18Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -84.10, 18.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "19.50", "LON": "-84.50", "TIME": "11/08/00Z", "WIND": "70", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -84.50, 19.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "20.10", "LON": "-85.30", "TIME": "11/08/06Z", "WIND": "80", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.30, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "20.90", "LON": "-85.80", "TIME": "11/08/12Z", "WIND": "85", "PR": "983", "STAT": "HURRICANE-2", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "21.90", "LON": "-86.20", "TIME": "11/08/18Z", "WIND": "85", "PR": "975", "STAT": "HURRICANE-2", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -86.20, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "23.00", "LON": "-86.50", "TIME": "11/09/00Z", "WIND": "90", "PR": "979", "STAT": "HURRICANE-2", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.50, 23.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "24.40", "LON": "-87.50", "TIME": "11/09/06Z", "WIND": "80", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -87.50, 24.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "26.30", "LON": "-88.30", "TIME": "11/09/12Z", "WIND": "60", "PR": "989", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -88.30, 26.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "27.90", "LON": "-88.60", "TIME": "11/09/18Z", "WIND": "65", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -88.60, 27.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "28.50", "LON": "-88.70", "TIME": "11/09/21Z", "WIND": "75", "PR": "990", "STAT": "HURRICANE-1", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/09/21Z" }, "geometry": { "type": "Point", "coordinates": [ -88.70, 28.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "28.90", "LON": "-88.70", "TIME": "11/10/00Z", "WIND": "60", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -88.70, 28.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "29.80", "LON": "-88.60", "TIME": "11/10/06Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -88.60, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "30.10", "LON": "-88.30", "TIME": "11/10/09Z", "WIND": "45", "PR": "998", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/10/09Z" }, "geometry": { "type": "Point", "coordinates": [ -88.30, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "30.30", "LON": "-88.00", "TIME": "11/10/12Z", "WIND": "35", "PR": "999", "STAT": "EXTRATROPICAL,STORM", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -88.00, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "30.60", "LON": "-87.20", "TIME": "11/10/18Z", "WIND": "30", "PR": "1002", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -87.20, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "30.60", "LON": "-86.30", "TIME": "11/11/00Z", "WIND": "25", "PR": "1005", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.30, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "30.80", "LON": "-85.50", "TIME": "11/11/06Z", "WIND": "25", "PR": "1006", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2009/IDA/2009-IDA.geojson", "DATES": "11/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.50, 30.80 ] } }
+
+]
+}
