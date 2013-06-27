@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "28.10", "LON": "-87.40", "TIME": "08/03/12Z", "WIND": "25", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.40, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "28.10", "LON": "-87.80", "TIME": "08/03/18Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -87.80, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "28.10", "LON": "-88.50", "TIME": "08/04/00Z", "WIND": "45", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -88.50, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "28.10", "LON": "-89.60", "TIME": "08/04/06Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -89.60, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "28.10", "LON": "-90.30", "TIME": "08/04/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -90.30, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "28.30", "LON": "-91.00", "TIME": "08/04/18Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -91.00, 28.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "28.50", "LON": "-91.70", "TIME": "08/05/00Z", "WIND": "50", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -91.70, 28.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "29.00", "LON": "-92.90", "TIME": "08/05/06Z", "WIND": "55", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -92.90, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "29.60", "LON": "-94.20", "TIME": "08/05/12Z", "WIND": "55", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -94.20, 29.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "30.00", "LON": "-94.80", "TIME": "08/05/18Z", "WIND": "40", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -94.80, 30.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "30.60", "LON": "-95.70", "TIME": "08/06/00Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -95.70, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "31.40", "LON": "-97.00", "TIME": "08/06/06Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -97.00, 31.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "32.00", "LON": "-98.00", "TIME": "08/06/12Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -98.00, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "32.70", "LON": "-98.70", "TIME": "08/06/18Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2008/EDOUARD/2008-EDOUARD.geojson", "DATES": "08/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -98.70, 32.70 ] } }
+
+]
+}
