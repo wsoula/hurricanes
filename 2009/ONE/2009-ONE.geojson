@@ -1,0 +1,35 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "30.60", "LON": "-75.40", "TIME": "05/26/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -75.40, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "31.70", "LON": "-75.60", "TIME": "05/27/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -75.60, 31.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "32.70", "LON": "-75.50", "TIME": "05/27/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.50, 32.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "33.60", "LON": "-75.20", "TIME": "05/27/12Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -75.20, 33.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "34.50", "LON": "-74.60", "TIME": "05/27/18Z", "WIND": "25", "PR": "1008", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -74.60, 34.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "35.30", "LON": "-73.80", "TIME": "05/28/00Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -73.80, 35.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "36.10", "LON": "-72.90", "TIME": "05/28/06Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -72.90, 36.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "36.90", "LON": "-71.80", "TIME": "05/28/12Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -71.80, 36.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "37.50", "LON": "-70.30", "TIME": "05/28/18Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -70.30, 37.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "38.00", "LON": "-68.60", "TIME": "05/29/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.60, 38.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "38.60", "LON": "-66.80", "TIME": "05/29/06Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.80, 38.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "39.30", "LON": "-65.00", "TIME": "05/29/12Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.00, 39.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "40.00", "LON": "-63.10", "TIME": "05/29/18Z", "WIND": "25", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.10, 40.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "40.60", "LON": "-61.00", "TIME": "05/30/00Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 40.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "41.00", "LON": "-58.60", "TIME": "05/30/06Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2009/ONE/2009-ONE.geojson", "DATES": "05/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.60, 41.00 ] } }
+
+]
+}
