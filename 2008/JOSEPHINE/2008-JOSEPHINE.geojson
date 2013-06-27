@@ -1,0 +1,71 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "12.30", "LON": "-21.90", "TIME": "09/02/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -21.90, 12.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "12.70", "LON": "-23.20", "TIME": "09/02/06Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -23.20, 12.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "13.00", "LON": "-24.20", "TIME": "09/02/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -24.20, 13.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.30", "LON": "-25.30", "TIME": "09/02/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -25.30, 13.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "13.50", "LON": "-26.30", "TIME": "09/03/00Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -26.30, 13.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "13.60", "LON": "-27.20", "TIME": "09/03/06Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -27.20, 13.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "13.70", "LON": "-28.20", "TIME": "09/03/12Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -28.20, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "13.80", "LON": "-29.20", "TIME": "09/03/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -29.20, 13.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "13.90", "LON": "-30.00", "TIME": "09/04/00Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -30.00, 13.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "14.10", "LON": "-30.90", "TIME": "09/04/06Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -30.90, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "14.40", "LON": "-31.90", "TIME": "09/04/12Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -31.90, 14.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "14.60", "LON": "-32.70", "TIME": "09/04/18Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.70, 14.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "15.00", "LON": "-33.40", "TIME": "09/05/00Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -33.40, 15.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "15.40", "LON": "-34.00", "TIME": "09/05/06Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -34.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "15.60", "LON": "-34.50", "TIME": "09/05/12Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -34.50, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "15.80", "LON": "-34.90", "TIME": "09/05/18Z", "WIND": "35", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -34.90, 15.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "16.20", "LON": "-35.50", "TIME": "09/06/00Z", "WIND": "30", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -35.50, 16.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "16.50", "LON": "-36.40", "TIME": "09/06/06Z", "WIND": "30", "PR": "1006", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -36.40, 16.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "16.70", "LON": "-37.30", "TIME": "09/06/12Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.30, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "16.80", "LON": "-38.30", "TIME": "09/06/18Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -38.30, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "16.90", "LON": "-39.20", "TIME": "09/07/00Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -39.20, 16.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "17.00", "LON": "-40.10", "TIME": "09/07/06Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -40.10, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "17.10", "LON": "-40.90", "TIME": "09/07/12Z", "WIND": "30", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -40.90, 17.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "17.20", "LON": "-41.60", "TIME": "09/07/18Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -41.60, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "17.30", "LON": "-42.40", "TIME": "09/08/00Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -42.40, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "17.50", "LON": "-43.30", "TIME": "09/08/06Z", "WIND": "25", "PR": "1007", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -43.30, 17.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "18.00", "LON": "-44.20", "TIME": "09/08/12Z", "WIND": "25", "PR": "1009", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -44.20, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "18.10", "LON": "-45.60", "TIME": "09/08/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -45.60, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "17.80", "LON": "-47.30", "TIME": "09/09/00Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -47.30, 17.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "16.80", "LON": "-49.30", "TIME": "09/09/06Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.30, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "16.30", "LON": "-51.40", "TIME": "09/09/12Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -51.40, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "16.30", "LON": "-52.50", "TIME": "09/09/18Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -52.50, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "16.30", "LON": "-53.60", "TIME": "09/10/00Z", "WIND": "20", "PR": "1011", "STAT": "LOW", "NAME": "2008/JOSEPHINE/2008-JOSEPHINE.geojson", "DATES": "09/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.60, 16.30 ] } }
+
+]
+}
