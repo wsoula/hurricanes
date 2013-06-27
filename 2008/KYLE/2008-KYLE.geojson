@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "21.50", "LON": "-70.00", "TIME": "09/25/00Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -70.00, 21.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "22.00", "LON": "-69.40", "TIME": "09/25/06Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.40, 22.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "22.40", "LON": "-68.70", "TIME": "09/25/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.70, 22.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "23.10", "LON": "-68.40", "TIME": "09/25/18Z", "WIND": "40", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.40, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "24.00", "LON": "-68.00", "TIME": "09/26/00Z", "WIND": "45", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.00, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "25.00", "LON": "-68.20", "TIME": "09/26/06Z", "WIND": "50", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -68.20, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "26.00", "LON": "-68.60", "TIME": "09/26/12Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.60, 26.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "26.90", "LON": "-68.60", "TIME": "09/26/18Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -68.60, 26.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "28.70", "LON": "-68.60", "TIME": "09/27/00Z", "WIND": "55", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.60, 28.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "29.90", "LON": "-69.30", "TIME": "09/27/06Z", "WIND": "60", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 29.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "31.20", "LON": "-69.50", "TIME": "09/27/12Z", "WIND": "65", "PR": "996", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -69.50, 31.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "33.30", "LON": "-69.70", "TIME": "09/27/18Z", "WIND": "70", "PR": "995", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -69.70, 33.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "35.30", "LON": "-69.70", "TIME": "09/28/00Z", "WIND": "70", "PR": "995", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -69.70, 35.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "37.40", "LON": "-69.30", "TIME": "09/28/06Z", "WIND": "70", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.30, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "39.40", "LON": "-68.20", "TIME": "09/28/12Z", "WIND": "75", "PR": "989", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -68.20, 39.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "41.60", "LON": "-66.70", "TIME": "09/28/18Z", "WIND": "70", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.70, 41.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "43.80", "LON": "-66.20", "TIME": "09/29/00Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -66.20, 43.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "45.60", "LON": "-65.00", "TIME": "09/29/06Z", "WIND": "50", "PR": "990", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.00, 45.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "47.70", "LON": "-63.50", "TIME": "09/29/12Z", "WIND": "45", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.50, 47.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "48.20", "LON": "-62.60", "TIME": "09/29/18Z", "WIND": "40", "PR": "999", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -62.60, 48.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "48.40", "LON": "-61.50", "TIME": "09/30/00Z", "WIND": "35", "PR": "1002", "STAT": "EXTRATROPICAL,STORM", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.50, 48.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "48.20", "LON": "-61.00", "TIME": "09/30/06Z", "WIND": "30", "PR": "1004", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 48.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "48.10", "LON": "-60.80", "TIME": "09/30/12Z", "WIND": "25", "PR": "1005", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2008/KYLE/2008-KYLE.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -60.80, 48.10 ] } }
+
+]
+}
