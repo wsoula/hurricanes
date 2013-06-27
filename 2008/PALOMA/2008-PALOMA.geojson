@@ -1,0 +1,77 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "13.70", "LON": "-81.70", "TIME": "11/05/18Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.70, 13.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "14.20", "LON": "-82.00", "TIME": "11/06/00Z", "WIND": "30", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.00, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "14.80", "LON": "-82.10", "TIME": "11/06/06Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -82.10, 14.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "15.40", "LON": "-82.00", "TIME": "11/06/12Z", "WIND": "40", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "16.10", "LON": "-81.90", "TIME": "11/06/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.90, 16.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "16.80", "LON": "-81.80", "TIME": "11/07/00Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.80, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "17.40", "LON": "-81.70", "TIME": "11/07/06Z", "WIND": "65", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.70, 17.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "18.00", "LON": "-81.60", "TIME": "11/07/12Z", "WIND": "75", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.60, 18.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "18.60", "LON": "-81.40", "TIME": "11/07/18Z", "WIND": "80", "PR": "975", "STAT": "HURRICANE-1", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.40, 18.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "19.00", "LON": "-81.00", "TIME": "11/08/00Z", "WIND": "100", "PR": "964", "STAT": "HURRICANE-3", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -81.00, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "19.40", "LON": "-80.40", "TIME": "11/08/06Z", "WIND": "110", "PR": "951", "STAT": "HURRICANE-3", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.40, 19.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "19.80", "LON": "-79.60", "TIME": "11/08/12Z", "WIND": "125", "PR": "944", "STAT": "HURRICANE-4", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -79.60, 19.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "20.20", "LON": "-78.80", "TIME": "11/08/18Z", "WIND": "125", "PR": "951", "STAT": "HURRICANE-4", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "20.70", "LON": "-78.00", "TIME": "11/09/00Z", "WIND": "90", "PR": "968", "STAT": "HURRICANE-2", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -78.00, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "20.70", "LON": "-78.00", "TIME": "11/09/01Z", "WIND": "85", "PR": "970", "STAT": "HURRICANE-2", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/09/01Z" }, "geometry": { "type": "Point", "coordinates": [ -78.00, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "21.00", "LON": "-77.70", "TIME": "11/09/06Z", "WIND": "55", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -77.70, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "21.30", "LON": "-77.80", "TIME": "11/09/12Z", "WIND": "35", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -77.80, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "21.60", "LON": "-77.90", "TIME": "11/09/18Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "21.80", "LON": "-77.90", "TIME": "11/10/00Z", "WIND": "25", "PR": "1005", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "22.10", "LON": "-77.80", "TIME": "11/10/06Z", "WIND": "25", "PR": "1006", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -77.80, 22.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "22.40", "LON": "-77.70", "TIME": "11/10/12Z", "WIND": "20", "PR": "1007", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -77.70, 22.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "22.50", "LON": "-77.60", "TIME": "11/10/18Z", "WIND": "20", "PR": "1008", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.60, 22.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "22.40", "LON": "-77.50", "TIME": "11/11/00Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -77.50, 22.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "22.10", "LON": "-77.60", "TIME": "11/11/06Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -77.60, 22.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "21.80", "LON": "-77.90", "TIME": "11/11/12Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -77.90, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "21.30", "LON": "-78.30", "TIME": "11/11/18Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -78.30, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "20.90", "LON": "-78.80", "TIME": "11/12/00Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -78.80, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "20.80", "LON": "-79.70", "TIME": "11/12/06Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -79.70, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "21.00", "LON": "-80.70", "TIME": "11/12/12Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.70, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "21.40", "LON": "-81.70", "TIME": "11/12/18Z", "WIND": "20", "PR": "1009", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -81.70, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "22.10", "LON": "-82.80", "TIME": "11/13/00Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.80, 22.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "22.80", "LON": "-83.80", "TIME": "11/13/06Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.80, 22.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "23.80", "LON": "-84.70", "TIME": "11/13/12Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.70, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "25.00", "LON": "-85.50", "TIME": "11/13/18Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.50, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "26.80", "LON": "-85.90", "TIME": "11/14/00Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.90, 26.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "28.90", "LON": "-85.60", "TIME": "11/14/06Z", "WIND": "20", "PR": "1010", "STAT": "LOW", "NAME": "2008/PALOMA/2008-PALOMA.geojson", "DATES": "11/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.60, 28.90 ] } }
+
+]
+}
