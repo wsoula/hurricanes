@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "15.50", "LON": "-82.80", "TIME": "10/14/12Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -82.80, 15.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "15.90", "LON": "-83.20", "TIME": "10/14/18Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.20, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "16.00", "LON": "-83.60", "TIME": "10/15/00Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -83.60, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "16.00", "LON": "-84.00", "TIME": "10/15/06Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.00, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "15.90", "LON": "-84.40", "TIME": "10/15/12Z", "WIND": "25", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.40, 15.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "15.60", "LON": "-85.00", "TIME": "10/15/18Z", "WIND": "25", "PR": "1006", "STAT": "TROPICAL,DEPRESSION", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 15.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "15.30", "LON": "-85.60", "TIME": "10/16/00Z", "WIND": "25", "PR": "1006", "STAT": "LOW", "NAME": "2008/SIXTEEN/2008-SIXTEEN.geojson", "DATES": "10/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.60, 15.30 ] } }
+
+]
+}
