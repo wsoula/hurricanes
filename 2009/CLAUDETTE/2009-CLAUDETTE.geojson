@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "27.00", "LON": "-83.40", "TIME": "08/16/06Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -83.40, 27.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "28.20", "LON": "-84.20", "TIME": "08/16/12Z", "WIND": "35", "PR": "1010", "STAT": "TROPICAL,STORM", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.20, 28.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "29.10", "LON": "-85.10", "TIME": "08/16/18Z", "WIND": "50", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.10, 29.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "29.80", "LON": "-85.80", "TIME": "08/17/00Z", "WIND": "45", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.80, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "30.50", "LON": "-86.60", "TIME": "08/17/06Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -86.60, 30.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "31.50", "LON": "-87.50", "TIME": "08/17/12Z", "WIND": "25", "PR": "1013", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.50, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "32.80", "LON": "-88.30", "TIME": "08/17/18Z", "WIND": "20", "PR": "1017", "STAT": "TROPICAL,DEPRESSION", "NAME": "2009/CLAUDETTE/2009-CLAUDETTE.geojson", "DATES": "08/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -88.30, 32.80 ] } }
+
+]
+}
