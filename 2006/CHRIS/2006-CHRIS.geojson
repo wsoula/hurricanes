@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "16.30", "LON": "-58.10", "TIME": "08/01/00Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.10, 16.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "16.80", "LON": "-58.90", "TIME": "08/01/06Z", "WIND": "35", "PR": "1009", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.90, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "17.20", "LON": "-59.80", "TIME": "08/01/12Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -59.80, 17.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "17.70", "LON": "-60.60", "TIME": "08/01/18Z", "WIND": "50", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -60.60, 17.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "18.10", "LON": "-61.40", "TIME": "08/02/00Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.40, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "18.50", "LON": "-62.20", "TIME": "08/02/06Z", "WIND": "55", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.20, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "19.00", "LON": "-63.00", "TIME": "08/02/12Z", "WIND": "55", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.00, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "19.60", "LON": "-63.90", "TIME": "08/02/18Z", "WIND": "50", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -63.90, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "19.90", "LON": "-64.80", "TIME": "08/03/00Z", "WIND": "50", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.80, 19.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "20.20", "LON": "-65.80", "TIME": "08/03/06Z", "WIND": "40", "PR": "1010", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.80, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "20.40", "LON": "-66.80", "TIME": "08/03/12Z", "WIND": "35", "PR": "1011", "STAT": "TROPICAL,STORM", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.80, 20.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "20.60", "LON": "-67.70", "TIME": "08/03/18Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -67.70, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "20.70", "LON": "-68.70", "TIME": "08/04/00Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -68.70, 20.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "20.80", "LON": "-70.20", "TIME": "08/04/06Z", "WIND": "25", "PR": "1011", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -70.20, 20.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "21.20", "LON": "-71.10", "TIME": "08/04/12Z", "WIND": "25", "PR": "1011", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -71.10, 21.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "21.30", "LON": "-72.20", "TIME": "08/04/18Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -72.20, 21.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "21.50", "LON": "-73.40", "TIME": "08/05/00Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -73.40, 21.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "21.60", "LON": "-75.00", "TIME": "08/05/06Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -75.00, 21.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "21.80", "LON": "-76.30", "TIME": "08/05/12Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -76.30, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "22.10", "LON": "-77.60", "TIME": "08/05/18Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.60, 22.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "22.40", "LON": "-78.90", "TIME": "08/06/00Z", "WIND": "20", "PR": "1012", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -78.90, 22.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "22.80", "LON": "-80.20", "TIME": "08/06/06Z", "WIND": "20", "PR": "1013", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -80.20, 22.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "23.20", "LON": "-81.70", "TIME": "08/06/12Z", "WIND": "15", "PR": "1013", "STAT": "LOW", "NAME": "2006/CHRIS/2006-CHRIS.geojson", "DATES": "08/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -81.70, 23.20 ] } }
+
+]
+}
