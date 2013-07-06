@@ -1,0 +1,81 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "20.00", "LON": "-85.00", "TIME": "06/10/06Z", "WIND": "25", "PR": "1004", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 20.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "21.00", "LON": "-85.30", "TIME": "06/10/12Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -85.30, 21.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "21.90", "LON": "-85.70", "TIME": "06/10/18Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.70, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "22.50", "LON": "-86.30", "TIME": "06/11/00Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -86.30, 22.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "23.10", "LON": "-87.10", "TIME": "06/11/06Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -87.10, 23.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "23.60", "LON": "-87.80", "TIME": "06/11/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -87.80, 23.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "24.30", "LON": "-87.80", "TIME": "06/11/18Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -87.80, 24.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "25.00", "LON": "-87.80", "TIME": "06/12/00Z", "WIND": "40", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -87.80, 25.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "25.80", "LON": "-87.40", "TIME": "06/12/06Z", "WIND": "45", "PR": "1004", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -87.40, 25.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "26.80", "LON": "-86.30", "TIME": "06/12/12Z", "WIND": "60", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -86.30, 26.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "27.50", "LON": "-85.40", "TIME": "06/12/18Z", "WIND": "60", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -85.40, 27.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "28.00", "LON": "-85.00", "TIME": "06/13/00Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -85.00, 28.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "28.80", "LON": "-84.40", "TIME": "06/13/06Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -84.40, 28.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "29.50", "LON": "-84.10", "TIME": "06/13/12Z", "WIND": "45", "PR": "996", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -84.10, 29.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "29.90", "LON": "-83.70", "TIME": "06/13/16Z", "WIND": "40", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/13/16Z" }, "geometry": { "type": "Point", "coordinates": [ -83.70, 29.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "30.30", "LON": "-83.50", "TIME": "06/13/18Z", "WIND": "35", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -83.50, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "31.30", "LON": "-82.80", "TIME": "06/14/00Z", "WIND": "35", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -82.80, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "32.80", "LON": "-81.90", "TIME": "06/14/06Z", "WIND": "30", "PR": "1003", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -81.90, 32.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "34.30", "LON": "-80.70", "TIME": "06/14/12Z", "WIND": "35", "PR": "1003", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -80.70, 34.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "35.50", "LON": "-77.50", "TIME": "06/14/18Z", "WIND": "35", "PR": "1002", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -77.50, 35.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "37.00", "LON": "-73.00", "TIME": "06/15/00Z", "WIND": "45", "PR": "999", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -73.00, 37.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "38.80", "LON": "-69.90", "TIME": "06/15/06Z", "WIND": "45", "PR": "990", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -69.90, 38.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "40.90", "LON": "-66.80", "TIME": "06/15/12Z", "WIND": "50", "PR": "979", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -66.80, 40.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "42.60", "LON": "-64.20", "TIME": "06/15/18Z", "WIND": "55", "PR": "971", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.20, 42.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "44.00", "LON": "-62.00", "TIME": "06/16/00Z", "WIND": "55", "PR": "969", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -62.00, 44.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "46.00", "LON": "-58.50", "TIME": "06/16/06Z", "WIND": "50", "PR": "972", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.50, 46.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "47.40", "LON": "-55.00", "TIME": "06/16/12Z", "WIND": "45", "PR": "985", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.00, 47.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "49.30", "LON": "-51.50", "TIME": "06/16/18Z", "WIND": "40", "PR": "990", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -51.50, 49.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "50.80", "LON": "-45.20", "TIME": "06/17/00Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -45.20, 50.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "51.50", "LON": "-39.00", "TIME": "06/17/06Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -39.00, 51.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "53.00", "LON": "-34.50", "TIME": "06/17/12Z", "WIND": "40", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -34.50, 53.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "54.00", "LON": "-29.00", "TIME": "06/17/18Z", "WIND": "35", "PR": "995", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -29.00, 54.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "54.50", "LON": "-23.00", "TIME": "06/18/00Z", "WIND": "30", "PR": "995", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -23.00, 54.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "54.50", "LON": "-16.00", "TIME": "06/18/06Z", "WIND": "30", "PR": "995", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -16.00, 54.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "54.50", "LON": "-12.00", "TIME": "06/18/12Z", "WIND": "30", "PR": "995", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -12.00, 54.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "55.00", "LON": "-9.00", "TIME": "06/18/18Z", "WIND": "30", "PR": "997", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -9.00, 55.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "56.50", "LON": "-5.50", "TIME": "06/19/00Z", "WIND": "30", "PR": "999", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -5.50, 56.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "57.00", "LON": "-3.00", "TIME": "06/19/06Z", "WIND": "30", "PR": "999", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/ALBERTO/2006-ALBERTO.geojson", "DATES": "06/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -3.00, 57.00 ] } }
+
+]
+}
