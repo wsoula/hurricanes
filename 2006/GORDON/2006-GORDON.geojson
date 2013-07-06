@@ -1,0 +1,119 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "20.20", "LON": "-53.80", "TIME": "09/10/18Z", "WIND": "25", "PR": "1012", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.80, 20.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "20.30", "LON": "-54.50", "TIME": "09/11/00Z", "WIND": "30", "PR": "1011", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -54.50, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "20.60", "LON": "-55.30", "TIME": "09/11/06Z", "WIND": "30", "PR": "1010", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -55.30, 20.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "20.90", "LON": "-56.30", "TIME": "09/11/12Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.30, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "21.40", "LON": "-57.10", "TIME": "09/11/18Z", "WIND": "40", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -57.10, 21.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "21.80", "LON": "-57.60", "TIME": "09/12/00Z", "WIND": "50", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.60, 21.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "22.30", "LON": "-58.00", "TIME": "09/12/06Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.00, 22.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "22.80", "LON": "-58.20", "TIME": "09/12/12Z", "WIND": "50", "PR": "998", "STAT": "TROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.20, 22.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "23.40", "LON": "-58.20", "TIME": "09/12/18Z", "WIND": "55", "PR": "994", "STAT": "TROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -58.20, 23.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "24.00", "LON": "-58.10", "TIME": "09/13/00Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -58.10, 24.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "24.70", "LON": "-58.00", "TIME": "09/13/06Z", "WIND": "70", "PR": "984", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.00, 24.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "25.60", "LON": "-57.90", "TIME": "09/13/12Z", "WIND": "80", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -57.90, 25.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "26.50", "LON": "-57.70", "TIME": "09/13/18Z", "WIND": "95", "PR": "965", "STAT": "HURRICANE-2", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -57.70, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "27.30", "LON": "-57.40", "TIME": "09/14/00Z", "WIND": "105", "PR": "955", "STAT": "HURRICANE-3", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.40, 27.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "28.20", "LON": "-56.80", "TIME": "09/14/06Z", "WIND": "105", "PR": "956", "STAT": "HURRICANE-3", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -56.80, 28.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "29.10", "LON": "-56.20", "TIME": "09/14/12Z", "WIND": "105", "PR": "956", "STAT": "HURRICANE-3", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.20, 29.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "29.80", "LON": "-55.40", "TIME": "09/14/18Z", "WIND": "105", "PR": "958", "STAT": "HURRICANE-3", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -55.40, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "30.30", "LON": "-54.60", "TIME": "09/15/00Z", "WIND": "100", "PR": "960", "STAT": "HURRICANE-3", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -54.60, 30.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "30.80", "LON": "-53.80", "TIME": "09/15/06Z", "WIND": "95", "PR": "965", "STAT": "HURRICANE-2", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -53.80, 30.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "31.10", "LON": "-53.50", "TIME": "09/15/12Z", "WIND": "85", "PR": "973", "STAT": "HURRICANE-2", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 31.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "31.10", "LON": "-53.50", "TIME": "09/15/18Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 31.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "31.10", "LON": "-53.50", "TIME": "09/16/00Z", "WIND": "75", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.50, 31.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "31.20", "LON": "-53.60", "TIME": "09/16/06Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -53.60, 31.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "31.30", "LON": "-53.80", "TIME": "09/16/12Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.80, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "31.50", "LON": "-53.90", "TIME": "09/16/18Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.90, 31.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "31.90", "LON": "-53.80", "TIME": "09/17/00Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.80, 31.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "32.40", "LON": "-53.70", "TIME": "09/17/06Z", "WIND": "65", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -53.70, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "33.30", "LON": "-53.30", "TIME": "09/17/12Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.30, 33.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "34.10", "LON": "-52.90", "TIME": "09/17/18Z", "WIND": "70", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -52.90, 34.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "35.00", "LON": "-52.10", "TIME": "09/18/00Z", "WIND": "75", "PR": "981", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -52.10, 35.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "36.10", "LON": "-50.60", "TIME": "09/18/06Z", "WIND": "75", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -50.60, 36.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "36.90", "LON": "-48.70", "TIME": "09/18/12Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -48.70, 36.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "37.50", "LON": "-46.30", "TIME": "09/18/18Z", "WIND": "85", "PR": "972", "STAT": "HURRICANE-2", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -46.30, 37.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "38.00", "LON": "-43.30", "TIME": "09/19/00Z", "WIND": "85", "PR": "972", "STAT": "HURRICANE-2", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -43.30, 38.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "38.10", "LON": "-40.20", "TIME": "09/19/06Z", "WIND": "90", "PR": "970", "STAT": "HURRICANE-2", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/19/06Z" }, "geometry": { "type": "Point", "coordinates": [ -40.20, 38.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "38.00", "LON": "-37.00", "TIME": "09/19/12Z", "WIND": "80", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/19/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.00, 38.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "37.80", "LON": "-33.50", "TIME": "09/19/18Z", "WIND": "75", "PR": "979", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/19/18Z" }, "geometry": { "type": "Point", "coordinates": [ -33.50, 37.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "37.70", "LON": "-29.90", "TIME": "09/20/00Z", "WIND": "70", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/20/00Z" }, "geometry": { "type": "Point", "coordinates": [ -29.90, 37.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "37.60", "LON": "-26.10", "TIME": "09/20/06Z", "WIND": "70", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/20/06Z" }, "geometry": { "type": "Point", "coordinates": [ -26.10, 37.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "37.80", "LON": "-22.60", "TIME": "09/20/12Z", "WIND": "65", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/20/12Z" }, "geometry": { "type": "Point", "coordinates": [ -22.60, 37.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "38.50", "LON": "-18.50", "TIME": "09/20/18Z", "WIND": "65", "PR": "983", "STAT": "HURRICANE-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/20/18Z" }, "geometry": { "type": "Point", "coordinates": [ -18.50, 38.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "40.10", "LON": "-14.00", "TIME": "09/21/00Z", "WIND": "60", "PR": "984", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/21/00Z" }, "geometry": { "type": "Point", "coordinates": [ -14.00, 40.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "43.80", "LON": "-10.40", "TIME": "09/21/06Z", "WIND": "55", "PR": "986", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/21/06Z" }, "geometry": { "type": "Point", "coordinates": [ -10.40, 43.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "48.50", "LON": "-9.00", "TIME": "09/21/12Z", "WIND": "55", "PR": "982", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/21/12Z" }, "geometry": { "type": "Point", "coordinates": [ -9.00, 48.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "52.50", "LON": "-9.50", "TIME": "09/21/18Z", "WIND": "55", "PR": "978", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -9.50, 52.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "54.50", "LON": "-10.50", "TIME": "09/22/00Z", "WIND": "60", "PR": "975", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -10.50, 54.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "57.00", "LON": "-14.00", "TIME": "09/22/06Z", "WIND": "65", "PR": "974", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -14.00, 57.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "56.50", "LON": "-18.50", "TIME": "09/22/12Z", "WIND": "55", "PR": "976", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -18.50, 56.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "56.00", "LON": "-19.50", "TIME": "09/22/18Z", "WIND": "45", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -19.50, 56.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "54.50", "LON": "-20.00", "TIME": "09/23/00Z", "WIND": "45", "PR": "982", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -20.00, 54.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "52.50", "LON": "-20.00", "TIME": "09/23/06Z", "WIND": "40", "PR": "986", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -20.00, 52.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "50.70", "LON": "-17.70", "TIME": "09/23/12Z", "WIND": "35", "PR": "993", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -17.70, 50.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "53", "LAT": "49.00", "LON": "-14.50", "TIME": "09/23/18Z", "WIND": "35", "PR": "994", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -14.50, 49.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "54", "LAT": "48.00", "LON": "-10.00", "TIME": "09/24/00Z", "WIND": "30", "PR": "995", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -10.00, 48.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "55", "LAT": "48.50", "LON": "-8.50", "TIME": "09/24/06Z", "WIND": "30", "PR": "996", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -8.50, 48.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "56", "LAT": "49.00", "LON": "-8.00", "TIME": "09/24/12Z", "WIND": "30", "PR": "998", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -8.00, 49.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "57", "LAT": "50.50", "LON": "-7.50", "TIME": "09/24/18Z", "WIND": "25", "PR": "1001", "STAT": "EXTRATROPICAL,DEPRESSION", "NAME": "2006/GORDON/2006-GORDON.geojson", "DATES": "09/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -7.50, 50.50 ] } }
+
+]
+}
