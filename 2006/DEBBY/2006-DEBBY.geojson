@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "11.60", "LON": "-21.70", "TIME": "08/21/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/21/18Z" }, "geometry": { "type": "Point", "coordinates": [ -21.70, 11.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "12.00", "LON": "-22.70", "TIME": "08/22/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/22/00Z" }, "geometry": { "type": "Point", "coordinates": [ -22.70, 12.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "12.60", "LON": "-23.90", "TIME": "08/22/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/22/06Z" }, "geometry": { "type": "Point", "coordinates": [ -23.90, 12.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "13.40", "LON": "-25.30", "TIME": "08/22/12Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/22/12Z" }, "geometry": { "type": "Point", "coordinates": [ -25.30, 13.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "14.20", "LON": "-26.70", "TIME": "08/22/18Z", "WIND": "30", "PR": "1005", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/22/18Z" }, "geometry": { "type": "Point", "coordinates": [ -26.70, 14.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "14.90", "LON": "-28.10", "TIME": "08/23/00Z", "WIND": "35", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/23/00Z" }, "geometry": { "type": "Point", "coordinates": [ -28.10, 14.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "15.70", "LON": "-29.50", "TIME": "08/23/06Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/23/06Z" }, "geometry": { "type": "Point", "coordinates": [ -29.50, 15.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "16.70", "LON": "-31.00", "TIME": "08/23/12Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/23/12Z" }, "geometry": { "type": "Point", "coordinates": [ -31.00, 16.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "17.60", "LON": "-32.40", "TIME": "08/23/18Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/23/18Z" }, "geometry": { "type": "Point", "coordinates": [ -32.40, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "18.40", "LON": "-33.90", "TIME": "08/24/00Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/24/00Z" }, "geometry": { "type": "Point", "coordinates": [ -33.90, 18.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "19.20", "LON": "-35.50", "TIME": "08/24/06Z", "WIND": "45", "PR": "999", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/24/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.50, 19.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "20.10", "LON": "-37.10", "TIME": "08/24/12Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/24/12Z" }, "geometry": { "type": "Point", "coordinates": [ -37.10, 20.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "20.90", "LON": "-38.70", "TIME": "08/24/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/24/18Z" }, "geometry": { "type": "Point", "coordinates": [ -38.70, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "21.70", "LON": "-40.20", "TIME": "08/25/00Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/25/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.20, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "22.60", "LON": "-41.50", "TIME": "08/25/06Z", "WIND": "45", "PR": "1001", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/25/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.50, 22.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "23.60", "LON": "-42.70", "TIME": "08/25/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/25/12Z" }, "geometry": { "type": "Point", "coordinates": [ -42.70, 23.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "24.40", "LON": "-44.10", "TIME": "08/25/18Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/25/18Z" }, "geometry": { "type": "Point", "coordinates": [ -44.10, 24.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "24.80", "LON": "-45.10", "TIME": "08/26/00Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/26/00Z" }, "geometry": { "type": "Point", "coordinates": [ -45.10, 24.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "25.20", "LON": "-46.10", "TIME": "08/26/06Z", "WIND": "30", "PR": "1009", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/26/06Z" }, "geometry": { "type": "Point", "coordinates": [ -46.10, 25.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "25.70", "LON": "-46.90", "TIME": "08/26/12Z", "WIND": "25", "PR": "1010", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/26/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.90, 25.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "26.50", "LON": "-47.50", "TIME": "08/26/18Z", "WIND": "25", "PR": "1011", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/26/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.50, 26.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "27.30", "LON": "-48.10", "TIME": "08/27/00Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/27/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.10, 27.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "28.30", "LON": "-48.80", "TIME": "08/27/06Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/27/06Z" }, "geometry": { "type": "Point", "coordinates": [ -48.80, 28.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "29.40", "LON": "-49.10", "TIME": "08/27/12Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/27/12Z" }, "geometry": { "type": "Point", "coordinates": [ -49.10, 29.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "30.60", "LON": "-48.90", "TIME": "08/27/18Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -48.90, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "32.10", "LON": "-48.30", "TIME": "08/28/00Z", "WIND": "25", "PR": "1012", "STAT": "LOW", "NAME": "2006/DEBBY/2006-DEBBY.geojson", "DATES": "08/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.30, 32.10 ] } }
+
+]
+}
