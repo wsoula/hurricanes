@@ -1,0 +1,53 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "26.10", "LON": "-52.60", "TIME": "09/27/18Z", "WIND": "30", "PR": "1012", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/27/18Z" }, "geometry": { "type": "Point", "coordinates": [ -52.60, 26.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "26.80", "LON": "-53.40", "TIME": "09/28/00Z", "WIND": "30", "PR": "1012", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/28/00Z" }, "geometry": { "type": "Point", "coordinates": [ -53.40, 26.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "27.40", "LON": "-54.00", "TIME": "09/28/06Z", "WIND": "35", "PR": "1008", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/28/06Z" }, "geometry": { "type": "Point", "coordinates": [ -54.00, 27.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "28.00", "LON": "-54.40", "TIME": "09/28/12Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/28/12Z" }, "geometry": { "type": "Point", "coordinates": [ -54.40, 28.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "28.60", "LON": "-54.60", "TIME": "09/28/18Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/28/18Z" }, "geometry": { "type": "Point", "coordinates": [ -54.60, 28.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "28.90", "LON": "-54.90", "TIME": "09/29/00Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/29/00Z" }, "geometry": { "type": "Point", "coordinates": [ -54.90, 28.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "29.00", "LON": "-55.40", "TIME": "09/29/06Z", "WIND": "40", "PR": "1006", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/29/06Z" }, "geometry": { "type": "Point", "coordinates": [ -55.40, 29.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "29.20", "LON": "-55.80", "TIME": "09/29/12Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/29/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.80, 29.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "29.50", "LON": "-56.50", "TIME": "09/29/18Z", "WIND": "50", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/29/18Z" }, "geometry": { "type": "Point", "coordinates": [ -56.50, 29.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "29.80", "LON": "-57.10", "TIME": "09/30/00Z", "WIND": "60", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/30/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.10, 29.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "30.10", "LON": "-57.70", "TIME": "09/30/06Z", "WIND": "60", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/30/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.70, 30.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "30.60", "LON": "-58.50", "TIME": "09/30/12Z", "WIND": "65", "PR": "992", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/30/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.50, 30.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "31.30", "LON": "-59.20", "TIME": "09/30/18Z", "WIND": "70", "PR": "989", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "09/30/18Z" }, "geometry": { "type": "Point", "coordinates": [ -59.20, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "32.00", "LON": "-59.80", "TIME": "10/01/00Z", "WIND": "75", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/01/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.80, 32.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "32.80", "LON": "-60.20", "TIME": "10/01/06Z", "WIND": "75", "PR": "985", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/01/06Z" }, "geometry": { "type": "Point", "coordinates": [ -60.20, 32.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "33.80", "LON": "-60.30", "TIME": "10/01/12Z", "WIND": "70", "PR": "986", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/01/12Z" }, "geometry": { "type": "Point", "coordinates": [ -60.30, 33.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "35.20", "LON": "-60.30", "TIME": "10/01/18Z", "WIND": "70", "PR": "987", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/01/18Z" }, "geometry": { "type": "Point", "coordinates": [ -60.30, 35.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "37.20", "LON": "-59.60", "TIME": "10/02/00Z", "WIND": "65", "PR": "988", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/02/00Z" }, "geometry": { "type": "Point", "coordinates": [ -59.60, 37.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "39.80", "LON": "-58.00", "TIME": "10/02/06Z", "WIND": "65", "PR": "989", "STAT": "HURRICANE-1", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/02/06Z" }, "geometry": { "type": "Point", "coordinates": [ -58.00, 39.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "42.50", "LON": "-56.20", "TIME": "10/02/12Z", "WIND": "60", "PR": "990", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/02/12Z" }, "geometry": { "type": "Point", "coordinates": [ -56.20, 42.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "45.50", "LON": "-53.70", "TIME": "10/02/18Z", "WIND": "55", "PR": "995", "STAT": "TROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/02/18Z" }, "geometry": { "type": "Point", "coordinates": [ -53.70, 45.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "47.60", "LON": "-51.00", "TIME": "10/03/00Z", "WIND": "55", "PR": "996", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/03/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.00, 47.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "48.60", "LON": "-49.00", "TIME": "10/03/06Z", "WIND": "45", "PR": "998", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/03/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.00, 48.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "49.50", "LON": "-47.00", "TIME": "10/03/12Z", "WIND": "35", "PR": "1000", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/ISAAC/2006-ISAAC.geojson", "DATES": "10/03/12Z" }, "geometry": { "type": "Point", "coordinates": [ -47.00, 49.50 ] } }
+
+]
+}
