@@ -1,0 +1,129 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": "14.10", "LON": "-39.40", "TIME": "09/03/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/03/18Z" }, "geometry": { "type": "Point", "coordinates": [ -39.40, 14.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "2", "LAT": "14.70", "LON": "-40.00", "TIME": "09/04/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/04/00Z" }, "geometry": { "type": "Point", "coordinates": [ -40.00, 14.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "3", "LAT": "15.40", "LON": "-41.00", "TIME": "09/04/06Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/04/06Z" }, "geometry": { "type": "Point", "coordinates": [ -41.00, 15.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "4", "LAT": "16.00", "LON": "-42.30", "TIME": "09/04/12Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/04/12Z" }, "geometry": { "type": "Point", "coordinates": [ -42.30, 16.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "5", "LAT": "16.40", "LON": "-43.50", "TIME": "09/04/18Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/04/18Z" }, "geometry": { "type": "Point", "coordinates": [ -43.50, 16.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "6", "LAT": "16.60", "LON": "-44.80", "TIME": "09/05/00Z", "WIND": "30", "PR": "1007", "STAT": "TROPICAL,DEPRESSION", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/05/00Z" }, "geometry": { "type": "Point", "coordinates": [ -44.80, 16.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "7", "LAT": "16.80", "LON": "-46.10", "TIME": "09/05/06Z", "WIND": "35", "PR": "1007", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/05/06Z" }, "geometry": { "type": "Point", "coordinates": [ -46.10, 16.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "8", "LAT": "17.00", "LON": "-46.90", "TIME": "09/05/12Z", "WIND": "35", "PR": "1005", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/05/12Z" }, "geometry": { "type": "Point", "coordinates": [ -46.90, 17.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "9", "LAT": "17.30", "LON": "-47.80", "TIME": "09/05/18Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/05/18Z" }, "geometry": { "type": "Point", "coordinates": [ -47.80, 17.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "10", "LAT": "17.60", "LON": "-48.60", "TIME": "09/06/00Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/06/00Z" }, "geometry": { "type": "Point", "coordinates": [ -48.60, 17.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "11", "LAT": "18.10", "LON": "-49.70", "TIME": "09/06/06Z", "WIND": "40", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/06/06Z" }, "geometry": { "type": "Point", "coordinates": [ -49.70, 18.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "12", "LAT": "18.50", "LON": "-50.60", "TIME": "09/06/12Z", "WIND": "45", "PR": "1003", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/06/12Z" }, "geometry": { "type": "Point", "coordinates": [ -50.60, 18.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "13", "LAT": "19.00", "LON": "-51.30", "TIME": "09/06/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/06/18Z" }, "geometry": { "type": "Point", "coordinates": [ -51.30, 19.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "14", "LAT": "19.30", "LON": "-51.90", "TIME": "09/07/00Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/07/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.90, 19.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "15", "LAT": "19.60", "LON": "-52.60", "TIME": "09/07/06Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/07/06Z" }, "geometry": { "type": "Point", "coordinates": [ -52.60, 19.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "16", "LAT": "19.90", "LON": "-53.30", "TIME": "09/07/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/07/12Z" }, "geometry": { "type": "Point", "coordinates": [ -53.30, 19.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "17", "LAT": "20.30", "LON": "-54.30", "TIME": "09/07/18Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/07/18Z" }, "geometry": { "type": "Point", "coordinates": [ -54.30, 20.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "18", "LAT": "20.90", "LON": "-55.70", "TIME": "09/08/00Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/08/00Z" }, "geometry": { "type": "Point", "coordinates": [ -55.70, 20.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "19", "LAT": "21.50", "LON": "-57.10", "TIME": "09/08/06Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/08/06Z" }, "geometry": { "type": "Point", "coordinates": [ -57.10, 21.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "20", "LAT": "21.70", "LON": "-58.80", "TIME": "09/08/12Z", "WIND": "40", "PR": "1002", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/08/12Z" }, "geometry": { "type": "Point", "coordinates": [ -58.80, 21.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "21", "LAT": "21.90", "LON": "-60.10", "TIME": "09/08/18Z", "WIND": "45", "PR": "1000", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/08/18Z" }, "geometry": { "type": "Point", "coordinates": [ -60.10, 21.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "22", "LAT": "22.70", "LON": "-61.00", "TIME": "09/09/00Z", "WIND": "50", "PR": "997", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/09/00Z" }, "geometry": { "type": "Point", "coordinates": [ -61.00, 22.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "23", "LAT": "23.80", "LON": "-62.30", "TIME": "09/09/06Z", "WIND": "50", "PR": "993", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/09/06Z" }, "geometry": { "type": "Point", "coordinates": [ -62.30, 23.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "24", "LAT": "24.40", "LON": "-63.20", "TIME": "09/09/12Z", "WIND": "50", "PR": "992", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/09/12Z" }, "geometry": { "type": "Point", "coordinates": [ -63.20, 24.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "25", "LAT": "25.10", "LON": "-64.00", "TIME": "09/09/18Z", "WIND": "50", "PR": "991", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/09/18Z" }, "geometry": { "type": "Point", "coordinates": [ -64.00, 25.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "26", "LAT": "26.20", "LON": "-64.60", "TIME": "09/10/00Z", "WIND": "60", "PR": "987", "STAT": "TROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/10/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.60, 26.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "27", "LAT": "27.10", "LON": "-65.30", "TIME": "09/10/06Z", "WIND": "70", "PR": "980", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/10/06Z" }, "geometry": { "type": "Point", "coordinates": [ -65.30, 27.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "28", "LAT": "28.10", "LON": "-65.90", "TIME": "09/10/12Z", "WIND": "75", "PR": "978", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/10/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.90, 28.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "29", "LAT": "29.30", "LON": "-66.10", "TIME": "09/10/18Z", "WIND": "80", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/10/18Z" }, "geometry": { "type": "Point", "coordinates": [ -66.10, 29.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "30", "LAT": "30.40", "LON": "-66.20", "TIME": "09/11/00Z", "WIND": "80", "PR": "975", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/11/00Z" }, "geometry": { "type": "Point", "coordinates": [ -66.20, 30.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "31", "LAT": "31.30", "LON": "-66.20", "TIME": "09/11/06Z", "WIND": "70", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/11/06Z" }, "geometry": { "type": "Point", "coordinates": [ -66.20, 31.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "32", "LAT": "32.40", "LON": "-65.70", "TIME": "09/11/12Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/11/12Z" }, "geometry": { "type": "Point", "coordinates": [ -65.70, 32.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "33", "LAT": "33.60", "LON": "-65.00", "TIME": "09/11/18Z", "WIND": "75", "PR": "974", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/11/18Z" }, "geometry": { "type": "Point", "coordinates": [ -65.00, 33.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "34", "LAT": "34.90", "LON": "-64.10", "TIME": "09/12/00Z", "WIND": "70", "PR": "975", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/12/00Z" }, "geometry": { "type": "Point", "coordinates": [ -64.10, 34.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "35", "LAT": "36.30", "LON": "-63.20", "TIME": "09/12/06Z", "WIND": "65", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/12/06Z" }, "geometry": { "type": "Point", "coordinates": [ -63.20, 36.30 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "36", "LAT": "37.40", "LON": "-61.90", "TIME": "09/12/12Z", "WIND": "65", "PR": "976", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/12/12Z" }, "geometry": { "type": "Point", "coordinates": [ -61.90, 37.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "37", "LAT": "38.50", "LON": "-60.20", "TIME": "09/12/18Z", "WIND": "65", "PR": "977", "STAT": "HURRICANE-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/12/18Z" }, "geometry": { "type": "Point", "coordinates": [ -60.20, 38.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "38", "LAT": "40.60", "LON": "-57.90", "TIME": "09/13/00Z", "WIND": "70", "PR": "978", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/13/00Z" }, "geometry": { "type": "Point", "coordinates": [ -57.90, 40.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "39", "LAT": "43.10", "LON": "-56.30", "TIME": "09/13/06Z", "WIND": "70", "PR": "972", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/13/06Z" }, "geometry": { "type": "Point", "coordinates": [ -56.30, 43.10 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "40", "LAT": "45.50", "LON": "-55.60", "TIME": "09/13/12Z", "WIND": "70", "PR": "967", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/13/12Z" }, "geometry": { "type": "Point", "coordinates": [ -55.60, 45.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "41", "LAT": "46.40", "LON": "-54.00", "TIME": "09/13/18Z", "WIND": "70", "PR": "963", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/13/18Z" }, "geometry": { "type": "Point", "coordinates": [ -54.00, 46.40 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "42", "LAT": "47.60", "LON": "-51.30", "TIME": "09/14/00Z", "WIND": "65", "PR": "965", "STAT": "EXTRATROPICAL,STORM-1", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/14/00Z" }, "geometry": { "type": "Point", "coordinates": [ -51.30, 47.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "43", "LAT": "48.60", "LON": "-48.30", "TIME": "09/14/06Z", "WIND": "60", "PR": "967", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/14/06Z" }, "geometry": { "type": "Point", "coordinates": [ -48.30, 48.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "44", "LAT": "49.20", "LON": "-45.20", "TIME": "09/14/12Z", "WIND": "55", "PR": "970", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/14/12Z" }, "geometry": { "type": "Point", "coordinates": [ -45.20, 49.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "45", "LAT": "49.80", "LON": "-42.60", "TIME": "09/14/18Z", "WIND": "50", "PR": "976", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/14/18Z" }, "geometry": { "type": "Point", "coordinates": [ -42.60, 49.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "46", "LAT": "50.00", "LON": "-39.60", "TIME": "09/15/00Z", "WIND": "45", "PR": "981", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/15/00Z" }, "geometry": { "type": "Point", "coordinates": [ -39.60, 50.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "47", "LAT": "49.70", "LON": "-35.80", "TIME": "09/15/06Z", "WIND": "45", "PR": "982", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/15/06Z" }, "geometry": { "type": "Point", "coordinates": [ -35.80, 49.70 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "48", "LAT": "49.50", "LON": "-31.70", "TIME": "09/15/12Z", "WIND": "45", "PR": "984", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/15/12Z" }, "geometry": { "type": "Point", "coordinates": [ -31.70, 49.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "49", "LAT": "49.80", "LON": "-27.50", "TIME": "09/15/18Z", "WIND": "40", "PR": "986", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/15/18Z" }, "geometry": { "type": "Point", "coordinates": [ -27.50, 49.80 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "50", "LAT": "50.60", "LON": "-23.90", "TIME": "09/16/00Z", "WIND": "40", "PR": "987", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/16/00Z" }, "geometry": { "type": "Point", "coordinates": [ -23.90, 50.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "51", "LAT": "52.50", "LON": "-21.00", "TIME": "09/16/06Z", "WIND": "40", "PR": "987", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/16/06Z" }, "geometry": { "type": "Point", "coordinates": [ -21.00, 52.50 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "52", "LAT": "54.60", "LON": "-20.50", "TIME": "09/16/12Z", "WIND": "40", "PR": "985", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/16/12Z" }, "geometry": { "type": "Point", "coordinates": [ -20.50, 54.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "53", "LAT": "56.60", "LON": "-20.50", "TIME": "09/16/18Z", "WIND": "40", "PR": "983", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/16/18Z" }, "geometry": { "type": "Point", "coordinates": [ -20.50, 56.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "54", "LAT": "58.20", "LON": "-20.50", "TIME": "09/17/00Z", "WIND": "40", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/17/00Z" }, "geometry": { "type": "Point", "coordinates": [ -20.50, 58.20 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "55", "LAT": "59.60", "LON": "-20.60", "TIME": "09/17/06Z", "WIND": "40", "PR": "980", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/17/06Z" }, "geometry": { "type": "Point", "coordinates": [ -20.60, 59.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "56", "LAT": "60.90", "LON": "-21.20", "TIME": "09/17/12Z", "WIND": "40", "PR": "979", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/17/12Z" }, "geometry": { "type": "Point", "coordinates": [ -21.20, 60.90 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "57", "LAT": "62.00", "LON": "-22.50", "TIME": "09/17/18Z", "WIND": "45", "PR": "978", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/17/18Z" }, "geometry": { "type": "Point", "coordinates": [ -22.50, 62.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "58", "LAT": "62.60", "LON": "-24.50", "TIME": "09/18/00Z", "WIND": "50", "PR": "976", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/18/00Z" }, "geometry": { "type": "Point", "coordinates": [ -24.50, 62.60 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "59", "LAT": "63.00", "LON": "-26.50", "TIME": "09/18/06Z", "WIND": "50", "PR": "977", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/18/06Z" }, "geometry": { "type": "Point", "coordinates": [ -26.50, 63.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "60", "LAT": "63.00", "LON": "-29.00", "TIME": "09/18/12Z", "WIND": "50", "PR": "978", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/18/12Z" }, "geometry": { "type": "Point", "coordinates": [ -29.00, 63.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "61", "LAT": "63.00", "LON": "-31.40", "TIME": "09/18/18Z", "WIND": "50", "PR": "979", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/18/18Z" }, "geometry": { "type": "Point", "coordinates": [ -31.40, 63.00 ] } }
+,
+{ "type": "Feature", "properties": { "ADV": "62", "LAT": "62.00", "LON": "-34.00", "TIME": "09/19/00Z", "WIND": "50", "PR": "982", "STAT": "EXTRATROPICAL,STORM", "NAME": "2006/FLORENCE/2006-FLORENCE.geojson", "DATES": "09/19/00Z" }, "geometry": { "type": "Point", "coordinates": [ -34.00, 62.00 ] } }
+
+]
+}
